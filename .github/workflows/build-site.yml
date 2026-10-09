@@ -4,9 +4,6 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths:
-      - 'index.html'
-      - '.github/workflows/build-site.yml'
 
 permissions:
   contents: read
