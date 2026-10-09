@@ -48,15 +48,3 @@ jobs:
           git add menus.json translations.json translation-quota.json
           git diff --staged --quiet || git commit -m 'Update lunch menus'
           git push
-      - if: steps.window.outputs.run == 'true'
-        name: Prepare website
-        run: |
-          mkdir -p public_site
-          cp index.html index-*.js index-*.css menus.json translations.json public_site/
-      - if: steps.window.outputs.run == 'true'
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: public_site
-      - if: steps.window.outputs.run == 'true'
-        uses: actions/deploy-pages@v4
-        id: deployment
