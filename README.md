@@ -1,27 +1,17 @@
 # Lund Lunch
 
-Lunch menus in Lund, in Swedish and English.
+Short URL: https://lundlunch.github.io/
 
-Website: https://lundlunch.github.io/
+The GitHub Pages site is a **redirect-only entry point** to the original ChatGPT-hosted Lund Lunch website:
 
-## How it works
+https://lundlunch.bn8mgfhmr7.chatgpt.site/
 
-GitHub Pages publishes the site using two workflows: `.github/workflows/build-site.yml` builds and deploys the website when source files change, and `.github/workflows/update-menus.yml` refreshes the saved menu data and deploys the updated site. Visitors read saved JSON without waiting for restaurant sites. Failed restaurant updates retain the previous menu with a warning.
+Visitors to the GitHub Pages URL are automatically redirected to that address. The browser address bar changes to the ChatGPT-hosted URL.
 
-There is no public manual refresh button on the website. To refresh menus manually, go to **Actions → Update menus → Run workflow**, select `main`, and start the workflow.
+## Deployment
 
-## Schedule
+`.github/workflows/build-site.yml` publishes only `index.html` when the redirect page or its workflow changes. No Vite build is needed.
 
-- **Monday:** every 10 minutes between 06:00 and 11:50 **Europe/Stockholm** time, with a Swedish-local-time check to account for daylight saving time.
-- **Tuesday–Friday:** once daily at **06:00 UTC** (07:00 Swedish winter time / 08:00 Swedish summer time).
-- **Saturday–Sunday:** no scheduled updates.
+`.github/workflows/update-menus.yml` has been retired: scheduled menu scraping and deployment from this repository are disabled. Menu content and its update behavior are now controlled by the original ChatGPT-hosted website, not by this GitHub repository.
 
-GitHub Actions cron uses UTC and scheduled runs may be delayed. A manually dispatched update runs regardless of the Monday time window.
-
-## Development
-
-Edit `App.tsx` and `style.css`, then run `npm install` and `npm run build`. The build uses Vite and `build-site.mjs` to generate `index.html` and matching `index-*.js` / `index-*.css` assets. The **Build and publish website** workflow automatically builds, commits, and deploys these files when relevant source files are pushed to `main`.
-
-`npm run update` fetches menus with Node.js 22 without installing dependencies. The **Update menus** workflow commits menu data and republishes the saved site files; updating menus still requires a GitHub Pages deployment.
-
-Translations use official menus first, saved translations second, and MyMemory for new dishes with a 5,000-character daily limit. **Source status** shows partial failures.
+The previous website source and saved menu files remain in this repository for reference but are not used by the redirect page.
