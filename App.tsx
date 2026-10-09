@@ -17,7 +17,16 @@ export default function Home(){
  const names=weekdays[language];
  const sourceError=(detail:string)=>{const http=detail.match(/HTTP\s*\d+/i)?.[0];return http?t('Restaurangens webbplats svarade med ','The restaurant website returned ')+http:t('Menyn kunde inte hämtas. Försök igen senare.','The menu could not be fetched. Please try again later.');};
  const [current,setCurrent]=useState(weekOf(new Date(initial.updated)));
- async function load(force=false){setBusy(true);setError('');try{const [r,tr]=await Promise.all([fetch('./menus.json',{cache:'no-store'}),fetch('./translations.json',{cache:'no-store'})]);if(!r.ok)throw Error('Unavailable');setData(await r.json());if(tr.ok)setTranslations(await tr.json());}catch{setError('unavailable');}finally{setBusy(false);}}
+ async function load(){setBusy(true);setError('');try{
+  const nonce=Date.now();
+  const base='https://raw.githubusercontent.com/lundlunch/lundlunch.github.io/main/';
+  const [r,tr]=await Promise.all([fetch(base+'menus.json?t='+nonce,{cache:'no-store'}),fetch(base+'translations.json?t='+nonce,{cache:'no-store'})]);
+  if(!r.ok)throw Error('Unavailable');
+  const next=await r.json();
+  if(!Array.isArray(next.restaurants))throw Error('Invalid menu data');
+  setData(next);
+  if(tr.ok)setTranslations(await tr.json());
+ }catch{setError('unavailable');}finally{setBusy(false);}}
  useEffect(()=>{const now=currentDate();setDay(Math.min(Math.max(now.getDay()-1,0),4));setCurrent(weekOf(now));void load();},[]);
  useEffect(()=>{try{const saved=localStorage.getItem('lundlunch-language');if(saved==='en'||saved==='sv')setLanguage(saved);}catch{}},[]);
  useEffect(()=>{document.documentElement.lang=language;},[language]);
@@ -25,7 +34,7 @@ export default function Home(){
  const sortedRestaurants=[...data.restaurants].sort((a,b)=>a.name.localeCompare(b.name,'sv',{sensitivity:'base'}));
  const rows=sortedRestaurants.filter(r=>(r.name+' '+(r.days[day]||[]).join(' ')+' '+(r.days[day]||[]).map((_,i)=>menuDish(r,day,i,language,translations).text).join(' ')).toLocaleLowerCase().includes(query.trim().toLocaleLowerCase()));
  function saveDiagnostics(){const value={updated:data.updated,errors:data.errors,restaurants:data.restaurants.map(r=>({name:r.name,url:r.url,status:r.status,fetched:r.fetched,error:r.error,fetchMs:r.fetchMs}))};const url=URL.createObjectURL(new Blob([JSON.stringify(value,null,2)],{type:'application/json'}));const a=document.createElement('a');a.href=url;a.download='lund-lunch-status.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}
- return <main><header><h1>Lund Lunch</h1><div className="header-actions"><div className="language-switch" role="group" aria-label={t('Menyspråk','Menu language')}><button className={language==='sv'?'active':''} aria-pressed={language==='sv'} onClick={()=>chooseLanguage('sv')}>Svenska</button><button className={language==='en'?'active':''} aria-pressed={language==='en'} onClick={()=>chooseLanguage('en')}>English</button></div></div></header>
+ return <main><header><h1>Lund Lunch</h1><div className="header-actions"><button type="button" disabled={busy} onClick={()=>void load()} aria-label={t('Uppdatera menyer','Refresh menus')}>{busy?t('Läser in…','Loading…'):t('↻ Uppdatera menyer','↻ Refresh menus')}</button><div className="language-switch" role="group" aria-label={t('Menyspråk','Menu language')}><button className={language==='sv'?'active':''} aria-pressed={language==='sv'} onClick={()=>chooseLanguage('sv')}>Svenska</button><button className={language==='en'?'active':''} aria-pressed={language==='en'} onClick={()=>chooseLanguage('en')}>English</button></div></div></header>
  <p className="status" aria-live="polite">{t('Vecka','Week')} {current.week}, {current.year} · {busy?t('Läser in menyer…','Loading menus…'):t('Senast kontrollerat: ','Last checked: ')+stamp(data.updated,language)}{data.refreshing?t(' · En uppdatering pågår.',' · An update is in progress.'):''}</p>
  {(error||data.serviceError)&&<p className="warn" role="status">{error?t('Menyerna kunde inte hämtas. Försök igen.','The menus could not be loaded. Please try again.'):t('Liveuppdateringar är tillfälligt otillgängliga. Visar senast sparade menyer.','Live updates are temporarily unavailable. Showing the last saved menus.')}</p>}
  <nav aria-label={t('Välj veckodag','Choose weekday')}>{names.map((name,i)=><button key={name} className={day===i?'active':''} aria-pressed={day===i} onClick={()=>setDay(i)}>{name}</button>)}</nav>
