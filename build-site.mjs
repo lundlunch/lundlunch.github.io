@@ -1,0 +1,1 @@
+import{readFile,writeFile,copyFile,readdir}from'node:fs/promises';for(const f of await readdir('build/assets'))await copyFile('build/assets/'+f,f);await writeFile('index.html',(await readFile('build/dev.html','utf8')).replaceAll('./assets/','./'));

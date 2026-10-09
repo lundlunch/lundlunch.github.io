@@ -1,0 +1,576 @@
+{
+  "version": 11,
+  "restaurants": [
+    {
+      "name": "Bricks Eatery",
+      "url": "https://brickseatery.se/lunch",
+      "menu_url": "https://brickseatery.se/lunch",
+      "days": [
+        [
+          "Green: Fejoada, mustig svartböngryta från brasilien med ris koriander och creme fraiche",
+          "Local: Stekt Sremska med potatismos, räksallad, ajvar, rostad lök och picklad lök",
+          "World wide: Pad krapow- thailändsk färswok på kyckling med ostronsås, stekt ägg, thaibasilika, gröna bönor, vitlök och chili"
+        ],
+        [
+          "Green: Vegetarisk pad thai med bakat ägg, tofu, grönsaker, lime, jordnötter och chili",
+          "Local: Timjanstekt fläskytterfilé med svampsås, potatisstomp, spetskål, äpple, dragon och blomkål",
+          "Pizza: Mozzarella, creme fraice, griskind, pecorino och svartpeppar"
+        ],
+        [
+          "Green: Indisk grönsakscurry med blomkål, kikärtor, potatis, grädde, papadums och koriander",
+          "Local: Brynt kolja med äggsås, morot, ärtor, krasse, dill och kokt potatis",
+          "World wide: Kycklingenchiladas med ris, salsa, nachos och jalapenomajonnäs",
+          "Pizza: Mozzarella, creme fraice, griskind, pecorino och svartpeppar"
+        ],
+        [
+          "Green: Grönsak/spenatlasagne med romansallad, tomat, basilika och lagrad ost",
+          "Local: Oktoberfest- Senapsglaserad fläsksida och bratwurst med surkål, potatismos, löksky och persilja",
+          "Pizza: Mozzarella, creme fraice, griskind, pecorino och svartpeppar",
+          "Äppelpaj: Vi bjuder våra lunchgäster på äppelpaj med grädde"
+        ],
+        [
+          "Green: Stekt matvete med hummus, rostade kikärtor, libabröd och harissa majonnäs",
+          "Local: Wallenbergare med klassiska tillbehör",
+          "World wide: Kyckling med hoisinsås, ris, rostad spetskål, jordnötter och chilivinägrett"
+        ]
+      ],
+      "week": 41,
+      "year": null,
+      "date_label": null,
+      "permanent": false,
+      "price": "120:-",
+      "source": "Restaurant website",
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-05T10:13:04.735Z",
+      "coffeeIncluded": true,
+      "originalLanguage": "sv"
+    },
+    {
+      "name": "Cafe Bryggan",
+      "url": "https://mersmak.me/vara-stallen/bryggan/",
+      "menu_url": "https://mersmak.me/vara-stallen/bryggan/",
+      "days": [
+        [
+          "Champinjoncrepes med rödbetor, kapris, picklad lök, persiljecréme och hasselnötter",
+          "Fläskstek med rödkål, äpplekompott, kokt potatis och skysås"
+        ],
+        [
+          "Rotfruktsplätt med marinerad gråärta, lingon, spenat, skirat smör och rostade frön",
+          "Pocherad sejfilé med currysås, spetskål, koriander, mangochutney & basmatiris"
+        ],
+        [
+          "Wokade sojastrips med grönsaker, jasminris, korianderpicklad salladskål, soja-chilimayo och rostade noriblad",
+          "Kycklinglårfilé ”coq au vin” med bacon, champinjoner, potatisstomp och hackad persilja"
+        ],
+        [
+          "Gulasch på sojafärs med kokt ris, spetskålsallad, citronyoghurt och rostad mandel",
+          "Kalvfärslimpa med kokt potatis, lingon, rosmarinbakad morot och gräddsås"
+        ],
+        [
+          "Bakad blomkål med ostsås, örtrostad potatis, picklad rödlök, & saltrostade pumpafrön",
+          "Pulled pork med rostad potatis, honung-chilisås, tomat-koriandersallad och jalapenos"
+        ]
+      ],
+      "week": 41,
+      "year": null,
+      "date_label": null,
+      "permanent": false,
+      "price": "119 kr · Lunch card 110 kr · Student 105 kr",
+      "source": "Restaurant website",
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-05T10:13:05.536Z",
+      "coffeeIncluded": true,
+      "originalLanguage": "sv"
+    },
+    {
+      "name": "Eatery Lund",
+      "url": "https://eatery.se/anlaggningar/lund",
+      "menu_url": "https://menu.pej.io/ea/menus/lund",
+      "days": [
+        [
+          "Friterat fläsk i sötsur sås — mango, chili och lime, soja- och sesamris och böngroddar",
+          "Bakad sej — ägg, räkor och dill, gräslökssås och smörslungad potatis",
+          "Halloumistroganoff — smetana, saltgurka och ris"
+        ],
+        [
+          "Peppar- och timjanbakad kycklingfilé — krämig dijonsås, zucchini och rostad potatis",
+          "Stekt kummel — hollandaisesås, ugnsrostade grönsaker och krossad potatis",
+          "Bakade betor — getost, lins- och matvetesallad, brynt hasselnötssmör och syrad grädde",
+          "Sweet Tuesday — – vi bjuder på något sött till kaffet! 🍬"
+        ],
+        [
+          "Kryddiga köttbullar — tomat- och basilikasås, rostad fänkålssallad och linguine med pesto",
+          "Fransk fisk- och skaldjursgryta — tomat, fänkål och saffransaioli",
+          "Röd curry med Oumph! — kokosmjölk, koriander, böngroddar och jasminris"
+        ],
+        [
+          "Nattbakad karré — auberginecaponata, löksky och dragon- och timjanpotatis",
+          "Vitvinspocherad kummel — sandefjordsås, grillade grönsaker och slungad potatis med smör och citron",
+          "Blomkålssoppa — linser, rostad rotselleri och körvelkräm",
+          "Pancake Thursday — – vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt! 🥞"
+        ],
+        [
+          "Club sandwich — kyckling, bacon, tomat, pommes frites och tryffelmajonnäs",
+          "Honungs-, ingefärs- och sojabakad sej — picklad kål, sesam- och jordnötscrunch, stark majonnäs och jasminris",
+          "Vegobullar i tomatsås — lagrad ost, citron- och chilimarinerad zucchini och pangrattato"
+        ]
+      ],
+      "year": 2026,
+      "week": 41,
+      "price": "139 kr · Early bird 132 kr (11:00–11:30) · Eatery card: 10% off",
+      "permanent": false,
+      "source": "Official Pej menu",
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-05T10:13:06.707Z",
+      "coffeeIncluded": true,
+      "originalLanguage": "sv"
+    },
+    {
+      "name": "Höjdpunkten / Smaka på Kina",
+      "url": "https://www.smakapakina.se/meny",
+      "menu_url": "https://www.smakapakina.se/meny",
+      "days": [
+        [
+          "1. General Tsos kyckling (左宗棠鸡)",
+          "2. Fläsk med tofu stick (腐竹烧肉)",
+          "3. Isbergsallad med vego/ostronsås (蚝油生菜)"
+        ],
+        [
+          "1. Wokade kyckling med chili (双椒鸡丁)",
+          "2. Kamben med svartsojabönsås (豉汁排骨)",
+          "3. Snabbstekt blomkål med tomatsås (番茄花菜)"
+        ],
+        [
+          "1. Rött bräserat sidfläsk (红烧肉)",
+          "2. Kyckling med chili olja sås (口水鸡)",
+          "3. Majs med pinjenötter (松仁玉米)",
+          "4. Snabbstekt zucchini (素炒西葫芦)"
+        ],
+        [
+          "1. Stekt kokt sidfläsk (回锅肉)",
+          "2. Tre koppar kyckling (三杯鸡)",
+          "3. Snabbstekt kinakål med skogssvamp (黑白菜)"
+        ],
+        [
+          "1. Bräserade fläsklägg (冰糖肘子)",
+          "2. Vitlök krispig kycklingvingar (蒜香鸡翅）",
+          "3. Wokade aubergin ( 烧茄子)"
+        ]
+      ],
+      "week": 41,
+      "year": null,
+      "date_label": "Måndag, 5 Oct",
+      "permanent": false,
+      "price": "110 kr",
+      "source": "Restaurant website",
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-05T10:57:20.497Z",
+      "coffeeIncluded": false,
+      "originalLanguage": "sv"
+    },
+    {
+      "name": "Ideon Edison",
+      "url": "https://restaurangedison.se/lunch/",
+      "menu_url": "https://restaurangedison.se/lunch/",
+      "days": [
+        [
+          "Green: Tortellini/ostsås/rostade grönsaker",
+          "Local: Baconlimpa/pepparsås/svart vinbärsgele",
+          "World Wide: Chicken tandoori/mangoraita/ris/chilipickles"
+        ],
+        [
+          "Green: Rostad Butternut/chilihonung/halloumi/Ras El Hanout",
+          "Local: Panerad torsk/remoulad/ärtor",
+          "World Wide: BaoBun/fläsksida/picklad rättika/sojamajo"
+        ],
+        [
+          "Green: Zucchinifritters/krämig majs/vitlöksrostad potatis",
+          "Local: Grillad karré/pumpabea/potatishalva",
+          "World Wide: Pulled beef/svart vitlök/svartrot/persilja"
+        ],
+        [
+          "Green: Spenatlasagne/svamp/rotselleri/ruccola",
+          "Local: Ärtsoppa/fläsk/senap/pannkaka",
+          "World Wide: Fish´n Chips/tartarsås/mushypeas"
+        ],
+        [
+          "Green: Panerad aubergine/hummus/couscous/granatäpple",
+          "Local: Glacerade revben/brysselkål/kanelsky",
+          "World Wide: Chicken Waffle/lönnsirap/chipotlemajjo/krispig kål"
+        ]
+      ],
+      "week": 41,
+      "year": null,
+      "date_label": null,
+      "permanent": false,
+      "price": "120:-",
+      "source": "Restaurant website",
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-05T10:13:04.738Z",
+      "coffeeIncluded": false,
+      "originalLanguage": "sv"
+    },
+    {
+      "name": "Kantin",
+      "url": "https://www.kantinlund.se/",
+      "menu_url": "https://www.kantinlund.se/",
+      "days": [
+        [
+          "Nattbakad kycklingklubba – rostad svamp – sidfläsk – lök – sky – potatis",
+          "Veckans vegetariska: Rostad pumpa – fetaostkräm – bönor – frön – pickles – hjärtsallad – brynt sojasmör",
+          "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
+        ],
+        [
+          "Fläskschnitzel – jalapeñosmör – basilikasky – spenat & bönsallad – rostad potatis",
+          "Veckans vegetariska: Rostad pumpa – fetaostkräm – bönor – frön – pickles – hjärtsallad – brynt sojasmör",
+          "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
+        ],
+        [
+          "Sticky bbq pork – chili & limeaioli – dillpicklad gurka – nachokrisp – bbq-sås – bakad tomat – blandris",
+          "Veckans vegetariska: Rostad pumpa – fetaostkräm – bönor – frön – pickles – hjärtsallad – brynt sojasmör",
+          "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
+        ],
+        [
+          "Oxtartar – sesammajo – ponzuvinigrette – rostad skocka – rättika – räkchips – koriander",
+          "Veckans vegetariska: Rostad pumpa – fetaostkräm – bönor – frön – pickles – hjärtsallad – brynt sojasmör",
+          "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
+        ],
+        [
+          "Hangersteak – bearnaisemajo – bönor – tomat – sky – krispig lök – potatis",
+          "Veckans vegetariska: Rostad pumpa – fetaostkräm – bönor – frön – pickles – hjärtsallad – brynt sojasmör",
+          "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
+        ]
+      ],
+      "week": 41,
+      "year": null,
+      "date_label": "Meny 5/10 – 9/10",
+      "permanent": false,
+      "price": null,
+      "source": "Restaurant website",
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-05T10:13:03.078Z",
+      "coffeeIncluded": true,
+      "originalLanguage": "sv"
+    },
+    {
+      "name": "Medicon Village / Inspira",
+      "url": "https://restauranginspira.se/",
+      "menu_url": "https://restauranginspira.se/",
+      "days": [
+        [
+          "Green | Pasta med halloumi i krämig tomatsås ruccola & oliver",
+          "Local | Rostad kyckling potatisgratäng | rödvinssky & haricotsverts",
+          "World | Inspiras Grillade Pluma Choronsås | rostad potatis | oliv & fänkålstapenade",
+          "Asia | Kalkonfärsbiff kimchinudlar | morotssallad & spicy mayo"
+        ],
+        [
+          "Green | Okonomiyaki tonkatsusås | mayo | sesambakad broccoli & groddar",
+          "Local | Fiskfärsbiff tartarsås | kokt potatis | ärtor | fänkålssallad & citron",
+          "World | Mexikansk gryta på fläskbog ris | Pico de Gallo | nachos & färskost",
+          "Asia | Kalkonfärsbiff kimchinudlar | morotssallad & spicy mayo"
+        ],
+        [
+          "Green | Parmesanbakad aubergine sallad på bakad tomat | mozzarella | dinkelvete & örtcrème",
+          "Local | Lammfärsbiff pumpa | getost | rosmarinsky & rostad potatis",
+          "World | Mexikansk gryta på fläskbog ris | Pico de Gallo | nachos & färskost",
+          "Asia | Tonkatsu kålsallad | jasminris | tonkatsusås & Dijonmajov"
+        ],
+        [
+          "Green | Kejsarhatt | citronsky & gräddkokt grönkål eldad getost & rostade valnötter",
+          "Local | Pytt i panna stekt ägg & rödbetor",
+          "Asia | Tonkatsu kålsallad | jasminris | tonkatsusås & Dijonmajov",
+          "World | Fläsksida & grön tomat syrad silverlök | jalapeñocrème & rostad potatis"
+        ],
+        [
+          "Green | Rödbetshummus & bakad kål granatäpple | dukha & tahinisås",
+          "Local | Helstekt kotlett & Portvinsstuvade champinjoner rostad potatis & broccoli",
+          "Asia | Kyckling Thaicurry jasminris | blomkål | groddar & koriander",
+          "World | Fläsksida & grön tomat syrad silverlök | jalapeñocrème & rostad potatis"
+        ]
+      ],
+      "week": 41,
+      "year": null,
+      "date_label": null,
+      "permanent": false,
+      "price": null,
+      "source": "Restaurant website",
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-05T10:13:05.405Z",
+      "coffeeIncluded": false,
+      "originalLanguage": "sv"
+    },
+    {
+      "name": "Salads and Smoothies",
+      "url": "https://saladsandsmoothies.se/meny/",
+      "menu_url": "https://saladsandsmoothies.se/meny/",
+      "days": [
+        [
+          "HERBAL HUMMUS (VEGGIE SALAD) Säsongens salladsblad, matvete, edamamebönor, svarvade rödbetor, picklad rödkål, örthummus, gurka, fetaost, oliver, rostade pumpafrön. Dressing: Granatäpple 85/105 KR",
+          "SWEET POTATO FALAFEL (VEGGIE SALAD VARM) Säsongens salladsblad, quinoamix, säsongens kål, picklad morot,blomkål, svarvade rödbetor, äpple, sötpotatisfalafel, örthummus, rostade pumpafrön. Dressing: Granatäpple 115 KR",
+          "VEGGIE BEETROOT (VEGGIE SALAD VARM) Säsongens salladsblad, svart ris, säsongens kål, picklad morot, blomkål, rödbets- och quinoabiff, färsk koriander, rostade cashewnötter. Dressing: Shichimi 115 KR",
+          "GREEN GARDEN (VEGGIE SALAD) Säsongens salladsblad, svart ris, säsongens kål, babyspenat,örthummus, äpple, picklad rödlök, edamamebönor, avokado, saltrostad mandel, rostade pumpafrön. Dressing: Mango/chili 85/105 KR",
+          "SHRIMPCHI (SEAFOOD SALAD) Säsongens salladsblad, svart ris, hemgjord kimchi, blomkål, picklad morot, edamamebönor, handskalade räkor (MSC-märkta), koriander, rostade cashewnötter. Dressing: Shichimi 105/125 KR",
+          "JAPANESE SHRIMP (SEAFOOD SALAD) Säsongens salladsblad, glasnudlar, edamamebönor, gurka, ingefärsbroccoli, picklad rödkål, handskalade räkor (MSC-märkta), blomkål, koriander, rostade cashewnötter. Dressing: Miso-soja 105/125 KR",
+          "SMOKEY SALMON (SEAFOOD SALAD) Säsongens salladsblad, quinoamix, citronklyfta, säsongens kål, blomkål, picklad rödlök, rädisa, äpple, vedugnsrökt lax, saltrostad mandel. Dressing: Pepparrot 105/125 KR",
+          "SHRIMP AVOCADO (SEAFOOD SALAD) Säsongens salladsblad, svart ris, citronklyfta, gurka, ägghalva, picklad rödlök, handskalade räkor (MSC-märkta), avokado, glutenfria krutonger. Dressing: Dill & citron 105/125 KR",
+          "CHICKEN CAESAR (CHICKEN SALAD) Säsongens salladsblad, matvete, babyspenat, kycklingfilé, bacon, grana padano, picklad rödlök, glutenfria krutonger. Dressing: Caesar 100/120 KR",
+          "CHICKEN CHEVRE (CHICKEN SALAD) Säsongens salladsblad, quinoamix, svarvade rödbetor, kycklingfilé, getost, äpple, rädisa, valnötter. Dressing: Rosmarin & honung. 100/120 KR",
+          "MANGO AVOCADO (CHICKEN SALAD) Säsongens salladsblad, svart ris, babyspenat, kycklingfilé, mango, picklad rödkål, avokado, rostade pumpafrön, sesamfrömix. Dressing: Mango/chili 100/120 KR",
+          "POKÉ TUNA Säsongens salladsblad, svart ris, edamamebönor, blomkål, picklad rödlök, ingefärsbroccoli, mango, marinerad tonfisk, koriander, rostade pumpafrön. Dressing: Shichimi 135 KR",
+          "UMAMI GINGER TUNA Svart ris, babyspenat, avokado, gurka, picklad rödkål, hemgjord kimchi, syltad ingefära, blomkål, marinerad tonfisk, kikärtor, sesamfrömix. Dressing: Shichimi 135 KR",
+          "HIGHTIDE TUNA Säsongens salladsblad, glasnudlar, edamamebönor, gurka, ingefärsbroccoli, inlagd ingefära, picklad rödkål, marinerad tonfisk, sesamfrömix. Dressing: Miso-soja 135 KR",
+          "VEGGIE BEETROOT (VARM) Tortillabröd, säsongens salladsblad, säsongens kål, picklad morot, blomkål, rödbets- och quinoabiff, färsk koriander, rostade cashewnötter. Dressing: Shichimi 95 KR",
+          "SHRIMP AVOCADO Tortillabröd, säsongens salladsblad, gurka, ägghalva, picklad rödlök, handskalade räkor (MSC-märkta), avokado, glutenfria krutonger. Dressing: Dill & citron 95 KR",
+          "SMOKEY SALMON Tortillabröd, säsongens salladsblad, säsongens kål, blomkål, picklad rödlök, rädisa, vedugnsrökt lax, äpple, saltrostad mandel. Dressing: Pepparrot 95 KR",
+          "CHICKEN CAESAR (VARM) Tortillabröd, säsongens salladsblad, babyspenat, kycklingfilé, bacon, grana padano, picklad rödlök. Dressing: Caesar 95 KR",
+          "SWEET POTATO FALAFEL (VARM) Tortillabröd, örthummus, säsongens salladsblad, säsongens kål, picklad morot, blomkål, svarvade rödbetor, äpple, sötpotatisfalafel, rostade pumpafrön. Dressing: Granatäpple 95 KR"
+        ],
+        [
+          "HERBAL HUMMUS (VEGGIE SALAD) Säsongens salladsblad, matvete, edamamebönor, svarvade rödbetor, picklad rödkål, örthummus, gurka, fetaost, oliver, rostade pumpafrön. Dressing: Granatäpple 85/105 KR",
+          "SWEET POTATO FALAFEL (VEGGIE SALAD VARM) Säsongens salladsblad, quinoamix, säsongens kål, picklad morot,blomkål, svarvade rödbetor, äpple, sötpotatisfalafel, örthummus, rostade pumpafrön. Dressing: Granatäpple 115 KR",
+          "VEGGIE BEETROOT (VEGGIE SALAD VARM) Säsongens salladsblad, svart ris, säsongens kål, picklad morot, blomkål, rödbets- och quinoabiff, färsk koriander, rostade cashewnötter. Dressing: Shichimi 115 KR",
+          "GREEN GARDEN (VEGGIE SALAD) Säsongens salladsblad, svart ris, säsongens kål, babyspenat,örthummus, äpple, picklad rödlök, edamamebönor, avokado, saltrostad mandel, rostade pumpafrön. Dressing: Mango/chili 85/105 KR",
+          "SHRIMPCHI (SEAFOOD SALAD) Säsongens salladsblad, svart ris, hemgjord kimchi, blomkål, picklad morot, edamamebönor, handskalade räkor (MSC-märkta), koriander, rostade cashewnötter. Dressing: Shichimi 105/125 KR",
+          "JAPANESE SHRIMP (SEAFOOD SALAD) Säsongens salladsblad, glasnudlar, edamamebönor, gurka, ingefärsbroccoli, picklad rödkål, handskalade räkor (MSC-märkta), blomkål, koriander, rostade cashewnötter. Dressing: Miso-soja 105/125 KR",
+          "SMOKEY SALMON (SEAFOOD SALAD) Säsongens salladsblad, quinoamix, citronklyfta, säsongens kål, blomkål, picklad rödlök, rädisa, äpple, vedugnsrökt lax, saltrostad mandel. Dressing: Pepparrot 105/125 KR",
+          "SHRIMP AVOCADO (SEAFOOD SALAD) Säsongens salladsblad, svart ris, citronklyfta, gurka, ägghalva, picklad rödlök, handskalade räkor (MSC-märkta), avokado, glutenfria krutonger. Dressing: Dill & citron 105/125 KR",
+          "CHICKEN CAESAR (CHICKEN SALAD) Säsongens salladsblad, matvete, babyspenat, kycklingfilé, bacon, grana padano, picklad rödlök, glutenfria krutonger. Dressing: Caesar 100/120 KR",
+          "CHICKEN CHEVRE (CHICKEN SALAD) Säsongens salladsblad, quinoamix, svarvade rödbetor, kycklingfilé, getost, äpple, rädisa, valnötter. Dressing: Rosmarin & honung. 100/120 KR",
+          "MANGO AVOCADO (CHICKEN SALAD) Säsongens salladsblad, svart ris, babyspenat, kycklingfilé, mango, picklad rödkål, avokado, rostade pumpafrön, sesamfrömix. Dressing: Mango/chili 100/120 KR",
+          "POKÉ TUNA Säsongens salladsblad, svart ris, edamamebönor, blomkål, picklad rödlök, ingefärsbroccoli, mango, marinerad tonfisk, koriander, rostade pumpafrön. Dressing: Shichimi 135 KR",
+          "UMAMI GINGER TUNA Svart ris, babyspenat, avokado, gurka, picklad rödkål, hemgjord kimchi, syltad ingefära, blomkål, marinerad tonfisk, kikärtor, sesamfrömix. Dressing: Shichimi 135 KR",
+          "HIGHTIDE TUNA Säsongens salladsblad, glasnudlar, edamamebönor, gurka, ingefärsbroccoli, inlagd ingefära, picklad rödkål, marinerad tonfisk, sesamfrömix. Dressing: Miso-soja 135 KR",
+          "VEGGIE BEETROOT (VARM) Tortillabröd, säsongens salladsblad, säsongens kål, picklad morot, blomkål, rödbets- och quinoabiff, färsk koriander, rostade cashewnötter. Dressing: Shichimi 95 KR",
+          "SHRIMP AVOCADO Tortillabröd, säsongens salladsblad, gurka, ägghalva, picklad rödlök, handskalade räkor (MSC-märkta), avokado, glutenfria krutonger. Dressing: Dill & citron 95 KR",
+          "SMOKEY SALMON Tortillabröd, säsongens salladsblad, säsongens kål, blomkål, picklad rödlök, rädisa, vedugnsrökt lax, äpple, saltrostad mandel. Dressing: Pepparrot 95 KR",
+          "CHICKEN CAESAR (VARM) Tortillabröd, säsongens salladsblad, babyspenat, kycklingfilé, bacon, grana padano, picklad rödlök. Dressing: Caesar 95 KR",
+          "SWEET POTATO FALAFEL (VARM) Tortillabröd, örthummus, säsongens salladsblad, säsongens kål, picklad morot, blomkål, svarvade rödbetor, äpple, sötpotatisfalafel, rostade pumpafrön. Dressing: Granatäpple 95 KR"
+        ],
+        [
+          "HERBAL HUMMUS (VEGGIE SALAD) Säsongens salladsblad, matvete, edamamebönor, svarvade rödbetor, picklad rödkål, örthummus, gurka, fetaost, oliver, rostade pumpafrön. Dressing: Granatäpple 85/105 KR",
+          "SWEET POTATO FALAFEL (VEGGIE SALAD VARM) Säsongens salladsblad, quinoamix, säsongens kål, picklad morot,blomkål, svarvade rödbetor, äpple, sötpotatisfalafel, örthummus, rostade pumpafrön. Dressing: Granatäpple 115 KR",
+          "VEGGIE BEETROOT (VEGGIE SALAD VARM) Säsongens salladsblad, svart ris, säsongens kål, picklad morot, blomkål, rödbets- och quinoabiff, färsk koriander, rostade cashewnötter. Dressing: Shichimi 115 KR",
+          "GREEN GARDEN (VEGGIE SALAD) Säsongens salladsblad, svart ris, säsongens kål, babyspenat,örthummus, äpple, picklad rödlök, edamamebönor, avokado, saltrostad mandel, rostade pumpafrön. Dressing: Mango/chili 85/105 KR",
+          "SHRIMPCHI (SEAFOOD SALAD) Säsongens salladsblad, svart ris, hemgjord kimchi, blomkål, picklad morot, edamamebönor, handskalade räkor (MSC-märkta), koriander, rostade cashewnötter. Dressing: Shichimi 105/125 KR",
+          "JAPANESE SHRIMP (SEAFOOD SALAD) Säsongens salladsblad, glasnudlar, edamamebönor, gurka, ingefärsbroccoli, picklad rödkål, handskalade räkor (MSC-märkta), blomkål, koriander, rostade cashewnötter. Dressing: Miso-soja 105/125 KR",
+          "SMOKEY SALMON (SEAFOOD SALAD) Säsongens salladsblad, quinoamix, citronklyfta, säsongens kål, blomkål, picklad rödlök, rädisa, äpple, vedugnsrökt lax, saltrostad mandel. Dressing: Pepparrot 105/125 KR",
+          "SHRIMP AVOCADO (SEAFOOD SALAD) Säsongens salladsblad, svart ris, citronklyfta, gurka, ägghalva, picklad rödlök, handskalade räkor (MSC-märkta), avokado, glutenfria krutonger. Dressing: Dill & citron 105/125 KR",
+          "CHICKEN CAESAR (CHICKEN SALAD) Säsongens salladsblad, matvete, babyspenat, kycklingfilé, bacon, grana padano, picklad rödlök, glutenfria krutonger. Dressing: Caesar 100/120 KR",
+          "CHICKEN CHEVRE (CHICKEN SALAD) Säsongens salladsblad, quinoamix, svarvade rödbetor, kycklingfilé, getost, äpple, rädisa, valnötter. Dressing: Rosmarin & honung. 100/120 KR",
+          "MANGO AVOCADO (CHICKEN SALAD) Säsongens salladsblad, svart ris, babyspenat, kycklingfilé, mango, picklad rödkål, avokado, rostade pumpafrön, sesamfrömix. Dressing: Mango/chili 100/120 KR",
+          "POKÉ TUNA Säsongens salladsblad, svart ris, edamamebönor, blomkål, picklad rödlök, ingefärsbroccoli, mango, marinerad tonfisk, koriander, rostade pumpafrön. Dressing: Shichimi 135 KR",
+          "UMAMI GINGER TUNA Svart ris, babyspenat, avokado, gurka, picklad rödkål, hemgjord kimchi, syltad ingefära, blomkål, marinerad tonfisk, kikärtor, sesamfrömix. Dressing: Shichimi 135 KR",
+          "HIGHTIDE TUNA Säsongens salladsblad, glasnudlar, edamamebönor, gurka, ingefärsbroccoli, inlagd ingefära, picklad rödkål, marinerad tonfisk, sesamfrömix. Dressing: Miso-soja 135 KR",
+          "VEGGIE BEETROOT (VARM) Tortillabröd, säsongens salladsblad, säsongens kål, picklad morot, blomkål, rödbets- och quinoabiff, färsk koriander, rostade cashewnötter. Dressing: Shichimi 95 KR",
+          "SHRIMP AVOCADO Tortillabröd, säsongens salladsblad, gurka, ägghalva, picklad rödlök, handskalade räkor (MSC-märkta), avokado, glutenfria krutonger. Dressing: Dill & citron 95 KR",
+          "SMOKEY SALMON Tortillabröd, säsongens salladsblad, säsongens kål, blomkål, picklad rödlök, rädisa, vedugnsrökt lax, äpple, saltrostad mandel. Dressing: Pepparrot 95 KR",
+          "CHICKEN CAESAR (VARM) Tortillabröd, säsongens salladsblad, babyspenat, kycklingfilé, bacon, grana padano, picklad rödlök. Dressing: Caesar 95 KR",
+          "SWEET POTATO FALAFEL (VARM) Tortillabröd, örthummus, säsongens salladsblad, säsongens kål, picklad morot, blomkål, svarvade rödbetor, äpple, sötpotatisfalafel, rostade pumpafrön. Dressing: Granatäpple 95 KR"
+        ],
+        [
+          "HERBAL HUMMUS (VEGGIE SALAD) Säsongens salladsblad, matvete, edamamebönor, svarvade rödbetor, picklad rödkål, örthummus, gurka, fetaost, oliver, rostade pumpafrön. Dressing: Granatäpple 85/105 KR",
+          "SWEET POTATO FALAFEL (VEGGIE SALAD VARM) Säsongens salladsblad, quinoamix, säsongens kål, picklad morot,blomkål, svarvade rödbetor, äpple, sötpotatisfalafel, örthummus, rostade pumpafrön. Dressing: Granatäpple 115 KR",
+          "VEGGIE BEETROOT (VEGGIE SALAD VARM) Säsongens salladsblad, svart ris, säsongens kål, picklad morot, blomkål, rödbets- och quinoabiff, färsk koriander, rostade cashewnötter. Dressing: Shichimi 115 KR",
+          "GREEN GARDEN (VEGGIE SALAD) Säsongens salladsblad, svart ris, säsongens kål, babyspenat,örthummus, äpple, picklad rödlök, edamamebönor, avokado, saltrostad mandel, rostade pumpafrön. Dressing: Mango/chili 85/105 KR",
+          "SHRIMPCHI (SEAFOOD SALAD) Säsongens salladsblad, svart ris, hemgjord kimchi, blomkål, picklad morot, edamamebönor, handskalade räkor (MSC-märkta), koriander, rostade cashewnötter. Dressing: Shichimi 105/125 KR",
+          "JAPANESE SHRIMP (SEAFOOD SALAD) Säsongens salladsblad, glasnudlar, edamamebönor, gurka, ingefärsbroccoli, picklad rödkål, handskalade räkor (MSC-märkta), blomkål, koriander, rostade cashewnötter. Dressing: Miso-soja 105/125 KR",
+          "SMOKEY SALMON (SEAFOOD SALAD) Säsongens salladsblad, quinoamix, citronklyfta, säsongens kål, blomkål, picklad rödlök, rädisa, äpple, vedugnsrökt lax, saltrostad mandel. Dressing: Pepparrot 105/125 KR",
+          "SHRIMP AVOCADO (SEAFOOD SALAD) Säsongens salladsblad, svart ris, citronklyfta, gurka, ägghalva, picklad rödlök, handskalade räkor (MSC-märkta), avokado, glutenfria krutonger. Dressing: Dill & citron 105/125 KR",
+          "CHICKEN CAESAR (CHICKEN SALAD) Säsongens salladsblad, matvete, babyspenat, kycklingfilé, bacon, grana padano, picklad rödlök, glutenfria krutonger. Dressing: Caesar 100/120 KR",
+          "CHICKEN CHEVRE (CHICKEN SALAD) Säsongens salladsblad, quinoamix, svarvade rödbetor, kycklingfilé, getost, äpple, rädisa, valnötter. Dressing: Rosmarin & honung. 100/120 KR",
+          "MANGO AVOCADO (CHICKEN SALAD) Säsongens salladsblad, svart ris, babyspenat, kycklingfilé, mango, picklad rödkål, avokado, rostade pumpafrön, sesamfrömix. Dressing: Mango/chili 100/120 KR",
+          "POKÉ TUNA Säsongens salladsblad, svart ris, edamamebönor, blomkål, picklad rödlök, ingefärsbroccoli, mango, marinerad tonfisk, koriander, rostade pumpafrön. Dressing: Shichimi 135 KR",
+          "UMAMI GINGER TUNA Svart ris, babyspenat, avokado, gurka, picklad rödkål, hemgjord kimchi, syltad ingefära, blomkål, marinerad tonfisk, kikärtor, sesamfrömix. Dressing: Shichimi 135 KR",
+          "HIGHTIDE TUNA Säsongens salladsblad, glasnudlar, edamamebönor, gurka, ingefärsbroccoli, inlagd ingefära, picklad rödkål, marinerad tonfisk, sesamfrömix. Dressing: Miso-soja 135 KR",
+          "VEGGIE BEETROOT (VARM) Tortillabröd, säsongens salladsblad, säsongens kål, picklad morot, blomkål, rödbets- och quinoabiff, färsk koriander, rostade cashewnötter. Dressing: Shichimi 95 KR",
+          "SHRIMP AVOCADO Tortillabröd, säsongens salladsblad, gurka, ägghalva, picklad rödlök, handskalade räkor (MSC-märkta), avokado, glutenfria krutonger. Dressing: Dill & citron 95 KR",
+          "SMOKEY SALMON Tortillabröd, säsongens salladsblad, säsongens kål, blomkål, picklad rödlök, rädisa, vedugnsrökt lax, äpple, saltrostad mandel. Dressing: Pepparrot 95 KR",
+          "CHICKEN CAESAR (VARM) Tortillabröd, säsongens salladsblad, babyspenat, kycklingfilé, bacon, grana padano, picklad rödlök. Dressing: Caesar 95 KR",
+          "SWEET POTATO FALAFEL (VARM) Tortillabröd, örthummus, säsongens salladsblad, säsongens kål, picklad morot, blomkål, svarvade rödbetor, äpple, sötpotatisfalafel, rostade pumpafrön. Dressing: Granatäpple 95 KR"
+        ],
+        [
+          "HERBAL HUMMUS (VEGGIE SALAD) Säsongens salladsblad, matvete, edamamebönor, svarvade rödbetor, picklad rödkål, örthummus, gurka, fetaost, oliver, rostade pumpafrön. Dressing: Granatäpple 85/105 KR",
+          "SWEET POTATO FALAFEL (VEGGIE SALAD VARM) Säsongens salladsblad, quinoamix, säsongens kål, picklad morot,blomkål, svarvade rödbetor, äpple, sötpotatisfalafel, örthummus, rostade pumpafrön. Dressing: Granatäpple 115 KR",
+          "VEGGIE BEETROOT (VEGGIE SALAD VARM) Säsongens salladsblad, svart ris, säsongens kål, picklad morot, blomkål, rödbets- och quinoabiff, färsk koriander, rostade cashewnötter. Dressing: Shichimi 115 KR",
+          "GREEN GARDEN (VEGGIE SALAD) Säsongens salladsblad, svart ris, säsongens kål, babyspenat,örthummus, äpple, picklad rödlök, edamamebönor, avokado, saltrostad mandel, rostade pumpafrön. Dressing: Mango/chili 85/105 KR",
+          "SHRIMPCHI (SEAFOOD SALAD) Säsongens salladsblad, svart ris, hemgjord kimchi, blomkål, picklad morot, edamamebönor, handskalade räkor (MSC-märkta), koriander, rostade cashewnötter. Dressing: Shichimi 105/125 KR",
+          "JAPANESE SHRIMP (SEAFOOD SALAD) Säsongens salladsblad, glasnudlar, edamamebönor, gurka, ingefärsbroccoli, picklad rödkål, handskalade räkor (MSC-märkta), blomkål, koriander, rostade cashewnötter. Dressing: Miso-soja 105/125 KR",
+          "SMOKEY SALMON (SEAFOOD SALAD) Säsongens salladsblad, quinoamix, citronklyfta, säsongens kål, blomkål, picklad rödlök, rädisa, äpple, vedugnsrökt lax, saltrostad mandel. Dressing: Pepparrot 105/125 KR",
+          "SHRIMP AVOCADO (SEAFOOD SALAD) Säsongens salladsblad, svart ris, citronklyfta, gurka, ägghalva, picklad rödlök, handskalade räkor (MSC-märkta), avokado, glutenfria krutonger. Dressing: Dill & citron 105/125 KR",
+          "CHICKEN CAESAR (CHICKEN SALAD) Säsongens salladsblad, matvete, babyspenat, kycklingfilé, bacon, grana padano, picklad rödlök, glutenfria krutonger. Dressing: Caesar 100/120 KR",
+          "CHICKEN CHEVRE (CHICKEN SALAD) Säsongens salladsblad, quinoamix, svarvade rödbetor, kycklingfilé, getost, äpple, rädisa, valnötter. Dressing: Rosmarin & honung. 100/120 KR",
+          "MANGO AVOCADO (CHICKEN SALAD) Säsongens salladsblad, svart ris, babyspenat, kycklingfilé, mango, picklad rödkål, avokado, rostade pumpafrön, sesamfrömix. Dressing: Mango/chili 100/120 KR",
+          "POKÉ TUNA Säsongens salladsblad, svart ris, edamamebönor, blomkål, picklad rödlök, ingefärsbroccoli, mango, marinerad tonfisk, koriander, rostade pumpafrön. Dressing: Shichimi 135 KR",
+          "UMAMI GINGER TUNA Svart ris, babyspenat, avokado, gurka, picklad rödkål, hemgjord kimchi, syltad ingefära, blomkål, marinerad tonfisk, kikärtor, sesamfrömix. Dressing: Shichimi 135 KR",
+          "HIGHTIDE TUNA Säsongens salladsblad, glasnudlar, edamamebönor, gurka, ingefärsbroccoli, inlagd ingefära, picklad rödkål, marinerad tonfisk, sesamfrömix. Dressing: Miso-soja 135 KR",
+          "VEGGIE BEETROOT (VARM) Tortillabröd, säsongens salladsblad, säsongens kål, picklad morot, blomkål, rödbets- och quinoabiff, färsk koriander, rostade cashewnötter. Dressing: Shichimi 95 KR",
+          "SHRIMP AVOCADO Tortillabröd, säsongens salladsblad, gurka, ägghalva, picklad rödlök, handskalade räkor (MSC-märkta), avokado, glutenfria krutonger. Dressing: Dill & citron 95 KR",
+          "SMOKEY SALMON Tortillabröd, säsongens salladsblad, säsongens kål, blomkål, picklad rödlök, rädisa, vedugnsrökt lax, äpple, saltrostad mandel. Dressing: Pepparrot 95 KR",
+          "CHICKEN CAESAR (VARM) Tortillabröd, säsongens salladsblad, babyspenat, kycklingfilé, bacon, grana padano, picklad rödlök. Dressing: Caesar 95 KR",
+          "SWEET POTATO FALAFEL (VARM) Tortillabröd, örthummus, säsongens salladsblad, säsongens kål, picklad morot, blomkål, svarvade rödbetor, äpple, sötpotatisfalafel, rostade pumpafrön. Dressing: Granatäpple 95 KR"
+        ]
+      ],
+      "week": null,
+      "year": null,
+      "date_label": null,
+      "permanent": true,
+      "price": null,
+      "source": "Restaurant website",
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-05T10:13:05.741Z",
+      "coffeeIncluded": false,
+      "originalLanguage": "sv"
+    },
+    {
+      "name": "Lokal 4",
+      "url": "https://lokal4.se/lunchmeny/",
+      "menu_url": "https://lokal4.se/lunchmeny/",
+      "days": [
+        [
+          "Dillkött – palsternacka – pressgurka",
+          "Veg: Blomkålskrokett – jordärtskocka – linser"
+        ],
+        [
+          "Pannbiff – lingon – gräddsås",
+          "Veg: Kikärtspannkaka – getost – zucchini"
+        ],
+        [
+          "Pytt Bellman – rödbetor – ägg",
+          "Veg: Nudlar – hoisin – bambu"
+        ],
+        [
+          "Strömming – smör – lingon",
+          "Veg: Vegburgare – saltgurka – coleslaw"
+        ],
+        [
+          "Kyckling – röd curry – pak choi",
+          "Veg: Halloumi – ravioli – rosmarin"
+        ]
+      ],
+      "week": 41,
+      "year": null,
+      "date_label": null,
+      "permanent": false,
+      "coffeeIncluded": true,
+      "price": "Dagens lunch 150kr",
+      "source": "Restaurant website",
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-05T10:13:04.157Z",
+      "originalLanguage": "sv",
+      "days_en": [
+        [
+          "Beef stew – parsnip – cucumber",
+          "Veg: Cauliflower crouqette – jerusalem artichoke – lentils"
+        ],
+        [
+          "Mince patties – lingon berries – creamed gravy",
+          "Veg: Chickpea pancake – goats cheese – zucchini"
+        ],
+        [
+          "Swedish hash – beetroot – egg",
+          "Veg: Noodles – hoisin – bamboo"
+        ],
+        [
+          "Herring – butter – lingon berries",
+          "Veg: Veggie burger – gherkin – coleslaw"
+        ],
+        [
+          "Chicken – red curry – pak choi",
+          "Veg: Halloumi – ravioli – rosemary"
+        ]
+      ]
+    },
+    {
+      "name": "Matstudio Kungsmarken",
+      "url": "https://www.matstudiokungsmarken.se/lunch/",
+      "menu_url": "https://www.matstudiokungsmarken.se/lunch/",
+      "days": [
+        [
+          "Lammfärsbiffar med fetaost, cremé på rostad aubergin, bakad tomat, rosmarin & spenatolja och gravad zucchini",
+          "Veckans gröda: Bakad blomkål med gräddad currybuljong, mandel, gravad zucchini och linser"
+        ],
+        [
+          "Rimmad sej med gulbeta, brynt smör, kapris, dill och kokt ägg",
+          "Veckans gröda: Bakad blomkål med gräddad currybuljong, mandel, gravad zucchini och linser"
+        ],
+        [
+          "Pluma med dragoncremé, bakad lök, rostad morot och citrondressad örtsallad",
+          "Veckans gröda: Bakad blomkål med gräddad currybuljong, mandel, gravad zucchini och linser"
+        ],
+        [
+          "Fläskestek med kryddkokt rödkål, rostad brysselkål, vinägersky och äpple",
+          "Veckans gröda: Bakad blomkål med gräddad currybuljong, mandel, gravad zucchini och linser"
+        ],
+        [
+          "Marinerad rostad rotsbiff med krispig lök, potatisgratäng,syltade senapsfrön och",
+          "Veckans gröda: Bakad blomkål med gräddad currybuljong, mandel, gravad zucchini och linser"
+        ]
+      ],
+      "week": 41,
+      "year": null,
+      "date_label": null,
+      "permanent": false,
+      "price": "149kr",
+      "source": "Restaurant website",
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-05T10:13:04.794Z",
+      "coffeeIncluded": true,
+      "originalLanguage": "sv"
+    },
+    {
+      "name": "Troppo",
+      "url": "https://www.troppo.se/lunch",
+      "menu_url": "https://www.troppo.se/lunch",
+      "days": [
+        [
+          "Tom Yum Egg Noodle Soup - Chicken, dumplings, lime, fish sauce, chili paste, cilantro, spring onion, peanuts. (Thai/Chinese)",
+          "Pad Kaprao - Overnight baked chuck roast, stir-fried w. garlic, holy basil, chili, rice, fried egg. (Thai)",
+          "Vegan \"Chicken\" Cashew - Stir-fry w. bell peppers, onion, spring onion, vegan oyster sauce, rice, cashew nuts. (Chinese)"
+        ],
+        [
+          "Tom Yum Egg Noodle Soup - Chicken, dumplings, lime, fish sauce, chili paste, cilantro, spring onion, peanuts. (Thai/Chinese)",
+          "Pad Kaprao - Overnight baked chuck roast, stir-fried w. garlic, holy basil, chili, rice, fried egg. (Thai)",
+          "Vegan \"Chicken\" Cashew - Stir-fry w. bell peppers, onion, spring onion, vegan oyster sauce, rice, cashew nuts. (Chinese)"
+        ],
+        [
+          "Tom Yum Egg Noodle Soup - Chicken, dumplings, lime, fish sauce, chili paste, cilantro, spring onion, peanuts. (Thai/Chinese)",
+          "Pad Kaprao - Overnight baked chuck roast, stir-fried w. garlic, holy basil, chili, rice, fried egg. (Thai)",
+          "Vegan \"Chicken\" Cashew - Stir-fry w. bell peppers, onion, spring onion, vegan oyster sauce, rice, cashew nuts. (Chinese)"
+        ],
+        [
+          "Tom Yum Egg Noodle Soup - Chicken, dumplings, lime, fish sauce, chili paste, cilantro, spring onion, peanuts. (Thai/Chinese)",
+          "Pad Kaprao - Overnight baked chuck roast, stir-fried w. garlic, holy basil, chili, rice, fried egg. (Thai)",
+          "Vegan \"Chicken\" Cashew - Stir-fry w. bell peppers, onion, spring onion, vegan oyster sauce, rice, cashew nuts. (Chinese)"
+        ],
+        [
+          "Tom Yum Egg Noodle Soup - Chicken, dumplings, lime, fish sauce, chili paste, cilantro, spring onion, peanuts. (Thai/Chinese)",
+          "Pad Kaprao - Overnight baked chuck roast, stir-fried w. garlic, holy basil, chili, rice, fried egg. (Thai)",
+          "Vegan \"Chicken\" Cashew - Stir-fry w. bell peppers, onion, spring onion, vegan oyster sauce, rice, cashew nuts. (Chinese)"
+        ]
+      ],
+      "week": 41,
+      "year": 2026,
+      "date_label": null,
+      "permanent": false,
+      "price": "Lunch 159-169kr",
+      "source": "Restaurant website",
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-05T10:13:02.693Z",
+      "coffeeIncluded": true,
+      "originalLanguage": "en"
+    }
+  ],
+  "errors": [],
+  "updated": "2026-10-05T10:13:06.707Z"
+}
