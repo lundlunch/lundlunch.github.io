@@ -44,8 +44,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-09T18:01:34.707Z",
-      "fetchMs": 1040
+      "fetched": "2026-10-09T22:23:43.073Z",
+      "fetchMs": 1205
     },
     {
       "name": "Cafe Bryggan",
@@ -83,8 +83,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-09T18:01:36.160Z",
-      "fetchMs": 2431
+      "fetched": "2026-10-09T22:23:44.519Z",
+      "fetchMs": 2524
     },
     {
       "name": "Eatery Lund",
@@ -157,8 +157,8 @@
       "source": "Official Pej menu",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-09T18:01:36.929Z",
-      "fetchMs": 3198
+      "fetched": "2026-10-09T22:23:44.337Z",
+      "fetchMs": 2340
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -166,36 +166,35 @@
       "menu_url": "https://www.smakapakina.se/meny",
       "days": [
         [
-          "1. Krispig saltade kyckling (盐酥鸡)",
-          "2. Peking fläskstrimlor (京酱肉丝)",
-          "3. Yuxiang aubergine (鱼香茄子)"
+          "1. General Tsos kyckling (左宗棠鸡)",
+          "2. Fläsk med tofu stick (腐竹烧肉)",
+          "3. Isbergsallad med vego/ostronsås (蚝油生菜)"
         ],
         [
-          "1. Gongbao kyckling (宫保鸡丁)",
-          "2. Sötsur kamben (糖醋排骨)",
-          "3. Kinakål med glasnudlar och vitlök sås (蒜蓉粉丝白菜)"
+          "1. Wokade kyckling med chili (双椒鸡丁)",
+          "2. Kamben med svartsojabönsås (豉汁排骨)",
+          "3. Snabbstekt blomkål med tomatsås (番茄花菜)"
         ],
         [
-          "1. Dongpo sidfläsk (东坡肉)",
-          "2. Yuxiang kyckling (鱼香鸡丝)",
-          "3. Bakad pumpa med saltad ankäggula (咸蛋黄焗南瓜)",
-          "4. Spenat med tofu (菠菜炒豆腐丝)"
+          "1. Rött bräserat sidfläsk (红烧肉)",
+          "2. Kyckling med chili olja sås (口水鸡)",
+          "3. Majs med pinjenötter (松仁玉米)",
+          "4. Snabbstekt zucchini (素炒西葫芦)"
         ],
         [
-          "1. Bondes stekt fläsk (农家小炒肉)",
-          "2. Ångkokt fisk (清蒸鱼)",
-          "3. Snabbstekt pak choi med shitake",
-          "(香菇油菜)"
+          "1. Stekt kokt sidfläsk (回锅肉)",
+          "2. Tre koppar kyckling (三杯鸡)",
+          "3. Snabbstekt kinakål med skogssvamp (黑白菜)"
         ],
         [
-          "1. Chili kyckling (辣子鸡)",
-          "2. Biff med ostronsås, gul lök och paprika (蚝油牛肉)",
-          "3. Snabbstekt champinjon (素炒口蘑)"
+          "1. Bräserade fläsklägg (冰糖肘子)",
+          "2. Vitlök krispig kycklingvingar (蒜香鸡翅）",
+          "3. Wokade aubergin ( 烧茄子)"
         ]
       ],
-      "week": 42,
+      "week": 41,
       "year": null,
-      "date_label": "Måndag, 12 Oct",
+      "date_label": "Måndag, 5 Oct",
       "permanent": false,
       "originalLanguage": "sv",
       "coffeeIncluded": false,
@@ -203,8 +202,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-09T18:01:36.009Z",
-      "fetchMs": 2275
+      "fetched": "2026-10-09T22:23:43.064Z",
+      "fetchMs": 1065
     },
     {
       "name": "Ideon Edison",
@@ -247,8 +246,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-09T18:01:35.102Z",
-      "fetchMs": 1367
+      "fetched": "2026-10-09T22:23:43.483Z",
+      "fetchMs": 1484
     },
     {
       "name": "Kantin",
@@ -290,8 +289,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-09T18:01:35.264Z",
-      "fetchMs": 1528
+      "fetched": "2026-10-09T22:23:43.540Z",
+      "fetchMs": 1540
     },
     {
       "name": "Medicon Village / Inspira",
@@ -338,8 +337,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-09T18:01:35.423Z",
-      "fetchMs": 1686
+      "fetched": "2026-10-09T22:23:43.572Z",
+      "fetchMs": 1571
     },
     {
       "name": "Salads and Smoothies",
@@ -462,8 +461,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-09T18:01:37.214Z",
-      "fetchMs": 3477
+      "fetched": "2026-10-09T22:23:44.777Z",
+      "fetchMs": 2776
     },
     {
       "name": "Lokal 4",
@@ -523,8 +522,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-09T18:01:35.937Z",
-      "fetchMs": 2198
+      "fetched": "2026-10-09T22:23:43.880Z",
+      "fetchMs": 1878
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -562,8 +561,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-09T18:01:36.182Z",
-      "fetchMs": 2442
+      "fetched": "2026-10-09T22:23:44.452Z",
+      "fetchMs": 2448
     },
     {
       "name": "Troppo",
@@ -606,10 +605,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-09T18:01:35.267Z",
-      "fetchMs": 1526
+      "fetched": "2026-10-09T22:23:43.441Z",
+      "fetchMs": 1438
     }
   ],
   "errors": [],
-  "updated": "2026-10-09T18:01:37.214Z"
+  "updated": "2026-10-09T22:23:44.777Z"
 }
