@@ -44,8 +44,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:27:39.745Z",
-      "fetchMs": 849
+      "fetched": "2026-10-12T08:48:32.384Z",
+      "fetchMs": 553
     },
     {
       "name": "Cafe Bryggan",
@@ -83,8 +83,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:27:40.789Z",
-      "fetchMs": 1817
+      "fetched": "2026-10-12T08:48:33.930Z",
+      "fetchMs": 2049
     },
     {
       "name": "Eatery Lund",
@@ -157,8 +157,8 @@
       "source": "Official Pej menu",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:27:40.839Z",
-      "fetchMs": 1866
+      "fetched": "2026-10-12T08:48:33.679Z",
+      "fetchMs": 1797
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -203,8 +203,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:27:39.664Z",
-      "fetchMs": 689
+      "fetched": "2026-10-12T08:48:32.567Z",
+      "fetchMs": 682
     },
     {
       "name": "Ideon Edison",
@@ -247,8 +247,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:27:40.016Z",
-      "fetchMs": 1039
+      "fetched": "2026-10-12T08:48:32.948Z",
+      "fetchMs": 1062
     },
     {
       "name": "Kantin",
@@ -290,8 +290,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:27:40.056Z",
-      "fetchMs": 1079
+      "fetched": "2026-10-12T08:48:32.934Z",
+      "fetchMs": 1047
     },
     {
       "name": "Medicon Village / Inspira",
@@ -338,8 +338,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:27:40.088Z",
-      "fetchMs": 1111
+      "fetched": "2026-10-12T08:48:33.002Z",
+      "fetchMs": 1114
     },
     {
       "name": "Salads and Smoothies",
@@ -462,8 +462,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:27:41.057Z",
-      "fetchMs": 2079
+      "fetched": "2026-10-12T08:48:33.809Z",
+      "fetchMs": 1921
     },
     {
       "name": "Lokal 4",
@@ -525,8 +525,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:27:40.452Z",
-      "fetchMs": 1473
+      "fetched": "2026-10-12T08:48:33.295Z",
+      "fetchMs": 1405
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -564,8 +564,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:27:40.841Z",
-      "fetchMs": 1861
+      "fetched": "2026-10-12T08:48:33.379Z",
+      "fetchMs": 1487
     },
     {
       "name": "Troppo",
@@ -573,29 +573,29 @@
       "menu_url": "https://www.troppo.se/lunch",
       "days": [
         [
-          "Tom Yum Egg Noodle Soup - Chicken, dumplings, lime, fish sauce, chili paste, cilantro, spring onion, peanuts. (Thai/Chinese)",
-          "Pad Kaprao - Overnight baked chuck roast, stir-fried w. garlic, holy basil, chili, rice, fried egg. (Thai)",
-          "Vegan \"Chicken\" Cashew - Stir-fry w. bell peppers, onion, spring onion, vegan oyster sauce, rice, cashew nuts. (Chinese)"
+          "Char Sui Pork - Cantonese style BBQ pork, brown sauce, sesame, boiled egg, pak choi, choice of jasmine rice OR eggnoodles. (Chinese)",
+          "Chicken Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, chicken, rice & fried egg. (Thai)",
+          "VEG \"Chicken\" Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)"
         ],
         [
-          "Tom Yum Egg Noodle Soup - Chicken, dumplings, lime, fish sauce, chili paste, cilantro, spring onion, peanuts. (Thai/Chinese)",
-          "Pad Kaprao - Overnight baked chuck roast, stir-fried w. garlic, holy basil, chili, rice, fried egg. (Thai)",
-          "Vegan \"Chicken\" Cashew - Stir-fry w. bell peppers, onion, spring onion, vegan oyster sauce, rice, cashew nuts. (Chinese)"
+          "Char Sui Pork - Cantonese style BBQ pork, brown sauce, sesame, boiled egg, pak choi, choice of jasmine rice OR eggnoodles. (Chinese)",
+          "Chicken Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, chicken, rice & fried egg. (Thai)",
+          "VEG \"Chicken\" Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)"
         ],
         [
-          "Tom Yum Egg Noodle Soup - Chicken, dumplings, lime, fish sauce, chili paste, cilantro, spring onion, peanuts. (Thai/Chinese)",
-          "Pad Kaprao - Overnight baked chuck roast, stir-fried w. garlic, holy basil, chili, rice, fried egg. (Thai)",
-          "Vegan \"Chicken\" Cashew - Stir-fry w. bell peppers, onion, spring onion, vegan oyster sauce, rice, cashew nuts. (Chinese)"
+          "Char Sui Pork - Cantonese style BBQ pork, brown sauce, sesame, boiled egg, pak choi, choice of jasmine rice OR eggnoodles. (Chinese)",
+          "Chicken Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, chicken, rice & fried egg. (Thai)",
+          "VEG \"Chicken\" Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)"
         ],
         [
-          "Tom Yum Egg Noodle Soup - Chicken, dumplings, lime, fish sauce, chili paste, cilantro, spring onion, peanuts. (Thai/Chinese)",
-          "Pad Kaprao - Overnight baked chuck roast, stir-fried w. garlic, holy basil, chili, rice, fried egg. (Thai)",
-          "Vegan \"Chicken\" Cashew - Stir-fry w. bell peppers, onion, spring onion, vegan oyster sauce, rice, cashew nuts. (Chinese)"
+          "Char Sui Pork - Cantonese style BBQ pork, brown sauce, sesame, boiled egg, pak choi, choice of jasmine rice OR eggnoodles. (Chinese)",
+          "Chicken Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, chicken, rice & fried egg. (Thai)",
+          "VEG \"Chicken\" Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)"
         ],
         [
-          "Tom Yum Egg Noodle Soup - Chicken, dumplings, lime, fish sauce, chili paste, cilantro, spring onion, peanuts. (Thai/Chinese)",
-          "Pad Kaprao - Overnight baked chuck roast, stir-fried w. garlic, holy basil, chili, rice, fried egg. (Thai)",
-          "Vegan \"Chicken\" Cashew - Stir-fry w. bell peppers, onion, spring onion, vegan oyster sauce, rice, cashew nuts. (Chinese)"
+          "Char Sui Pork - Cantonese style BBQ pork, brown sauce, sesame, boiled egg, pak choi, choice of jasmine rice OR eggnoodles. (Chinese)",
+          "Chicken Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, chicken, rice & fried egg. (Thai)",
+          "VEG \"Chicken\" Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)"
         ]
       ],
       "week": 41,
@@ -606,17 +606,12 @@
       "coffeeIncluded": true,
       "price": "Lunch 159-169kr",
       "source": "Restaurant website",
-      "status": "cached",
-      "error": "Menu heading not found.",
-      "fetched": "2026-10-09T22:23:43.441Z",
-      "fetchMs": 1025
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-12T08:48:32.852Z",
+      "fetchMs": 960
     }
   ],
-  "errors": [
-    {
-      "name": "Troppo",
-      "detail": "Menu heading not found."
-    }
-  ],
-  "updated": "2026-10-12T08:27:41.057Z"
+  "errors": [],
+  "updated": "2026-10-12T08:48:33.930Z"
 }
