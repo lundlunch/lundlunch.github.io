@@ -36,7 +36,26 @@ export function lokalEnglish(raw,days){
  }));
 }
 export function parseMenu(c,raw){const kind=c.parser,ls=lines(raw),meta=metadata(ls);let ds=DAYS.map(()=>[]);const permanent=kind==='salads';
- if(kind==='troppo'){const start=ls.findIndex(s=>s.toLowerCase()==='monday-friday');if(start<0)throw Error('Menu heading not found.');const dishes=[];let chunk=[];for(const s of ls.slice(start+1)){if(s.toLowerCase()==='find us')break;if(s.toLowerCase().startsWith('enjoy your lunch'))continue;if(s.toLowerCase()==='or'){if(chunk.length)dishes.push(chunk.join(' '));chunk=[];}else chunk.push(s);}if(chunk.length)dishes.push(chunk.join(' '));ds=DAYS.map(()=>[...dishes]);}
+ if(kind==='troppo'){
+  // Locate dish titles rather than depending on weekday wording (Monday-Friday/Saturday).
+  const title=s=>/^[A-Za-z][^.!?]{2,90}\s[-–—]\s*$/.test(s)&&!/^(?:Lunch|Enjoy your lunch|Price includes)/i.test(s);
+  const menuHeading=ls.findIndex(s=>/\blunch\s+menu\b/i.test(s));
+  const searchFrom=menuHeading>=0?menuHeading+1:0;
+  const first=ls.findIndex((s,i)=>i>=searchFrom&&title(s));
+  if(first<0)throw Error('Troppo dish titles not found.');
+  const dishes=[];let chunk=[];
+  const flush=()=>{if(chunk.length>=2)dishes.push(chunk.join(' '));chunk=[];};
+  for(const s of ls.slice(first)){
+    if(/^(?:find us|contact|opening hours|öppettider|follow us|book a table|reservations?)\b/i.test(s))break;
+    if(/^or$/i.test(s)){flush();continue;}
+    if(title(s)&&chunk.length){flush();}
+    if(/^(?:enjoy your lunch|great news|starting october|lunch is served|price includes|vegan\?|lunch is available)/i.test(s))continue;
+    chunk.push(s);
+  }
+  flush();
+  if(dishes.length<2||dishes.some(s=>s.length<25))throw Error('Troppo menu validation failed.');
+  ds=DAYS.map(()=>[...dishes]);
+}
  else if(kind==='salads'){const start=ls.findIndex(s=>s.startsWith('HERBAL HUMMUS')),end=ls.findIndex(s=>s.startsWith('PASSION APPLE'));if(start<0||end<0)throw Error('Regular menu entries not found.');const dishes=[];let chunk=[];for(const s of ls.slice(start,end)){if(s.includes('Allergi & Näringsinfo')||s.startsWith('Mejla oss'))continue;chunk.push(s);if(price(s)){dishes.push(chunk.join(' '));chunk=[];}}ds=DAYS.map(()=>[...dishes]);meta.week=null;meta.year=null;}
  else if(kind==='matstudio'){ds=sections(ls,/^(Veckans gröda|Alla rätter|Varmt välkomna|A LA CARTE)/i);const start=ls.findIndex(s=>s.startsWith('Veckans gröda')),weekly=[];if(start>=0)for(const s of ls.slice(start+1)){if(/^(Alla rätter|Varmt välkomna|A LA CARTE)/i.test(s))break;weekly.push(s);}ds=ds.map(d=>[...(d.length?[d.join(' ')]:[]),...(weekly.length?['Veckans gröda: '+weekly.join(' ')]:[])]);}
  else if(kind==='kantin'){ds=sections(ls,/^Hitta till kantin/i);const weekly=[];for(const label of ['Veckans vegetariska:','Månadens alternativ:']){const i=ls.findIndex(s=>s.startsWith(label));if(i>=0&&i+1<ls.length)weekly.push(label+' '+ls[i+1]);}ds=ds.map(d=>[...(d.length?[d.join(' ')]:[]),...weekly]);}
