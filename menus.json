@@ -44,8 +44,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T04:08:16.024Z",
-      "fetchMs": 4760
+      "fetched": "2026-10-12T04:28:14.270Z",
+      "fetchMs": 746
     },
     {
       "name": "Cafe Bryggan",
@@ -83,8 +83,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T04:08:17.785Z",
-      "fetchMs": 6495
+      "fetched": "2026-10-12T04:28:16.384Z",
+      "fetchMs": 2783
     },
     {
       "name": "Eatery Lund",
@@ -92,73 +92,73 @@
       "menu_url": "https://menu.pej.io/ea/menus/lund",
       "days": [
         [
-          "Friterat fläsk i sötsur sås — mango, chili och lime, soja- och sesamris och böngroddar",
-          "Bakad sej — ägg, räkor och dill, gräslökssås och smörslungad potatis",
-          "Halloumistroganoff — smetana, saltgurka och ris"
+          "Citron- och rosmarinbakad kyckling — potatismos, rosmarinsky och gröna bönor med bakad lök",
+          "Sesamstekt kungsfisk — rostad morot, krämig vitvinssås med miso och ingefära och kokt potatis med chili och citron",
+          "Krispig samosa — mangochutney, myntakräm och basmatiris"
         ],
         [
-          "Peppar- och timjanbakad kycklingfilé — krämig dijonsås, zucchini och rostad potatis",
-          "Stekt kummel — hollandaisesås, ugnsrostade grönsaker och krossad potatis",
-          "Bakade betor — getost, lins- och matvetesallad, brynt hasselnötssmör och syrad grädde",
+          "Köttfärslimpa — bakad tomat, oliver, salladsost och zucchini, rostad vitlökskräm och rostad klyftpotatis",
+          "Fröbakad kummel — västerbottenkräm, potatismos och strimlad morotssallad med dill och salladslök",
+          "Örtstekt gnocchi — krämig tomatsås, rostad aubergine, lagrad ost och gremolata",
           "Sweet Tuesday — – vi bjuder på något sött till kaffet! 🍬"
         ],
         [
-          "Kryddiga köttbullar — tomat- och basilikasås, rostad fänkålssallad och linguine med pesto",
-          "Fransk fisk- och skaldjursgryta — tomat, fänkål och saffransaioli",
-          "Röd curry med Oumph! — kokosmjölk, koriander, böngroddar och jasminris"
+          "Yakiniku på högrev — soja- och ingefärsmarinerad broccoli, picklad lök och jasminris",
+          "Fish & chips — krispig klyftpotatis, tartarsås, gröna ärtor och citron",
+          "Palak paneer — chilirostad pumpa, panoumi och basmatiris med rostade kokosflingor"
         ],
         [
-          "Nattbakad karré — auberginecaponata, löksky och dragon- och timjanpotatis",
-          "Vitvinspocherad kummel — sandefjordsås, grillade grönsaker och slungad potatis med smör och citron",
-          "Blomkålssoppa — linser, rostad rotselleri och körvelkräm",
+          "Bibimbap på nötfärs — picklad gurka, böngroddar, kimchi, sesam, sojaägg och ris",
+          "Ugnsbakad sej — saffranssås, fänkålssallad med räkor och körvel och rostad potatis med spenat och tomat",
+          "Pumpasoppa — kokos, ingefära och lime, couscous på blomkål och rostade frön",
           "Pancake Thursday — – vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt! 🥞"
         ],
         [
-          "Club sandwich — kyckling, bacon, tomat, pommes frites och tryffelmajonnäs",
-          "Honungs-, ingefärs- och sojabakad sej — picklad kål, sesam- och jordnötscrunch, stark majonnäs och jasminris",
-          "Vegobullar i tomatsås — lagrad ost, citron- och chilimarinerad zucchini och pangrattato"
+          "Högrevsburgare — cheddar, jalapeñomajonnäs, picklad lök och pommes",
+          "Bakad sej — jordnötssås, mangosallad, krispig lök och ris",
+          "Morots- och zucchinibiffar — rostad blomkål, harissakräm och bulgursallad"
         ]
       ],
       "days_en": [
         [
-          "Deep-fried pork in sweet and sour sauce — mango, chilli and lime, soy and sesame rice and bean sprouts",
-          "Baked pollock — egg, prawns and dill, chive sauce and buttered potatoes",
-          "Halloumi stroganoff — smetana, pickled gherkin and rice"
+          "Lemon and rosemary roast chicken — mashed potatoes, rosemary jus and green beans with baked onion",
+          "Sesame-crusted redfish — roasted carrot, creamy white wine sauce with miso and ginger, boiled potatoes with chilli and lemon",
+          "Crispy samosa — mango chutney, mint cream and basmati rice"
         ],
         [
-          "Pepper and thyme baked chicken breast — creamy dijon sauce, zucchini and roasted potatoes",
-          "Pan-fried hake — hollandaise, oven-roasted vegetables and crushed potatoes",
-          "Baked beetroot — goat's cheese, lentil and wheat berry salad, browned hazelnut butter and soured cream",
+          "Swedish meatloaf — baked tomato, olives, feta and courgette, roasted garlic cream and roasted potato wedges",
+          "Seed-crusted hake — Västerbotten cheese cream, mashed potatoes and shredded carrot salad with dill and spring onion",
+          "Herb-fried gnocchi — creamy tomato sauce, roasted aubergine, aged cheese and gremolata",
           "Sweet Tuesday — – we're treating you to something sweet with your coffee! 🍬"
         ],
         [
-          "Spiced meatballs — tomato and basil sauce, roasted fennel salad and linguine with pesto",
-          "French fish and shellfish stew — tomato, fennel and saffron aioli",
-          "Red curry with Oumph! — coconut milk, coriander, bean sprouts and jasmine rice"
+          "Beef chuck yakiniku — soy and ginger marinated broccoli, pickled onion and jasmine rice",
+          "Fish & chips — crispy potato wedges, tartare sauce, green peas and lemon",
+          "Palak paneer — spinach curry with chilli-roasted pumpkin, panoumi and basmati rice with toasted coconut"
         ],
         [
-          "Slow-roasted pork neck — aubergine caponata, onion jus and tarragon and thyme potatoes",
-          "White wine poached hake — sandefjord butter sauce, grilled vegetables and potatoes tossed in butter and lemon",
-          "Cauliflower soup — lentils, roasted celeriac and chervil cream",
+          "Beef bibimbap — pickled cucumber, bean sprouts, kimchi, sesame, soy-marinated egg and rice",
+          "Oven-baked pollock — saffron sauce, fennel salad with prawns and chervil, roasted potatoes with spinach and tomato",
+          "Pumpkin soup — coconut, ginger and lime, cauliflower couscous and toasted seeds",
           "Pancake Thursday — – we're treating you to pancakes, lightly whipped cream and homemade jam! 🥞"
         ],
         [
-          "Club sandwich — chicken, bacon, tomato, fries and truffle mayonnaise",
-          "Honey, ginger and soy baked pollock — pickled cabbage, sesame and peanut crunch, spicy mayonnaise and jasmine rice",
-          "Veggie balls in tomato sauce — aged cheese, lemon and chilli marinated zucchini and pangrattato"
+          "Beef chuck burger — cheddar, jalapeño mayonnaise, pickled onion and fries",
+          "Baked pollock — peanut sauce, mango salad, crispy onions and rice",
+          "Carrot and courgette patties — roasted cauliflower, harissa cream and bulgur salad"
         ]
       ],
       "originalLanguage": "sv",
       "year": 2026,
-      "week": 41,
+      "week": 42,
       "price": "139 kr · Early bird 132 kr (11:00–11:30) · Eatery card: 10% off",
       "coffeeIncluded": true,
       "permanent": false,
       "source": "Official Pej menu",
-      "status": "cached",
-      "error": "The operation was aborted due to timeout",
-      "fetched": "2026-10-10T11:29:32.998Z",
-      "fetchMs": 10001
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-12T04:28:16.291Z",
+      "fetchMs": 2689
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -201,10 +201,10 @@
       "coffeeIncluded": false,
       "price": "110 kr",
       "source": "Restaurant website",
-      "status": "cached",
-      "error": "The operation was aborted due to timeout",
-      "fetched": "2026-10-10T11:29:30.755Z",
-      "fetchMs": 16001
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-12T04:28:15.431Z",
+      "fetchMs": 1826
     },
     {
       "name": "Ideon Edison",
@@ -212,32 +212,32 @@
       "menu_url": "https://restaurangedison.se/lunch/",
       "days": [
         [
-          "Green: Tortellini/ostsås/rostade grönsaker",
-          "Local: Baconlimpa/pepparsås/svart vinbärsgele",
-          "World Wide: Chicken tandoori/mangoraita/ris/chilipickles"
+          "Green: Pumpastroganoff/ris/paprika/persilja",
+          "Local: Köttbullar/potatismos/lingon/pressgurka",
+          "World Wide: Kyckling/citron/oliv/fetaost"
         ],
         [
-          "Green: Rostad Butternut/chilihonung/halloumi/Ras El Hanout",
-          "Local: Panerad torsk/remoulad/ärtor",
-          "World Wide: BaoBun/fläsksida/picklad rättika/sojamajo"
+          "Green: Bakad potatis/prästost/paprika/oliv",
+          "Local: Grillad karré/tryffelmajo/klyftpotatis",
+          "World Wide: Mex Lasagne/jalapeno/tomatsalsa/nachos"
         ],
         [
-          "Green: Zucchinifritters/krämig majs/vitlöksrostad potatis",
-          "Local: Grillad karré/pumpabea/potatishalva",
-          "World Wide: Pulled beef/svart vitlök/svartrot/persilja"
+          "Green: Svampbiff/gräddsås/rostade rotfrukter",
+          "Local: Stekt sill/brynt smör/lingon/rödlök",
+          "World Wide: Laab/fisksås/ris/krispiga grönsaker"
         ],
         [
-          "Green: Spenatlasagne/svamp/rotselleri/ruccola",
-          "Local: Ärtsoppa/fläsk/senap/pannkaka",
-          "World Wide: Fish´n Chips/tartarsås/mushypeas"
+          "Green: Gnocchi/gorgonzola/broccoli/frö",
+          "Local: Schnitzel/rödvinssky/stekt potatis",
+          "World Wide: Chicken Orange/ris/haricotverts"
         ],
         [
-          "Green: Panerad aubergine/hummus/couscous/granatäpple",
-          "Local: Glacerade revben/brysselkål/kanelsky",
-          "World Wide: Chicken Waffle/lönnsirap/chipotlemajjo/krispig kål"
+          "Green: Tempurafriterade grönsaker/limemajo/ris",
+          "Local: Biffgryta/morot/grönpeppar",
+          "World Wide: Sichuanfläsk/svart bönsås/pakchoy"
         ]
       ],
-      "week": 41,
+      "week": 42,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -245,10 +245,10 @@
       "coffeeIncluded": false,
       "price": "120:-",
       "source": "Restaurant website",
-      "status": "cached",
-      "error": "The operation was aborted due to timeout",
-      "fetched": "2026-10-10T11:29:31.398Z",
-      "fetchMs": 16000
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-12T04:28:14.734Z",
+      "fetchMs": 1128
     },
     {
       "name": "Kantin",
@@ -288,10 +288,10 @@
       "originalLanguage": "sv",
       "coffeeIncluded": true,
       "source": "Restaurant website",
-      "status": "cached",
-      "error": "The operation was aborted due to timeout",
-      "fetched": "2026-10-10T11:29:31.547Z",
-      "fetchMs": 16000
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-12T04:28:15.078Z",
+      "fetchMs": 1471
     },
     {
       "name": "Medicon Village / Inspira",
@@ -299,47 +299,47 @@
       "menu_url": "https://restauranginspira.se/",
       "days": [
         [
-          "Green | Pasta med halloumi i krämig tomatsås ruccola & oliver",
-          "Local | Rostad kyckling potatisgratäng | rödvinssky & haricotsverts",
-          "World | Inspiras Grillade Pluma Choronsås | rostad potatis | oliv & fänkålstapenade",
-          "Asia | Kalkonfärsbiff kimchinudlar | morotssallad & spicy mayo"
+          "Green | Dal makhani & basmatiris papadum & yoghurt smaksatt med indiska pickles",
+          "Local | Pannbiff av nötfärs lök | sky | rårörda lingon & kokt potatis",
+          "Asia | Thaicurry med kyckling jasminris | blomkål | groddar & koriander",
+          "World | kryddrostad Fläsksida grön tomat | syrad silverlök | jalapeñocrème & rostad potatis"
         ],
         [
-          "Green | Okonomiyaki tonkatsusås | mayo | sesambakad broccoli & groddar",
-          "Local | Fiskfärsbiff tartarsås | kokt potatis | ärtor | fänkålssallad & citron",
-          "World | Mexikansk gryta på fläskbog ris | Pico de Gallo | nachos & färskost",
-          "Asia | Kalkonfärsbiff kimchinudlar | morotssallad & spicy mayo"
+          "Green | Stekta äggnudlar grönsaker | jordnötssås & tempeh",
+          "Local | Friterad kolja remoulad | kokt potatis | citron & ärtor",
+          "Asia| Thaicurry med kyckling jasminris | blomkål | groddar & koriander",
+          "World | Clam chowder musslor | potatis | rökt sidfläsk | persilja & vitlöksbröd"
         ],
         [
-          "Green | Parmesanbakad aubergine sallad på bakad tomat | mozzarella | dinkelvete & örtcrème",
-          "Local | Lammfärsbiff pumpa | getost | rosmarinsky & rostad potatis",
-          "World | Mexikansk gryta på fläskbog ris | Pico de Gallo | nachos & färskost",
-          "Asia | Tonkatsu kålsallad | jasminris | tonkatsusås & Dijonmajov"
+          "Green | Inspiras Paj med rotfrukter linser & Gruyère",
+          "Local | stekt Kycklingbröst potatisstomp | dragonbakad morot & smörad buljong",
+          "Asia | Pulled pork bao bun jasminris | picklad rödkål | groddar & sesammajonnäs",
+          "World | Clam chowder musslor | potatis | rökt sidfläsk | persilja & vitlöksbröd"
         ],
         [
-          "Green | Kejsarhatt | citronsky & gräddkokt grönkål eldad getost & rostade valnötter",
-          "Local | Pytt i panna stekt ägg & rödbetor",
-          "Asia | Tonkatsu kålsallad | jasminris | tonkatsusås & Dijonmajov",
-          "World | Fläsksida & grön tomat syrad silverlök | jalapeñocrème & rostad potatis"
+          "Green | Inspiras Pumpasoppa svarta bönor | marinerad fetaost & parmesanflarn",
+          "Local | Oxbringa & potatispuré rostade rotfrukter | pepparrotssås & persiljeolja",
+          "Asia | Pulled pork bao bun jasminris | picklad rödkål | groddar & sesammajonnäs",
+          "World | Chili på fläskbog bönor | ris | gräddfil | nachos & picklad chili"
         ],
         [
-          "Green | Rödbetshummus & bakad kål granatäpple | dukha & tahinisås",
-          "Local | Helstekt kotlett & Portvinsstuvade champinjoner rostad potatis & broccoli",
-          "Asia | Kyckling Thaicurry jasminris | blomkål | groddar & koriander",
-          "World | Fläsksida & grön tomat syrad silverlök | jalapeñocrème & rostad potatis"
+          "Green | Indonesiska majsbiffar rissallad & chilisås",
+          "Local | Raggmunk & stekt fläsk rårörda lingon | äpple- och persiljesallad",
+          "Asia | Pad Thai på kyckling risnudlar | morot | groddar | lime & jordnötter",
+          "World | Chili på fläskbog bönor | ris | gräddfil | nachos & picklad chili"
         ]
       ],
-      "week": 41,
+      "week": 42,
       "year": null,
       "date_label": null,
       "permanent": false,
       "originalLanguage": "sv",
       "coffeeIncluded": false,
       "source": "Restaurant website",
-      "status": "cached",
-      "error": "The operation was aborted due to timeout",
-      "fetched": "2026-10-10T11:29:31.532Z",
-      "fetchMs": 16001
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-12T04:28:15.260Z",
+      "fetchMs": 1651
     },
     {
       "name": "Salads and Smoothies",
@@ -460,10 +460,10 @@
       "coffeeIncluded": false,
       "price": null,
       "source": "Restaurant website",
-      "status": "cached",
-      "error": "The operation was aborted due to timeout",
-      "fetched": "2026-10-10T11:29:33.888Z",
-      "fetchMs": 16000
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-12T04:28:17.176Z",
+      "fetchMs": 3567
     },
     {
       "name": "Lokal 4",
@@ -471,60 +471,62 @@
       "menu_url": "https://lokal4.se/lunchmeny/",
       "days": [
         [
-          "Dillkött – palsternacka – pressgurka",
-          "Veg: Blomkålskrokett – jordärtskocka – linser"
+          "Oxbringa – pepparrot – kålrot",
+          "Brisket – horseradish – rutabaga",
+          "Veg: Stekt ris – tzay – ägg"
         ],
         [
-          "Pannbiff – lingon – gräddsås",
-          "Veg: Kikärtspannkaka – getost – zucchini"
+          "Kyckling – pumpa – mandel",
+          "Veg: Kikärtscurry – yoghurt – mynta"
         ],
         [
-          "Pytt Bellman – rödbetor – ägg",
-          "Veg: Nudlar – hoisin – bambu"
+          "Fläskgryta – aprikos – rosmarin",
+          "Veg: Svamplasagne – tomat – ruccola"
         ],
         [
-          "Strömming – smör – lingon",
-          "Veg: Vegburgare – saltgurka – coleslaw"
+          "Sej – vitvinssås – morot",
+          "Veg: Arancini – blomkål – pumpafrö"
         ],
         [
-          "Kyckling – röd curry – pak choi",
-          "Veg: Halloumi – ravioli – rosmarin"
+          "Lasagne – tryffel – lagrad ost",
+          "Veg: Spenatpaj – morot – ostcreme"
         ]
       ],
-      "week": 41,
+      "week": 42,
       "year": null,
       "date_label": null,
       "permanent": false,
       "originalLanguage": "sv",
       "days_en": [
         [
-          "Beef stew – parsnip – cucumber",
-          "Veg: Cauliflower crouqette – jerusalem artichoke – lentils"
+          null,
+          null,
+          "Veg: Fried rice – tzay – egg"
         ],
         [
-          "Mince patties – lingon berries – creamed gravy",
-          "Veg: Chickpea pancake – goats cheese – zucchini"
+          "Chicken – pumpkin – almond",
+          "Veg: Chickpea curry – yoghurt – mint"
         ],
         [
-          "Swedish hash – beetroot – egg",
-          "Veg: Noodles – hoisin – bamboo"
+          "Pork casserole – apricot – rosemary",
+          "Veg: Mushroom lasagna – tomato – arugula"
         ],
         [
-          "Herring – butter – lingon berries",
+          "Saithe – white wine sauce – carrot",
           "Veg: Veggie burger – gherkin – coleslaw"
         ],
         [
-          "Chicken – red curry – pak choi",
-          "Veg: Halloumi – ravioli – rosemary"
+          "Lasagne – truffle – cheese",
+          "Veg: Spinach pie – carrot – cheese creme"
         ]
       ],
       "coffeeIncluded": true,
       "price": "Dagens lunch 150kr",
       "source": "Restaurant website",
-      "status": "cached",
-      "error": "The operation was aborted due to timeout",
-      "fetched": "2026-10-10T11:29:31.987Z",
-      "fetchMs": 16000
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-12T04:28:15.475Z",
+      "fetchMs": 1865
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -561,9 +563,9 @@
       "price": "149kr",
       "source": "Restaurant website",
       "status": "cached",
-      "error": "The operation was aborted due to timeout",
+      "error": "HTTP 403: Forbidden",
       "fetched": "2026-10-10T11:29:32.177Z",
-      "fetchMs": 16000
+      "fetchMs": 1772
     },
     {
       "name": "Troppo",
@@ -605,48 +607,20 @@
       "price": "Lunch 159-169kr",
       "source": "Restaurant website",
       "status": "cached",
-      "error": "The operation was aborted due to timeout",
+      "error": "Menu heading not found.",
       "fetched": "2026-10-09T22:23:43.441Z",
-      "fetchMs": 15999
+      "fetchMs": 1508
     }
   ],
   "errors": [
     {
-      "name": "Eatery Lund",
-      "detail": "The operation was aborted due to timeout"
-    },
-    {
-      "name": "Höjdpunkten / Smaka på Kina",
-      "detail": "The operation was aborted due to timeout"
-    },
-    {
-      "name": "Ideon Edison",
-      "detail": "The operation was aborted due to timeout"
-    },
-    {
-      "name": "Kantin",
-      "detail": "The operation was aborted due to timeout"
-    },
-    {
-      "name": "Medicon Village / Inspira",
-      "detail": "The operation was aborted due to timeout"
-    },
-    {
-      "name": "Salads and Smoothies",
-      "detail": "The operation was aborted due to timeout"
-    },
-    {
-      "name": "Lokal 4",
-      "detail": "The operation was aborted due to timeout"
+      "name": "Troppo",
+      "detail": "Menu heading not found."
     },
     {
       "name": "Matstudio Kungsmarken",
-      "detail": "The operation was aborted due to timeout"
-    },
-    {
-      "name": "Troppo",
-      "detail": "The operation was aborted due to timeout"
+      "detail": "HTTP 403: Forbidden"
     }
   ],
-  "updated": "2026-10-12T04:08:27.296Z"
+  "updated": "2026-10-12T04:28:17.176Z"
 }
