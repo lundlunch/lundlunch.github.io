@@ -44,8 +44,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:32.384Z",
-      "fetchMs": 553
+      "fetched": "2026-10-12T08:48:56.643Z",
+      "fetchMs": 1015
     },
     {
       "name": "Cafe Bryggan",
@@ -83,8 +83,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:33.930Z",
-      "fetchMs": 2049
+      "fetched": "2026-10-12T08:48:57.793Z",
+      "fetchMs": 2053
     },
     {
       "name": "Eatery Lund",
@@ -157,8 +157,8 @@
       "source": "Official Pej menu",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:33.679Z",
-      "fetchMs": 1797
+      "fetched": "2026-10-12T08:48:59.020Z",
+      "fetchMs": 3279
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -203,8 +203,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:32.567Z",
-      "fetchMs": 682
+      "fetched": "2026-10-12T08:48:57.002Z",
+      "fetchMs": 1260
     },
     {
       "name": "Ideon Edison",
@@ -247,8 +247,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:32.948Z",
-      "fetchMs": 1062
+      "fetched": "2026-10-12T08:48:57.570Z",
+      "fetchMs": 1827
     },
     {
       "name": "Kantin",
@@ -290,8 +290,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:32.934Z",
-      "fetchMs": 1047
+      "fetched": "2026-10-12T08:48:57.568Z",
+      "fetchMs": 1823
     },
     {
       "name": "Medicon Village / Inspira",
@@ -338,8 +338,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:33.002Z",
-      "fetchMs": 1114
+      "fetched": "2026-10-12T08:48:57.536Z",
+      "fetchMs": 1791
     },
     {
       "name": "Salads and Smoothies",
@@ -462,8 +462,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:33.809Z",
-      "fetchMs": 1921
+      "fetched": "2026-10-12T08:48:58.949Z",
+      "fetchMs": 3205
     },
     {
       "name": "Lokal 4",
@@ -525,8 +525,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:33.295Z",
-      "fetchMs": 1405
+      "fetched": "2026-10-12T08:48:58.041Z",
+      "fetchMs": 2296
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -564,8 +564,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:33.379Z",
-      "fetchMs": 1487
+      "fetched": "2026-10-12T08:48:58.073Z",
+      "fetchMs": 2327
     },
     {
       "name": "Troppo",
@@ -608,10 +608,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:32.852Z",
-      "fetchMs": 960
+      "fetched": "2026-10-12T08:48:57.895Z",
+      "fetchMs": 2148
     }
   ],
   "errors": [],
-  "updated": "2026-10-12T08:48:33.930Z"
+  "updated": "2026-10-12T08:48:59.020Z"
 }
