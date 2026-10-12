@@ -44,8 +44,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T04:28:14.270Z",
-      "fetchMs": 746
+      "fetched": "2026-10-12T04:48:16.610Z",
+      "fetchMs": 618
     },
     {
       "name": "Cafe Bryggan",
@@ -83,8 +83,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T04:28:16.384Z",
-      "fetchMs": 2783
+      "fetched": "2026-10-12T04:48:17.525Z",
+      "fetchMs": 1487
     },
     {
       "name": "Eatery Lund",
@@ -157,8 +157,8 @@
       "source": "Official Pej menu",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T04:28:16.291Z",
-      "fetchMs": 2689
+      "fetched": "2026-10-12T04:48:18.082Z",
+      "fetchMs": 2043
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -203,8 +203,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T04:28:15.431Z",
-      "fetchMs": 1826
+      "fetched": "2026-10-12T04:48:16.578Z",
+      "fetchMs": 537
     },
     {
       "name": "Ideon Edison",
@@ -247,8 +247,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T04:28:14.734Z",
-      "fetchMs": 1128
+      "fetched": "2026-10-12T04:48:17.176Z",
+      "fetchMs": 1133
     },
     {
       "name": "Kantin",
@@ -290,8 +290,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T04:28:15.078Z",
-      "fetchMs": 1471
+      "fetched": "2026-10-12T04:48:17.027Z",
+      "fetchMs": 983
     },
     {
       "name": "Medicon Village / Inspira",
@@ -338,8 +338,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T04:28:15.260Z",
-      "fetchMs": 1651
+      "fetched": "2026-10-12T04:48:17.323Z",
+      "fetchMs": 1278
     },
     {
       "name": "Salads and Smoothies",
@@ -462,8 +462,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T04:28:17.176Z",
-      "fetchMs": 3567
+      "fetched": "2026-10-12T04:48:18.164Z",
+      "fetchMs": 2119
     },
     {
       "name": "Lokal 4",
@@ -525,8 +525,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T04:28:15.475Z",
-      "fetchMs": 1865
+      "fetched": "2026-10-12T04:48:17.640Z",
+      "fetchMs": 1594
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -534,27 +534,27 @@
       "menu_url": "https://www.matstudiokungsmarken.se/lunch/",
       "days": [
         [
-          "Lammfärsbiffar med fetaost, cremé på rostad aubergin, bakad tomat, rosmarin & spenatolja och gravad zucchini",
-          "Veckans gröda: Bakad blomkål med gräddad currybuljong, mandel, gravad zucchini och linser"
+          "Knäredkyckling med blåkornblomst, valnöt, päron och krasse",
+          "Veckans gröda: Rödbeta med blåkornblomst, valnöt, päron, brynt smör och krasse"
         ],
         [
-          "Rimmad sej med gulbeta, brynt smör, kapris, dill och kokt ägg",
-          "Veckans gröda: Bakad blomkål med gräddad currybuljong, mandel, gravad zucchini och linser"
+          "Laxpudding med brynt citronsmör, fänkål, dill och grönt äpple",
+          "Veckans gröda: Rödbeta med blåkornblomst, valnöt, päron, brynt smör och krasse"
         ],
         [
-          "Pluma med dragoncremé, bakad lök, rostad morot och citrondressad örtsallad",
-          "Veckans gröda: Bakad blomkål med gräddad currybuljong, mandel, gravad zucchini och linser"
+          "Nattbakad fläskkarré med bao buns, chilimajonnäs, koriander, syltad rödlök, kimchi och marinerad gurksallad",
+          "Veckans gröda: Rödbeta med blåkornblomst, valnöt, päron, brynt smör och krasse"
         ],
         [
-          "Fläskestek med kryddkokt rödkål, rostad brysselkål, vinägersky och äpple",
-          "Veckans gröda: Bakad blomkål med gräddad currybuljong, mandel, gravad zucchini och linser"
+          "Kålpudding med savoykål, rårörda lingon, potatispuré, sirapgräddsås och äpple",
+          "Veckans gröda: Rödbeta med blåkornblomst, valnöt, päron, brynt smör och krasse"
         ],
         [
-          "Marinerad rostbiff med krispig lök, potatisgratäng och syltade senapsfrön",
-          "Veckans gröda: Bakad blomkål med gräddad currybuljong, mandel, gravad zucchini och linser"
+          "Oxstek med bearnaise, pommes frites med örtsalt och parmesan samt bakad tomat och bladgrönt",
+          "Veckans gröda: Rödbeta med blåkornblomst, valnöt, päron, brynt smör och krasse"
         ]
       ],
-      "week": 41,
+      "week": 42,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -562,10 +562,10 @@
       "coffeeIncluded": true,
       "price": "149kr",
       "source": "Restaurant website",
-      "status": "cached",
-      "error": "HTTP 403: Forbidden",
-      "fetched": "2026-10-10T11:29:32.177Z",
-      "fetchMs": 1772
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-12T04:48:17.989Z",
+      "fetchMs": 1941
     },
     {
       "name": "Troppo",
@@ -609,18 +609,14 @@
       "status": "cached",
       "error": "Menu heading not found.",
       "fetched": "2026-10-09T22:23:43.441Z",
-      "fetchMs": 1508
+      "fetchMs": 1322
     }
   ],
   "errors": [
     {
       "name": "Troppo",
       "detail": "Menu heading not found."
-    },
-    {
-      "name": "Matstudio Kungsmarken",
-      "detail": "HTTP 403: Forbidden"
     }
   ],
-  "updated": "2026-10-12T04:28:17.176Z"
+  "updated": "2026-10-12T04:48:18.164Z"
 }
