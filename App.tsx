@@ -42,7 +42,7 @@ export default function Home(){
  <table className="menus" aria-label={`${names[day]} ${t('lunchmenyer','lunch menus')}`}><tbody>{rows.map(r=>{
  const selected=(r.days[day]||[]).map((_,i)=>menuDish(r,day,i,language,translations)),dishes=selected.map(d=>d.text),warnings=[];
  const missing=selected.some(d=>d.missing);
- if(r.status==='cached')warnings.push(t('Senaste uppdateringen misslyckades. Visar senast sparade meny.','Latest refresh failed. Showing the last saved menu.'));
+ if(r.status==='cached'&&!(r.week===current.week&&(!r.year||r.year===current.year)&&dishes.length))warnings.push(t('Senaste uppdateringen misslyckades. Visar senast sparade meny.','Latest refresh failed. Showing the last saved menu.'));
  if(r.status==='unavailable')warnings.push(t('Menyn är inte tillgänglig. Se Källstatus nedan.','Menu unavailable. See Source status below.'));
  if(r.week&&(r.week!==current.week||(r.year&&r.year!==current.year)))warnings.push(t('Publicerad meny: vecka ','Published menu: week ')+r.week+(r.year?', '+r.year:'')+t('. Kontrollera datumen.','. Please check the dates.'));
  if(r.status!=='unavailable'&&!r.week&&!r.permanent)warnings.push(t('Menydatum anges inte på restaurangens webbplats.','Menu dates are not labelled on the restaurant website.'));
