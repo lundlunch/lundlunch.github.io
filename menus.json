@@ -44,8 +44,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:56.643Z",
-      "fetchMs": 1015
+      "fetched": "2026-10-12T09:04:47.531Z",
+      "fetchMs": 7983
     },
     {
       "name": "Cafe Bryggan",
@@ -83,8 +83,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:57.793Z",
-      "fetchMs": 2053
+      "fetched": "2026-10-12T09:04:45.630Z",
+      "fetchMs": 6051
     },
     {
       "name": "Eatery Lund",
@@ -155,10 +155,10 @@
       "coffeeIncluded": true,
       "permanent": false,
       "source": "Official Pej menu",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "The operation was aborted due to timeout",
       "fetched": "2026-10-12T08:48:59.020Z",
-      "fetchMs": 3279
+      "fetchMs": 10001
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -203,8 +203,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:57.002Z",
-      "fetchMs": 1260
+      "fetched": "2026-10-12T09:04:44.432Z",
+      "fetchMs": 4850
     },
     {
       "name": "Ideon Edison",
@@ -247,8 +247,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:57.570Z",
-      "fetchMs": 1827
+      "fetched": "2026-10-12T09:04:47.123Z",
+      "fetchMs": 7541
     },
     {
       "name": "Kantin",
@@ -290,8 +290,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:57.568Z",
-      "fetchMs": 1823
+      "fetched": "2026-10-12T09:04:47.380Z",
+      "fetchMs": 7798
     },
     {
       "name": "Medicon Village / Inspira",
@@ -338,8 +338,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:57.536Z",
-      "fetchMs": 1791
+      "fetched": "2026-10-12T09:04:51.463Z",
+      "fetchMs": 11880
     },
     {
       "name": "Salads and Smoothies",
@@ -460,10 +460,10 @@
       "coffeeIncluded": false,
       "price": null,
       "source": "Restaurant website",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "HTTP 403: Forbidden",
       "fetched": "2026-10-12T08:48:58.949Z",
-      "fetchMs": 3205
+      "fetchMs": 11641
     },
     {
       "name": "Lokal 4",
@@ -525,8 +525,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:58.041Z",
-      "fetchMs": 2296
+      "fetched": "2026-10-12T09:04:51.774Z",
+      "fetchMs": 12190
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -562,10 +562,10 @@
       "coffeeIncluded": true,
       "price": "149kr",
       "source": "Restaurant website",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "HTTP 403: Forbidden",
       "fetched": "2026-10-12T08:48:58.073Z",
-      "fetchMs": 2327
+      "fetchMs": 11780
     },
     {
       "name": "Troppo",
@@ -598,7 +598,7 @@
           "VEG \"Chicken\" Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)"
         ]
       ],
-      "week": 41,
+      "week": 42,
       "year": 2026,
       "date_label": null,
       "permanent": false,
@@ -608,10 +608,23 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:57.895Z",
-      "fetchMs": 2148
+      "fetched": "2026-10-12T09:04:51.083Z",
+      "fetchMs": 11498
     }
   ],
-  "errors": [],
-  "updated": "2026-10-12T08:48:59.020Z"
+  "errors": [
+    {
+      "name": "Eatery Lund",
+      "detail": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Salads and Smoothies",
+      "detail": "HTTP 403: Forbidden"
+    },
+    {
+      "name": "Matstudio Kungsmarken",
+      "detail": "HTTP 403: Forbidden"
+    }
+  ],
+  "updated": "2026-10-12T09:04:51.774Z"
 }
