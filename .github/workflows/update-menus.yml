@@ -4,8 +4,6 @@ on:
   schedule:
     # Monday 06:00–11:50 Europe/Stockholm, including DST changes.
     - cron: '*/10 4-10 * * 1'
-    # Tuesday–Friday: retain the existing 06:00 UTC schedule.
-    - cron: '0 6 * * 2-5'
 permissions:
   contents: write
   pages: write
