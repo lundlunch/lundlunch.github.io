@@ -44,8 +44,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T07:03:06.662Z",
-      "fetchMs": 911
+      "fetched": "2026-10-12T07:28:10.846Z",
+      "fetchMs": 863
     },
     {
       "name": "Cafe Bryggan",
@@ -83,8 +83,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T07:03:08.016Z",
-      "fetchMs": 2219
+      "fetched": "2026-10-12T07:28:11.859Z",
+      "fetchMs": 1827
     },
     {
       "name": "Eatery Lund",
@@ -157,8 +157,8 @@
       "source": "Official Pej menu",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T07:03:08.805Z",
-      "fetchMs": 3007
+      "fetched": "2026-10-12T07:28:12.604Z",
+      "fetchMs": 2571
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -203,8 +203,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T07:03:06.841Z",
-      "fetchMs": 1040
+      "fetched": "2026-10-12T07:28:10.490Z",
+      "fetchMs": 454
     },
     {
       "name": "Ideon Edison",
@@ -247,8 +247,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T07:03:07.133Z",
-      "fetchMs": 1331
+      "fetched": "2026-10-12T07:28:11.326Z",
+      "fetchMs": 1288
     },
     {
       "name": "Kantin",
@@ -256,42 +256,42 @@
       "menu_url": "https://www.kantinlund.se/",
       "days": [
         [
-          "Nattbakad kycklingklubba – rostad svamp – sidfläsk – lök – sky – potatis",
-          "Veckans vegetariska: Rostad pumpa – fetaostkräm – bönor – frön – pickles – hjärtsallad – brynt sojasmör",
+          "Teriyakirostad fläsksida – pickles – kimchimajo – broccoli – ris – sesam – koriander",
+          "Veckans vegetariska: Rostad spetskål – sandefjordsås – pickles – rostad mandel – potatis – grana padano – örter",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Fläskschnitzel – jalapeñosmör – basilikasky – spenat & bönsallad – rostad potatis",
-          "Veckans vegetariska: Rostad pumpa – fetaostkräm – bönor – frön – pickles – hjärtsallad – brynt sojasmör",
+          "Jerk chicken – tomat & mangosalsa – chilimajo – pickles – friterad tortilla – ris",
+          "Veckans vegetariska: Rostad spetskål – sandefjordsås – pickles – rostad mandel – potatis – grana padano – örter",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Sticky bbq pork – chili & limeaioli – dillpicklad gurka – nachokrisp – bbq-sås – bakad tomat – blandris",
-          "Veckans vegetariska: Rostad pumpa – fetaostkräm – bönor – frön – pickles – hjärtsallad – brynt sojasmör",
+          "Örtstekt fläskfilé – rostade rotfrukter – pickles – rostad lök – kycklingsky – potatisstomp",
+          "Veckans vegetariska: Rostad spetskål – sandefjordsås – pickles – rostad mandel – potatis – grana padano – örter",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Oxtartar – sesammajo – ponzuvinigrette – rostad skocka – rättika – räkchips – koriander",
-          "Veckans vegetariska: Rostad pumpa – fetaostkräm – bönor – frön – pickles – hjärtsallad – brynt sojasmör",
+          "Oxtartar – persiljeaioli – rostad beta – kapris – silverlök – fröer – ruccola – grana padano",
+          "Veckans vegetariska: Rostad spetskål – sandefjordsås – pickles – rostad mandel – potatis – grana padano – örter",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Hangersteak – bearnaisemajo – bönor – tomat – sky – krispig lök – potatis",
-          "Veckans vegetariska: Rostad pumpa – fetaostkräm – bönor – frön – pickles – hjärtsallad – brynt sojasmör",
+          "Nattbakad Oxkind – salsa roja – svarta bönor – majskräm – syrad lök – friterad tortilla – potatis",
+          "Veckans vegetariska: Rostad spetskål – sandefjordsås – pickles – rostad mandel – potatis – grana padano – örter",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ]
       ],
-      "week": 41,
+      "week": 42,
       "year": null,
-      "date_label": "Meny 5/10 – 9/10",
+      "date_label": "Meny 12/10 – 16/10",
       "permanent": false,
       "originalLanguage": "sv",
       "coffeeIncluded": true,
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T07:03:07.399Z",
-      "fetchMs": 1596
+      "fetched": "2026-10-12T07:28:11.251Z",
+      "fetchMs": 1212
     },
     {
       "name": "Medicon Village / Inspira",
@@ -338,8 +338,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T07:03:07.260Z",
-      "fetchMs": 1456
+      "fetched": "2026-10-12T07:28:11.338Z",
+      "fetchMs": 1299
     },
     {
       "name": "Salads and Smoothies",
@@ -462,8 +462,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T07:03:08.517Z",
-      "fetchMs": 2712
+      "fetched": "2026-10-12T07:28:12.241Z",
+      "fetchMs": 2201
     },
     {
       "name": "Lokal 4",
@@ -525,8 +525,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T07:03:07.795Z",
-      "fetchMs": 1989
+      "fetched": "2026-10-12T07:28:11.725Z",
+      "fetchMs": 1684
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -564,8 +564,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T07:03:07.910Z",
-      "fetchMs": 2102
+      "fetched": "2026-10-12T07:28:11.775Z",
+      "fetchMs": 1731
     },
     {
       "name": "Troppo",
@@ -609,7 +609,7 @@
       "status": "cached",
       "error": "Menu heading not found.",
       "fetched": "2026-10-09T22:23:43.441Z",
-      "fetchMs": 1386
+      "fetchMs": 1024
     }
   ],
   "errors": [
@@ -618,5 +618,5 @@
       "detail": "Menu heading not found."
     }
   ],
-  "updated": "2026-10-12T07:03:08.805Z"
+  "updated": "2026-10-12T07:28:12.604Z"
 }
