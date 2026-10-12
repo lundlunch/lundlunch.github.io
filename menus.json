@@ -44,8 +44,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-10T11:29:30.853Z",
-      "fetchMs": 979
+      "fetched": "2026-10-12T04:08:16.024Z",
+      "fetchMs": 4760
     },
     {
       "name": "Cafe Bryggan",
@@ -83,8 +83,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-10T11:29:33.332Z",
-      "fetchMs": 3411
+      "fetched": "2026-10-12T04:08:17.785Z",
+      "fetchMs": 6495
     },
     {
       "name": "Eatery Lund",
@@ -155,10 +155,10 @@
       "coffeeIncluded": true,
       "permanent": false,
       "source": "Official Pej menu",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "The operation was aborted due to timeout",
       "fetched": "2026-10-10T11:29:32.998Z",
-      "fetchMs": 3076
+      "fetchMs": 10001
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -201,10 +201,10 @@
       "coffeeIncluded": false,
       "price": "110 kr",
       "source": "Restaurant website",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "The operation was aborted due to timeout",
       "fetched": "2026-10-10T11:29:30.755Z",
-      "fetchMs": 829
+      "fetchMs": 16001
     },
     {
       "name": "Ideon Edison",
@@ -245,10 +245,10 @@
       "coffeeIncluded": false,
       "price": "120:-",
       "source": "Restaurant website",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "The operation was aborted due to timeout",
       "fetched": "2026-10-10T11:29:31.398Z",
-      "fetchMs": 1470
+      "fetchMs": 16000
     },
     {
       "name": "Kantin",
@@ -288,10 +288,10 @@
       "originalLanguage": "sv",
       "coffeeIncluded": true,
       "source": "Restaurant website",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "The operation was aborted due to timeout",
       "fetched": "2026-10-10T11:29:31.547Z",
-      "fetchMs": 1619
+      "fetchMs": 16000
     },
     {
       "name": "Medicon Village / Inspira",
@@ -336,10 +336,10 @@
       "originalLanguage": "sv",
       "coffeeIncluded": false,
       "source": "Restaurant website",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "The operation was aborted due to timeout",
       "fetched": "2026-10-10T11:29:31.532Z",
-      "fetchMs": 1604
+      "fetchMs": 16001
     },
     {
       "name": "Salads and Smoothies",
@@ -460,10 +460,10 @@
       "coffeeIncluded": false,
       "price": null,
       "source": "Restaurant website",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "The operation was aborted due to timeout",
       "fetched": "2026-10-10T11:29:33.888Z",
-      "fetchMs": 3959
+      "fetchMs": 16000
     },
     {
       "name": "Lokal 4",
@@ -521,10 +521,10 @@
       "coffeeIncluded": true,
       "price": "Dagens lunch 150kr",
       "source": "Restaurant website",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "The operation was aborted due to timeout",
       "fetched": "2026-10-10T11:29:31.987Z",
-      "fetchMs": 2056
+      "fetchMs": 16000
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -560,10 +560,10 @@
       "coffeeIncluded": true,
       "price": "149kr",
       "source": "Restaurant website",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "The operation was aborted due to timeout",
       "fetched": "2026-10-10T11:29:32.177Z",
-      "fetchMs": 2245
+      "fetchMs": 16000
     },
     {
       "name": "Troppo",
@@ -605,16 +605,48 @@
       "price": "Lunch 159-169kr",
       "source": "Restaurant website",
       "status": "cached",
-      "error": "Menu heading not found.",
+      "error": "The operation was aborted due to timeout",
       "fetched": "2026-10-09T22:23:43.441Z",
-      "fetchMs": 1507
+      "fetchMs": 15999
     }
   ],
   "errors": [
     {
+      "name": "Eatery Lund",
+      "detail": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Höjdpunkten / Smaka på Kina",
+      "detail": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Ideon Edison",
+      "detail": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Kantin",
+      "detail": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Medicon Village / Inspira",
+      "detail": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Salads and Smoothies",
+      "detail": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Lokal 4",
+      "detail": "The operation was aborted due to timeout"
+    },
+    {
+      "name": "Matstudio Kungsmarken",
+      "detail": "The operation was aborted due to timeout"
+    },
+    {
       "name": "Troppo",
-      "detail": "Menu heading not found."
+      "detail": "The operation was aborted due to timeout"
     }
   ],
-  "updated": "2026-10-10T11:29:33.888Z"
+  "updated": "2026-10-12T04:08:27.296Z"
 }
