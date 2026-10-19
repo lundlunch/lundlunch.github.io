@@ -45,7 +45,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-10-19T04:22:26.670Z",
-      "fetchMs": 865
+      "fetchMs": 0
     },
     {
       "name": "Cafe Bryggan",
@@ -84,7 +84,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-10-19T04:22:28.289Z",
-      "fetchMs": 2440
+      "fetchMs": 0
     },
     {
       "name": "Eatery Lund",
@@ -92,73 +92,75 @@
       "menu_url": "https://menu.pej.io/ea/menus/lund",
       "days": [
         [
-          "Citron- och rosmarinbakad kyckling — potatismos, rosmarinsky och gröna bönor med bakad lök",
-          "Sesamstekt kungsfisk — rostad morot, krämig vitvinssås med miso och ingefära och kokt potatis med chili och citron",
-          "Krispig samosa — mangochutney, myntakräm och basmatiris"
+          "Stekt kyckling — grädde, soltorkad tomat, lagrad ost och potatismos",
+          "Ugnsbakad sej — hollandaisesås, bakad spetskål, lagrad ost, potatis, lök och dill",
+          "Indisk linsgryta — grönsaker och basmatiris"
         ],
         [
-          "Köttfärslimpa — bakad tomat, oliver, salladsost och zucchini, rostad vitlökskräm och rostad klyftpotatis",
-          "Fröbakad kummel — västerbottenkräm, potatismos och strimlad morotssallad med dill och salladslök",
-          "Örtstekt gnocchi — krämig tomatsås, rostad aubergine, lagrad ost och gremolata",
+          "Högrevschili — chipotle, habanero och kakao, pico de gallo, gräddfil samt ris",
+          "Stekt kummel — skagensås, picklad fänkål, kokt potatis och örtcrudité",
+          "Pasta — grädde, svamp, soltorkade tomater, parmesan, zucchini och rucolasallad",
           "Sweet Tuesday — – vi bjuder på något sött till kaffet! 🍬"
         ],
         [
-          "Yakiniku på högrev — soja- och ingefärsmarinerad broccoli, picklad lök och jasminris",
-          "Fish & chips — krispig klyftpotatis, tartarsås, gröna ärtor och citron",
-          "Palak paneer — chilirostad pumpa, panoumi och basmatiris med rostade kokosflingor"
+          "Pannbiff — ölbrässerad lök, svamp och bacon, timjanssky, rostad potatis med fänkål och rosépeppar, inlagd gurka samt lingon",
+          "Dill- och vinbakad hokifilé — aubergine, oliver och tomat, lagrad ost, rostad potatis samt tomatsås",
+          "Bakad butternutpumpa — fetaost, svartris och pesto, fänkål samt grönkålssallad"
         ],
         [
-          "Bibimbap på nötfärs — picklad gurka, böngroddar, kimchi, sesam, sojaägg och ris",
-          "Ugnsbakad sej — saffranssås, fänkålssallad med räkor och körvel och rostad potatis med spenat och tomat",
-          "Pumpasoppa — kokos, ingefära och lime, couscous på blomkål och rostade frön",
+          "Nattbakad karré — bakad tomat, potatisgratäng, skysås och béarnaisesås, picklad morotssallad",
+          "Bakad kungsfisk — betor, kapris, dill och pepparrot, brynt smör med citron samt kokt potatis",
+          "Minestronesoppa — sojafärs, vita bönor, tomat och svartkål, risoni samt gremolata",
+          "Ärtsoppa — rimmad fläskbog",
           "Pancake Thursday — – vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt! 🥞"
         ],
         [
-          "Högrevsburgare — cheddar, jalapeñomajonnäs, picklad lök och pommes",
-          "Bakad sej — jordnötssås, mangosallad, krispig lök och ris",
-          "Morots- och zucchinibiffar — rostad blomkål, harissakräm och bulgursallad"
+          "Friterad kyckling — ranchdressing, coleslaw med fänkål och äpple, klyftpotatis med örtsalt samt friterad lök",
+          "Havets wallenbergare — brynt smör, gröna ärtor med lök och dill samt kokt potatis med krasse och citron",
+          "Tortelloni med ricotta och spenat — krämig tomat- och basilikasås, aubergine med ruccola, chili och vitlök"
         ]
       ],
       "days_en": [
         [
-          "Lemon and rosemary roast chicken — mashed potatoes, rosemary jus and green beans with baked onion",
-          "Sesame-crusted redfish — roasted carrot, creamy white wine sauce with miso and ginger, boiled potatoes with chilli and lemon",
-          "Crispy samosa — mango chutney, mint cream and basmati rice"
+          "Pan-fried chicken — cream, sun-dried tomato, mature cheese and mashed potatoes",
+          "Oven-baked pollock — hollandaise, baked pointed cabbage, mature cheese, potatoes, onion and dill",
+          "Indian lentil stew — vegetables and basmati rice"
         ],
         [
-          "Swedish meatloaf — baked tomato, olives, feta and courgette, roasted garlic cream and roasted potato wedges",
-          "Seed-crusted hake — Västerbotten cheese cream, mashed potatoes and shredded carrot salad with dill and spring onion",
-          "Herb-fried gnocchi — creamy tomato sauce, roasted aubergine, aged cheese and gremolata",
+          "Chuck beef chili — chipotle, habanero and cocoa, pico de gallo, sour cream and rice",
+          "Pan-fried hake — skagen sauce, pickled fennel, boiled potatoes and herb crudité",
+          "Pasta — cream, mushroom, sun-dried tomatoes, parmesan, zucchini and rocket salad",
           "Sweet Tuesday — – we're treating you to something sweet with your coffee! 🍬"
         ],
         [
-          "Beef chuck yakiniku — soy and ginger marinated broccoli, pickled onion and jasmine rice",
-          "Fish & chips — crispy potato wedges, tartare sauce, green peas and lemon",
-          "Palak paneer — spinach curry with chilli-roasted pumpkin, panoumi and basmati rice with toasted coconut"
+          "Beef patty — beer-braised onion, mushroom and bacon, thyme jus, roasted potatoes with fennel and pink peppercorn, pickled cucumber and lingonberries",
+          "Dill and wine baked hoki — aubergine, olives and tomato, mature cheese, roasted potatoes and tomato sauce",
+          "Baked butternut squash — feta, black rice and pesto, fennel and kale salad"
         ],
         [
-          "Beef bibimbap — pickled cucumber, bean sprouts, kimchi, sesame, soy-marinated egg and rice",
-          "Oven-baked pollock — saffron sauce, fennel salad with prawns and chervil, roasted potatoes with spinach and tomato",
-          "Pumpkin soup — coconut, ginger and lime, cauliflower couscous and toasted seeds",
+          "Slow-roasted pork collar — baked tomato, potato gratin, pan gravy and béarnaise, pickled carrot salad",
+          "Baked redfish — beetroot, capers, dill and horseradish, browned butter with lemon and boiled potatoes",
+          "Minestrone — soy mince, white beans, tomato and cavolo nero, risoni and gremolata",
+          "Yellow pea soup — cured pork shoulder",
           "Pancake Thursday — – we're treating you to pancakes, lightly whipped cream and homemade jam! 🥞"
         ],
         [
-          "Beef chuck burger — cheddar, jalapeño mayonnaise, pickled onion and fries",
-          "Baked pollock — peanut sauce, mango salad, crispy onions and rice",
-          "Carrot and courgette patties — roasted cauliflower, harissa cream and bulgur salad"
+          "Fried chicken — ranch dressing, coleslaw with fennel and apple, potato wedges with herb salt and fried onion",
+          "Fish wallenbergare — browned butter, green peas with onion and dill, boiled potatoes with cress and lemon",
+          "Tortelloni with ricotta and spinach — creamy tomato and basil sauce, aubergine with rocket, chili and garlic"
         ]
       ],
       "originalLanguage": "sv",
       "year": 2026,
-      "week": 42,
+      "week": 43,
       "price": "139 kr · Early bird 132 kr (11:00–11:30) · Eatery card: 10% off",
       "coffeeIncluded": true,
       "permanent": false,
       "source": "Official Pej menu",
-      "status": "cached",
-      "error": "fetch failed",
-      "fetched": "2026-10-12T08:48:59.020Z",
-      "fetchMs": 1225
+      "status": "live",
+      "error": null,
+      "fetched": "2026-10-19T05:01:10.032Z",
+      "fetchMs": 2165
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -203,7 +205,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-10-19T04:22:26.574Z",
-      "fetchMs": 721
+      "fetchMs": 0
     },
     {
       "name": "Ideon Edison",
@@ -246,8 +248,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T04:22:27.116Z",
-      "fetchMs": 1262
+      "fetched": "2026-10-19T05:01:08.839Z",
+      "fetchMs": 925
     },
     {
       "name": "Kantin",
@@ -289,8 +291,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T04:22:27.243Z",
-      "fetchMs": 1388
+      "fetched": "2026-10-19T05:01:08.891Z",
+      "fetchMs": 976
     },
     {
       "name": "Medicon Village / Inspira",
@@ -337,8 +339,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T04:22:27.249Z",
-      "fetchMs": 1393
+      "fetched": "2026-10-19T05:01:08.990Z",
+      "fetchMs": 1073
     },
     {
       "name": "Salads and Smoothies",
@@ -529,7 +531,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-10-19T04:22:27.600Z",
-      "fetchMs": 1742
+      "fetchMs": 0
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -567,8 +569,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T04:22:27.951Z",
-      "fetchMs": 2092
+      "fetched": "2026-10-19T05:01:09.597Z",
+      "fetchMs": 1678
     },
     {
       "name": "Troppo",
@@ -612,14 +614,9 @@
       "status": "live",
       "error": null,
       "fetched": "2026-10-19T04:22:27.228Z",
-      "fetchMs": 1366
+      "fetchMs": 0
     }
   ],
-  "errors": [
-    {
-      "name": "Eatery Lund",
-      "detail": "fetch failed"
-    }
-  ],
-  "updated": "2026-10-19T04:22:28.289Z"
+  "errors": [],
+  "updated": "2026-10-19T05:01:10.032Z"
 }
