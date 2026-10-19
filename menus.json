@@ -160,7 +160,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-10-19T05:01:10.032Z",
-      "fetchMs": 2165
+      "fetchMs": 0
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -248,8 +248,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T05:01:08.839Z",
-      "fetchMs": 925
+      "fetched": "2026-10-19T05:34:16.711Z",
+      "fetchMs": 664
     },
     {
       "name": "Kantin",
@@ -291,8 +291,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T05:01:08.891Z",
-      "fetchMs": 976
+      "fetched": "2026-10-19T05:34:16.703Z",
+      "fetchMs": 609
     },
     {
       "name": "Medicon Village / Inspira",
@@ -300,37 +300,37 @@
       "menu_url": "https://restauranginspira.se/",
       "days": [
         [
-          "Green | Dal makhani & basmatiris papadum & yoghurt smaksatt med indiska pickles",
-          "Local | Pannbiff av nötfärs lök | sky | rårörda lingon & kokt potatis",
-          "Asia | Thaicurry med kyckling jasminris | blomkål | groddar & koriander",
-          "World | kryddrostad Fläsksida grön tomat | syrad silverlök | jalapeñocrème & rostad potatis"
-        ],
-        [
-          "Green | Stekta äggnudlar grönsaker | jordnötssås & tempeh",
-          "Local | Friterad kolja remoulad | kokt potatis | citron & ärtor",
-          "Asia| Thaicurry med kyckling jasminris | blomkål | groddar & koriander",
-          "World | Clam chowder musslor | potatis | rökt sidfläsk | persilja & vitlöksbröd"
-        ],
-        [
-          "Green | Inspiras Paj med rotfrukter linser & Gruyère",
-          "Local | stekt Kycklingbröst potatisstomp | dragonbakad morot & smörad buljong",
-          "Asia | Pulled pork bao bun jasminris | picklad rödkål | groddar & sesammajonnäs",
-          "World | Clam chowder musslor | potatis | rökt sidfläsk | persilja & vitlöksbröd"
-        ],
-        [
-          "Green | Inspiras Pumpasoppa svarta bönor | marinerad fetaost & parmesanflarn",
-          "Local | Oxbringa & potatispuré rostade rotfrukter | pepparrotssås & persiljeolja",
-          "Asia | Pulled pork bao bun jasminris | picklad rödkål | groddar & sesammajonnäs",
-          "World | Chili på fläskbog bönor | ris | gräddfil | nachos & picklad chili"
-        ],
-        [
-          "Green | Indonesiska majsbiffar rissallad & chilisås",
-          "Local | Raggmunk & stekt fläsk rårörda lingon | äpple- och persiljesallad",
+          "Green | Tortellini med ricotta & spenat citronsås | bakad spetskål | nötter & friterad salvia",
+          "Local | Köttfärslimpa & svampsås jordärtskocka | palsternacka | rostad potatis & gelé",
           "Asia | Pad Thai på kyckling risnudlar | morot | groddar | lime & jordnötter",
           "World | Chili på fläskbog bönor | ris | gräddfil | nachos & picklad chili"
+        ],
+        [
+          "Green | Rödbetsbiffar fetaostcrème | rostad potatis & bakad lök",
+          "Local | Fiskgryta med musslor & räkor kokt potatis | fänkål & saffransaioli",
+          "Asia| Pad Thai med kyckling risnudlar | morot | groddar | lime & jordnötter",
+          "World | Bobotie basmatiris | chutney & isbergssallad"
+        ],
+        [
+          "Green | Panerad getost med potatis & selleripuré gulbetor | haricotsverts & rosmarinhonung",
+          "Local | Rostad kyckling majs | pumpa | linser | sky & rostad potatis",
+          "Asia | Kung Pao Chicken jasminris & broccoli",
+          "World | Bobotie basmatiris | chutney & isbergssallad"
+        ],
+        [
+          "Green | Frittata sallad på smörbönor & oliver | gremolata",
+          "Local | bakad & rostad karré gräddkokt kumminkål | äppelchutney & kokt potatis",
+          "Asia | Kung Pao Chicken jasminris & broccoli",
+          "World | Kyckling Tagine couscous | kryddig tomatsås | rostad mandel & zucchini"
+        ],
+        [
+          "Green | Linsbiff & rostad potatis tomat | kronärtskocka & basilikacrème",
+          "Local | Broströmmare mos | ärtor | rårörda lingon & brynt smör",
+          "Asia | Pho med kyckling & risnudlar Pak Choi | groddar & sojabönor",
+          "World | Kyckling Tagine couscous | kryddig tomatsås | rostad mandel & zucchini"
         ]
       ],
-      "week": 42,
+      "week": 43,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -339,8 +339,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T05:01:08.990Z",
-      "fetchMs": 1073
+      "fetched": "2026-10-19T05:34:16.812Z",
+      "fetchMs": 716
     },
     {
       "name": "Salads and Smoothies",
@@ -569,8 +569,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T05:01:09.597Z",
-      "fetchMs": 1678
+      "fetched": "2026-10-19T05:34:17.426Z",
+      "fetchMs": 1328
     },
     {
       "name": "Troppo",
@@ -618,5 +618,5 @@
     }
   ],
   "errors": [],
-  "updated": "2026-10-19T05:01:10.032Z"
+  "updated": "2026-10-19T05:34:17.426Z"
 }
