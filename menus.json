@@ -248,8 +248,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T05:34:16.711Z",
-      "fetchMs": 664
+      "fetched": "2026-10-19T06:06:17.325Z",
+      "fetchMs": 807
     },
     {
       "name": "Kantin",
@@ -291,8 +291,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T05:34:16.703Z",
-      "fetchMs": 609
+      "fetched": "2026-10-19T06:06:17.294Z",
+      "fetchMs": 635
     },
     {
       "name": "Medicon Village / Inspira",
@@ -340,7 +340,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-10-19T05:34:16.812Z",
-      "fetchMs": 716
+      "fetchMs": 0
     },
     {
       "name": "Salads and Smoothies",
@@ -569,8 +569,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T05:34:17.426Z",
-      "fetchMs": 1328
+      "fetched": "2026-10-19T06:06:18.668Z",
+      "fetchMs": 2007
     },
     {
       "name": "Troppo",
@@ -618,5 +618,5 @@
     }
   ],
   "errors": [],
-  "updated": "2026-10-19T05:34:17.426Z"
+  "updated": "2026-10-19T06:06:18.668Z"
 }
