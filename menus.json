@@ -248,8 +248,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T07:32:57.917Z",
-      "fetchMs": 943
+      "fetched": "2026-10-19T08:16:54.859Z",
+      "fetchMs": 918
     },
     {
       "name": "Kantin",
@@ -539,27 +539,27 @@
       "menu_url": "https://www.matstudiokungsmarken.se/lunch/",
       "days": [
         [
-          "Knäredkyckling med blåkornblomst, valnöt, päron och krasse",
-          "Veckans gröda: Rödbeta med blåkornblomst, valnöt, päron, brynt smör och krasse"
+          "Kotlettrad med champinjon, picklad pumpa, rostad pumpafrö och brytböna",
+          "Veckans gröda: Variation på pumpa med linser, vispad brieost och rostad brysselkål"
         ],
         [
-          "Laxpudding med brynt citronsmör, fänkål, dill och grönt äpple",
-          "Veckans gröda: Rödbeta med blåkornblomst, valnöt, päron, brynt smör och krasse"
+          "Västerbottensostbakad lax med broccoli, blåmussla och örtsmörsås",
+          "Veckans gröda: Variation på pumpa med linser, vispad brieost och rostad brysselkål"
         ],
         [
-          "Nattbakad fläskkarré med bao buns, chilimajonnäs, koriander, syltad rödlök, kimchi och marinerad gurksallad",
-          "Veckans gröda: Rödbeta med blåkornblomst, valnöt, päron, brynt smör och krasse"
+          "Fläskgryta med trattkantarell, dragon, varmrökt sidfläsk och smörbakad rotselleri",
+          "Veckans gröda: Variation på pumpa med linser, vispad brieost och rostad brysselkål"
         ],
         [
-          "Kålpudding med savoykål, rårörda lingon, potatispuré, sirapgräddsås och äpple",
-          "Veckans gröda: Rödbeta med blåkornblomst, valnöt, päron, brynt smör och krasse"
+          "“Kalops” på högrev med inlagd rödbeta, kokt potatis och persilja",
+          "Veckans gröda: Variation på pumpa med linser, vispad brieost och rostad brysselkål"
         ],
         [
-          "Oxstek med bearnaise, pommes frites med örtsalt och parmesan samt bakad tomat och bladgrönt",
-          "Veckans gröda: Rödbeta med blåkornblomst, valnöt, päron, brynt smör och krasse"
+          "Kycklingbröst från Knäred med råstekt potatis, soltorkad tomat, basilika och parmesan",
+          "Veckans gröda: Variation på pumpa med linser, vispad brieost och rostad brysselkål"
         ]
       ],
-      "week": 42,
+      "week": 43,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -569,8 +569,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T07:32:58.067Z",
-      "fetchMs": 1059
+      "fetched": "2026-10-19T08:16:55.153Z",
+      "fetchMs": 906
     },
     {
       "name": "Troppo",
@@ -618,5 +618,5 @@
     }
   ],
   "errors": [],
-  "updated": "2026-10-19T07:32:58.067Z"
+  "updated": "2026-10-19T08:16:55.153Z"
 }
