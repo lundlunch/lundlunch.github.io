@@ -248,8 +248,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T08:16:54.859Z",
-      "fetchMs": 918
+      "fetched": "2026-10-19T08:31:04.991Z",
+      "fetchMs": 597
     },
     {
       "name": "Kantin",
@@ -564,7 +564,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-10-19T08:16:55.153Z",
-      "fetchMs": 906
+      "fetchMs": 0
     },
     {
       "name": "Troppo",
@@ -612,5 +612,5 @@
     }
   ],
   "errors": [],
-  "updated": "2026-10-19T08:16:55.153Z"
+  "updated": "2026-10-19T08:31:04.991Z"
 }
