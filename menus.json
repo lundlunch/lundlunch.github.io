@@ -7,34 +7,34 @@
       "menu_url": "https://brickseatery.se/lunch",
       "days": [
         [
-          "Green: Chilirostad tzayprotein med jordnötssås, ris, chilirostade grönsaker, jordnötter och koriander",
-          "Local: Gräddstuvad pytt i panna med rödbetor, stekt ägg, kruspersilja och picklad lök",
-          "World wide: Kyckling med jordnötssås, ris, chilirostade grönsaker, jordnötter och koriander"
+          "Green: Blomkålssoppa med vitlöksbröd, rostad blomkål, greveost, rostade fröer, krasse och liten dessert",
+          "Local: Pannbiff med stekt lök, potatismos, timjansky, morot, rotselleri och persilja",
+          "World wide: Indisk curry med högrev, paprika, kikärtor, yoghurt ris och naanbröd"
         ],
         [
-          "Green: Spenat och ricottafylld ravioli med ostsås, champinjoner, bräserad purjolök och pangrattato",
-          "World wide: Nattbakad fläskkarre med chilimajonnäs, pickles, stekt ris, ingefära, krämigt ägg och sesam",
-          "Pizza: Mozzarella, tomatsås, lufttorkad skinka, champinjoner och ruccola"
+          "Green: Aranchinis (friterad risotto) med tomatsås, stekt svamp, spetskål, lagrad ost och torkade oliver",
+          "World wide: Nudelwok med kyckling, grönsaker, ostronsås, lime, krämigt ägg, chilirostade jordnötter och fisksås",
+          "Pizza: Mozzarella, tomatsås och tryffelsalami & basilika"
         ],
         [
-          "Green: Krispig friterad getost med tabbouleh, krämig salladsost, granatäpple, citron och kanderade valnötter",
-          "Local: Biff stroganoff med ris, champinjoner, ostronskivling, lök, saltgurka och vispad creme- fraiche",
-          "World wide: Pankostekt fiskfärsbiff med chili, limemajonnäs, kinakål, picklad rödkål, nori och broccoli",
-          "Pizza: Mozzarella, tomatsås, lufttorkad skinka, champinjoner och ruccola"
+          "Green: “Mapo tofu” med sojafärs, champinjoner, salladslök, chili, fermenterad chili och jasminris",
+          "Local: Stekt sill med potatismos, brynt smör och lingon",
+          "World wide: Tandoorikyckling med spenatgryta, kokosmjölk, ris, papadums och yoghurt",
+          "Pizza: Mozzarella, tomatsås och tryffelsalami & basilika"
         ],
         [
-          "Green: Indisk “palak paneer” med ris, tomatsallad, koriander, krämig ost och vitlöksnaanbröd",
-          "Local: Köttfärslimpa med gräddsås, potatismos, purjolök, morot, blomkål, svartvinbärsgele, krasse och kruspersilja",
-          "Pizza: Mozzarella, tomatsås, lufttorkad skinka, champinjoner och ruccola",
+          "Green: Okonomiyaki (japansk kål pannkaka), misomajonnäs, rostad lök, nori och ingefära",
+          "Local: Raggmunk med stekt fläsk, lingon, råkostsallad och senapsvinaigrette",
+          "Pizza: Mozzarella, tomatsås och tryffelsalami & basilika",
           "Äppelpaj: Vi bjuder våra lunchgäster på äppelpaj med grädde"
         ],
         [
-          "Green: Grönsakswok med stekt ägg, äggnudlar, jordnötter, böngroddar och chili",
-          "Local: Pepparstekt pluma med chimichurri, rostad paprikamajonnäs, vitlöksrostad potatis, romansallad och gröna bönor",
-          "World wide: Spicy beef med chili, ostronsås, ris, asiatisk råkostsallad och räkchips"
+          "Green: Tariks falafelrulle med blandad sås, isbergssallad, rödlök, tomat, fefferoni och persilja",
+          "Local: Pulled pork taco med bönor, chilimajonnäs, salsa, picklad rödlök, nachos och jalapeno",
+          "World wide: Ramen med kyckling, glasnudlar, räkchips, kål, svamp, ägg, vårlök och böngroddar"
         ]
       ],
-      "week": 42,
+      "week": 43,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -44,8 +44,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T09:04:47.531Z",
-      "fetchMs": 0
+      "fetched": "2026-10-19T04:22:26.670Z",
+      "fetchMs": 865
     },
     {
       "name": "Cafe Bryggan",
@@ -53,27 +53,27 @@
       "menu_url": "https://mersmak.me/vara-stallen/bryggan/",
       "days": [
         [
-          "Polenta med bakad blomkål, tomat-tryffelsallad, rucolacréme & rostad mandel",
-          "Stekt kycklingfilé med äpple, bakad morot, örtsås och kokt potatis"
+          "Marockansk grönsaksgryta med ris, rostade frön, yoghurt & spenat",
+          "Chicken steak med tomat-fänkålsbuljong, kronärtsskocka, potatisstomp & aioli"
         ],
         [
-          "Linsgryta med rostade cashewnötter, bulgur, yoghurt & marinerade vaxbönor",
-          "Sprödbakad kummel med kapris-dillcréme, gröna ärtor, kokt potatis och citron"
+          "Morot-fetabiff med stuvad spenat, ägg, kokt potatis, bakad palsternacka och solrosfrön",
+          "Pocherad sejfilé med vittvinssås, kokt potatis, citron, marinerade vaxbönor och spenat"
         ],
         [
-          "BBQ tempeh med matvetesallad, rostad broccoli, ädelostcréme och bönsallad",
-          "Nattbakad skinkstek med enbärsgräddsås, rosmarinpotatis & picklade rotfrukter"
+          "Ostgratinerad zucchini med risoni, bönsallad, gremolata & tomat-kaprissås",
+          "Fläskfilésauté med soja, champinjoner, bambuskott, jasminris och kimchirödkål"
         ],
         [
-          "Ratatouille med örtbakad spetskål, risonisallad, mozzarella & krutonger",
-          "Vildsvinsfärsbiff med chilisky, picklad rödlök, rostad potatis & cheddardressad sallad"
+          "Quorn i sötsyrlig dillsås med palsternacka, morot, kokt potatis & gulbetor",
+          "Rimmat kalkonbröst med kokt potatis, pepparrotssås och persiljemarinerade rotfrukter"
         ],
         [
-          "Selleri-västerbottensplätt med grönärtskompott, quinoa, dillolja, rostade valnötter & picklad lök",
-          "Pluma med tonkatsu-buljong, ris, krämig kålsallad med sesam, grön chili & sojabönor"
+          "Broccoli-fetapaj med marinerade belugalinser, tomat, rucola & pumpakärnor",
+          "Dansk sjömansbiff med portersky, brynt lök, råstekt potatis, persilja och saltgurka"
         ]
       ],
-      "week": 42,
+      "week": 43,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -83,8 +83,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T09:04:45.630Z",
-      "fetchMs": 0
+      "fetched": "2026-10-19T04:22:28.289Z",
+      "fetchMs": 2440
     },
     {
       "name": "Eatery Lund",
@@ -155,10 +155,10 @@
       "coffeeIncluded": true,
       "permanent": false,
       "source": "Official Pej menu",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "fetch failed",
       "fetched": "2026-10-12T08:48:59.020Z",
-      "fetchMs": 0
+      "fetchMs": 1225
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -166,36 +166,35 @@
       "menu_url": "https://www.smakapakina.se/meny",
       "days": [
         [
-          "1. Krispig saltade kyckling (盐酥鸡)",
-          "2. Peking fläskstrimlor (京酱肉丝)",
-          "3. Yuxiang aubergine (鱼香茄子)"
+          "1. General Tsos kyckling (左宗棠鸡)",
+          "2. Fläsk med grönabönor (四季豆炒肉)",
+          "3. Snabbstekt blomkål (干锅花菜)"
         ],
         [
-          "1. Gongbao kyckling (宫保鸡丁)",
-          "2. Sötsur kamben (糖醋排骨)",
-          "3. Kinakål med glasnudlar och vitlök sås (蒜蓉粉丝白菜)"
+          "1. Biff med tomat och ägg (番茄滑蛋牛肉)",
+          "2. Kryddig grillad kycklingvingar (辣烤鸡翅)",
+          "3. Snabbstekt spetskål (手撕包菜)"
         ],
         [
-          "1. Dongpo sidfläsk (东坡肉)",
-          "2. Yuxiang kyckling (鱼香鸡丝)",
-          "3. Bakad pumpa med saltad ankäggula (咸蛋黄焗南瓜)",
-          "4. Spenat med tofu (菠菜炒豆腐丝)"
+          "1. Rött bräserat sidfläsk (红烧肉)",
+          "2. Wokade kyckling med chili (双椒鸡丁)",
+          "3. Potatis med inlagd chili(泡椒土豆丝)",
+          "4. Mapo Tofu (麻婆豆腐)"
         ],
         [
-          "1. Bondes stekt fläsk (农家小炒肉)",
-          "2. Ångkokt fisk (清蒸鱼)",
-          "3. Snabbstekt pak choi med shitake",
-          "(香菇油菜)"
+          "1. Ångkokt fläsk med senapskål (梅菜扣肉)",
+          "2. Spicy pot mix (麻辣香锅)",
+          "3. Homestyle tofu (家常豆腐)"
         ],
         [
-          "1. Chili kyckling (辣子鸡)",
-          "2. Biff med ostronsås, gul lök och paprika (蚝油牛肉)",
-          "3. Snabbstekt champinjon (素炒口蘑)"
+          "1. Sötsur fläsk med anannas (菠萝古老肉)",
+          "2. Rött bräserat lammribs (红焖羊排)",
+          "3. Selleri med cashewnötter och liljalök (腰果百合西芹)"
         ]
       ],
-      "week": 42,
+      "week": 43,
       "year": null,
-      "date_label": "Måndag, 12 Oct",
+      "date_label": "Måndag, 19 Oct",
       "permanent": false,
       "originalLanguage": "sv",
       "coffeeIncluded": false,
@@ -203,8 +202,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T09:04:44.432Z",
-      "fetchMs": 0
+      "fetched": "2026-10-19T04:22:26.574Z",
+      "fetchMs": 721
     },
     {
       "name": "Ideon Edison",
@@ -212,32 +211,32 @@
       "menu_url": "https://restaurangedison.se/lunch/",
       "days": [
         [
-          "Green: Pumpastroganoff/ris/paprika/persilja",
-          "Local: Köttbullar/potatismos/lingon/pressgurka",
-          "World Wide: Kyckling/citron/oliv/fetaost"
+          "Green: Blomkålscurry/ris/picklad lök",
+          "Local: Pannbiff/stekt lök/potatisstomp/lingonsky",
+          "World Wide: Kyckling/rödcurry/ris/böngrodd"
         ],
         [
-          "Green: Bakad potatis/prästost/paprika/oliv",
-          "Local: Grillad karré/tryffelmajo/klyftpotatis",
-          "World Wide: Mex Lasagne/jalapeno/tomatsalsa/nachos"
+          "Green: Risotto/bakad pumpa/svamp/ruccola",
+          "Local: Fiskgryta/saffransaioli/brässerad fänkål",
+          "World Wide: Pulled pork/brioche/soja/ingefärsgurka"
         ],
         [
-          "Green: Svampbiff/gräddsås/rostade rotfrukter",
-          "Local: Stekt sill/brynt smör/lingon/rödlök",
-          "World Wide: Laab/fisksås/ris/krispiga grönsaker"
+          "Green: Ugnspannkaka/rökt rotselleri/färskost/lingon",
+          "Local: Kotlett/lökcreme/bakat äpple/krispig grönkål",
+          "World Wide: Panerad kyckling/jordnötssås/ris/gurkkimchi"
         ],
         [
-          "Green: Gnocchi/gorgonzola/broccoli/frö",
-          "Local: Schnitzel/rödvinssky/stekt potatis",
-          "World Wide: Chicken Orange/ris/haricotverts"
+          "Green: BetaBourguignon/potatispuré/syltlök/persilja",
+          "Local: Havets wallenberg/potatispuré/brynt dillsmör/ärtor",
+          "World Wide: FläskVindaloo/ris/rostad blomkål/chili"
         ],
         [
-          "Green: Tempurafriterade grönsaker/limemajo/ris",
-          "Local: Biffgryta/morot/grönpeppar",
-          "World Wide: Sichuanfläsk/svart bönsås/pakchoy"
+          "Green: Samosas/stekt ris/tzatziki",
+          "Local: Grillad kalv/3pepparmajo/pommes",
+          "World Wide: Pasta/skinksås/rostade grönsaker/lagrad ost"
         ]
       ],
-      "week": 42,
+      "week": 41,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -247,8 +246,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T09:04:47.123Z",
-      "fetchMs": 0
+      "fetched": "2026-10-19T04:22:27.116Z",
+      "fetchMs": 1262
     },
     {
       "name": "Kantin",
@@ -290,8 +289,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T09:04:47.380Z",
-      "fetchMs": 0
+      "fetched": "2026-10-19T04:22:27.243Z",
+      "fetchMs": 1388
     },
     {
       "name": "Medicon Village / Inspira",
@@ -338,8 +337,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T09:04:51.463Z",
-      "fetchMs": 0
+      "fetched": "2026-10-19T04:22:27.249Z",
+      "fetchMs": 1393
     },
     {
       "name": "Salads and Smoothies",
@@ -471,28 +470,30 @@
       "menu_url": "https://lokal4.se/lunchmeny/",
       "days": [
         [
-          "Oxbringa – pepparrot – kålrot",
-          "Brisket – horseradish – rutabaga",
-          "Veg: Stekt ris – tzay – ägg"
+          "Pasta Carbonara – parmesan – svartpeppar",
+          "Pasta Carbonara – parmesan – black pepper",
+          "Veg: Chili sin carne – smetana – saltgurka"
         ],
         [
-          "Kyckling – pumpa – mandel",
-          "Veg: Kikärtscurry – yoghurt – mynta"
+          "Kyckling – svampsås – gelé",
+          "Veg: Morotsbiff – tzatziki – rödbeta"
         ],
         [
-          "Fläskgryta – aprikos – rosmarin",
-          "Veg: Svamplasagne – tomat – ruccola"
+          "Veg: Fetaost – tomatsås – rödkål"
         ],
         [
-          "Sej – vitvinssås – morot",
-          "Veg: Arancini – blomkål – pumpafrö"
+          "Wallenbergare – lingon – ärtor",
+          "Veg: Gulasch – paprika – kummin",
+          "Gulasch – bell pepper – cumin"
         ],
         [
-          "Lasagne – tryffel – lagrad ost",
-          "Veg: Spenatpaj – morot – ostcreme"
+          "Spätta – remoulade – citron",
+          "Plaice – remoulade – lemon",
+          "Veg: Pulled oumph – creamy corn – salsa",
+          "Pulled oumph – creamy corn – salsa"
         ]
       ],
-      "week": 42,
+      "week": 43,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -501,23 +502,25 @@
         [
           null,
           null,
-          "Veg: Fried rice – tzay – egg"
+          "Veg: Chili sin carne – smetana – gherkin"
         ],
         [
-          "Chicken – pumpkin – almond",
-          "Veg: Chickpea curry – yoghurt – mint"
+          "Chicken – mushroom sauce – jelly",
+          "Veg: Carrot patties – tzatziki – beetroot"
         ],
         [
-          "Pork casserole – apricot – rosemary",
-          "Veg: Mushroom lasagna – tomato – arugula"
+          "Veg: Feta cheese – tomato sauce – red cabbage"
         ],
         [
-          "Saithe – white wine sauce – carrot",
-          "Veg: Veggie burger – gherkin – coleslaw"
+          "Wallenbergare – lingonberries – peas",
+          null,
+          null
         ],
         [
-          "Lasagne – truffle – cheese",
-          "Veg: Spinach pie – carrot – cheese creme"
+          null,
+          null,
+          null,
+          null
         ]
       ],
       "coffeeIncluded": true,
@@ -525,8 +528,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T09:04:51.774Z",
-      "fetchMs": 0
+      "fetched": "2026-10-19T04:22:27.600Z",
+      "fetchMs": 1742
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -564,8 +567,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T08:48:58.073Z",
-      "fetchMs": 0
+      "fetched": "2026-10-19T04:22:27.951Z",
+      "fetchMs": 2092
     },
     {
       "name": "Troppo",
@@ -573,32 +576,32 @@
       "menu_url": "https://www.troppo.se/lunch",
       "days": [
         [
-          "Char Sui Pork - Cantonese style BBQ pork, brown sauce, sesame, boiled egg, pak choi, choice of jasmine rice OR eggnoodles. (Chinese)",
-          "Chicken Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, chicken, rice & fried egg. (Thai)",
-          "VEG \"Chicken\" Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)"
+          "Kampong Style Hainanese Chicken - Rice steamed in chicken broth, tender chicken thigh, ginger, chili, garlic, cilantro, served with Kampong red sauce, chicken broth & fermented soybean/ginger dip - to keep you warm during the autumn chill. (Chinese)",
+          "Pad Thai Chicken - Stir-fried chicken, egg, tofu, garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, rice noodles, peanuts. (Thai)",
+          "VEG Pad Thai Double Style Tofu - Garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, choice to add an egg, peanuts. (Thai)"
         ],
         [
-          "Char Sui Pork - Cantonese style BBQ pork, brown sauce, sesame, boiled egg, pak choi, choice of jasmine rice OR eggnoodles. (Chinese)",
-          "Chicken Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, chicken, rice & fried egg. (Thai)",
-          "VEG \"Chicken\" Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)"
+          "Kampong Style Hainanese Chicken - Rice steamed in chicken broth, tender chicken thigh, ginger, chili, garlic, cilantro, served with Kampong red sauce, chicken broth & fermented soybean/ginger dip - to keep you warm during the autumn chill. (Chinese)",
+          "Pad Thai Chicken - Stir-fried chicken, egg, tofu, garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, rice noodles, peanuts. (Thai)",
+          "VEG Pad Thai Double Style Tofu - Garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, choice to add an egg, peanuts. (Thai)"
         ],
         [
-          "Char Sui Pork - Cantonese style BBQ pork, brown sauce, sesame, boiled egg, pak choi, choice of jasmine rice OR eggnoodles. (Chinese)",
-          "Chicken Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, chicken, rice & fried egg. (Thai)",
-          "VEG \"Chicken\" Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)"
+          "Kampong Style Hainanese Chicken - Rice steamed in chicken broth, tender chicken thigh, ginger, chili, garlic, cilantro, served with Kampong red sauce, chicken broth & fermented soybean/ginger dip - to keep you warm during the autumn chill. (Chinese)",
+          "Pad Thai Chicken - Stir-fried chicken, egg, tofu, garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, rice noodles, peanuts. (Thai)",
+          "VEG Pad Thai Double Style Tofu - Garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, choice to add an egg, peanuts. (Thai)"
         ],
         [
-          "Char Sui Pork - Cantonese style BBQ pork, brown sauce, sesame, boiled egg, pak choi, choice of jasmine rice OR eggnoodles. (Chinese)",
-          "Chicken Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, chicken, rice & fried egg. (Thai)",
-          "VEG \"Chicken\" Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)"
+          "Kampong Style Hainanese Chicken - Rice steamed in chicken broth, tender chicken thigh, ginger, chili, garlic, cilantro, served with Kampong red sauce, chicken broth & fermented soybean/ginger dip - to keep you warm during the autumn chill. (Chinese)",
+          "Pad Thai Chicken - Stir-fried chicken, egg, tofu, garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, rice noodles, peanuts. (Thai)",
+          "VEG Pad Thai Double Style Tofu - Garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, choice to add an egg, peanuts. (Thai)"
         ],
         [
-          "Char Sui Pork - Cantonese style BBQ pork, brown sauce, sesame, boiled egg, pak choi, choice of jasmine rice OR eggnoodles. (Chinese)",
-          "Chicken Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, chicken, rice & fried egg. (Thai)",
-          "VEG \"Chicken\" Stir-fry - curry paste, haricot verts, Thai basil, kaffir lime, soy protein, rice, choice to add a fried egg. (Thai)"
+          "Kampong Style Hainanese Chicken - Rice steamed in chicken broth, tender chicken thigh, ginger, chili, garlic, cilantro, served with Kampong red sauce, chicken broth & fermented soybean/ginger dip - to keep you warm during the autumn chill. (Chinese)",
+          "Pad Thai Chicken - Stir-fried chicken, egg, tofu, garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, rice noodles, peanuts. (Thai)",
+          "VEG Pad Thai Double Style Tofu - Garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, choice to add an egg, peanuts. (Thai)"
         ]
       ],
-      "week": 42,
+      "week": 43,
       "year": 2026,
       "date_label": null,
       "permanent": false,
@@ -608,10 +611,15 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-12T09:04:51.083Z",
-      "fetchMs": 0
+      "fetched": "2026-10-19T04:22:27.228Z",
+      "fetchMs": 1366
     }
   ],
-  "errors": [],
-  "updated": "2026-10-12T09:47:42.101Z"
+  "errors": [
+    {
+      "name": "Eatery Lund",
+      "detail": "fetch failed"
+    }
+  ],
+  "updated": "2026-10-19T04:22:28.289Z"
 }
