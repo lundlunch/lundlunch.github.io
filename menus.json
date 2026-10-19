@@ -248,8 +248,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T06:06:17.325Z",
-      "fetchMs": 807
+      "fetched": "2026-10-19T06:47:06.632Z",
+      "fetchMs": 1026
     },
     {
       "name": "Kantin",
@@ -257,42 +257,42 @@
       "menu_url": "https://www.kantinlund.se/",
       "days": [
         [
-          "Teriyakirostad fläsksida – pickles – kimchimajo – broccoli – ris – sesam – koriander",
-          "Veckans vegetariska: Rostad spetskål – sandefjordsås – pickles – rostad mandel – potatis – grana padano – örter",
+          "Pluma – het tomatsås – paprika – fetaost – ruccola – rostad lök – potatis",
+          "Veckans vegetariska: Gnocchi arrabiata – tomatsås – kronärtskocka – tomat – ruccola – frön – grana padano",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Jerk chicken – tomat & mangosalsa – chilimajo – pickles – friterad tortilla – ris",
-          "Veckans vegetariska: Rostad spetskål – sandefjordsås – pickles – rostad mandel – potatis – grana padano – örter",
+          "Sremska – dillpickle hot sauce – hjärtsallad – rostad lök – bakad tomat – potatis & senapsstomp",
+          "Veckans vegetariska: Gnocchi arrabiata – tomatsås – kronärtskocka – tomat – ruccola – frön – grana padano",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Örtstekt fläskfilé – rostade rotfrukter – pickles – rostad lök – kycklingsky – potatisstomp",
-          "Veckans vegetariska: Rostad spetskål – sandefjordsås – pickles – rostad mandel – potatis – grana padano – örter",
+          "Nattbakat högrev – aioli – bakad tomat – rostad potatis – bunt morot – salviasky",
+          "Veckans vegetariska: Gnocchi arrabiata – tomatsås – kronärtskocka – tomat – ruccola – frön – grana padano",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Oxtartar – persiljeaioli – rostad beta – kapris – silverlök – fröer – ruccola – grana padano",
-          "Veckans vegetariska: Rostad spetskål – sandefjordsås – pickles – rostad mandel – potatis – grana padano – örter",
+          "Oxtartar – tryffelaioli – potatiskrisp – grana padano – bakad tomat – silverlök – ruccola",
+          "Veckans vegetariska: Gnocchi arrabiata – tomatsås – kronärtskocka – tomat – ruccola – frön – grana padano",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Nattbakad Oxkind – salsa roja – svarta bönor – majskräm – syrad lök – friterad tortilla – potatis",
-          "Veckans vegetariska: Rostad spetskål – sandefjordsås – pickles – rostad mandel – potatis – grana padano – örter",
+          "Helstekt ryggbiff – chimichurrimajo – rostad sötpotatis – pickles – sky – rostad lök – hjärtsallad",
+          "Veckans vegetariska: Gnocchi arrabiata – tomatsås – kronärtskocka – tomat – ruccola – frön – grana padano",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ]
       ],
-      "week": 42,
+      "week": 43,
       "year": null,
-      "date_label": "Meny 12/10 – 16/10",
+      "date_label": "Meny 19/10 – 23/10",
       "permanent": false,
       "originalLanguage": "sv",
       "coffeeIncluded": true,
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T06:06:17.294Z",
-      "fetchMs": 635
+      "fetched": "2026-10-19T06:47:06.589Z",
+      "fetchMs": 808
     },
     {
       "name": "Medicon Village / Inspira",
@@ -569,8 +569,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T06:06:18.668Z",
-      "fetchMs": 2007
+      "fetched": "2026-10-19T06:47:07.201Z",
+      "fetchMs": 1418
     },
     {
       "name": "Troppo",
@@ -618,5 +618,5 @@
     }
   ],
   "errors": [],
-  "updated": "2026-10-19T06:06:18.668Z"
+  "updated": "2026-10-19T06:47:07.201Z"
 }
