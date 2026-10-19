@@ -473,7 +473,6 @@
       "days": [
         [
           "Pasta Carbonara – parmesan – svartpeppar",
-          "Pasta Carbonara – parmesan – black pepper",
           "Veg: Chili sin carne – smetana – saltgurka"
         ],
         [
@@ -485,14 +484,11 @@
         ],
         [
           "Wallenbergare – lingon – ärtor",
-          "Veg: Gulasch – paprika – kummin",
-          "Gulasch – bell pepper – cumin"
+          "Veg: Gulasch – paprika – kummin"
         ],
         [
           "Spätta – remoulade – citron",
-          "Plaice – remoulade – lemon",
-          "Veg: Pulled oumph – creamy corn – salsa",
-          "Pulled oumph – creamy corn – salsa"
+          "Veg: Pulled oumph – krämig majs – salsa"
         ]
       ],
       "week": 43,
@@ -502,8 +498,7 @@
       "originalLanguage": "sv",
       "days_en": [
         [
-          null,
-          null,
+          "Pasta Carbonara – parmesan – black pepper",
           "Veg: Chili sin carne – smetana – gherkin"
         ],
         [
@@ -515,14 +510,11 @@
         ],
         [
           "Wallenbergare – lingonberries – peas",
-          null,
-          null
+          "Veg: Gulasch – bell pepper – cumin"
         ],
         [
-          null,
-          null,
-          null,
-          null
+          "Plaice – remoulade – lemon",
+          "Veg: Pulled oumph – creamy corn – salsa"
         ]
       ],
       "coffeeIncluded": true,
