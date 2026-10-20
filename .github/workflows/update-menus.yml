@@ -4,6 +4,8 @@ on:
   schedule:
     # Monday 06:00–11:50 Europe/Stockholm, including DST changes.
     - cron: '*/10 4-10 * * 1'
+    # Friday 19:00 Europe/Stockholm (17 UTC summer, 18 UTC winter): Troppo only.
+    - cron: '0 17,18 * * 5'
 permissions:
   contents: write
   pages: write
@@ -15,20 +17,24 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: Check Monday Swedish-time window
+      - name: Check Swedish-time refresh window
         id: window
         env:
           EVENT_NAME: ${{ github.event_name }}
         run: |
-          if [ "$EVENT_NAME" != "schedule" ] || [ "$(TZ=Europe/Stockholm date +%u)" != "1" ]; then
+          day=$(TZ=Europe/Stockholm date +%u)
+          hour=$(TZ=Europe/Stockholm date +%H)
+          if [ "$EVENT_NAME" != "schedule" ]; then
             echo 'run=true' >> "$GITHUB_OUTPUT"
+            echo 'troppo_only=false' >> "$GITHUB_OUTPUT"
+          elif [ "$day" = "1" ] && [ "$hour" -ge 6 ] && [ "$hour" -lt 12 ]; then
+            echo 'run=true' >> "$GITHUB_OUTPUT"
+            echo 'troppo_only=false' >> "$GITHUB_OUTPUT"
+          elif [ "$day" = "5" ] && [ "$hour" = "19" ]; then
+            echo 'run=true' >> "$GITHUB_OUTPUT"
+            echo 'troppo_only=true' >> "$GITHUB_OUTPUT"
           else
-            hour=$(TZ=Europe/Stockholm date +%H)
-            if [ "$hour" -ge 6 ] && [ "$hour" -lt 12 ]; then
-              echo 'run=true' >> "$GITHUB_OUTPUT"
-            else
-              echo 'run=false' >> "$GITHUB_OUTPUT"
-            fi
+            echo 'run=false' >> "$GITHUB_OUTPUT"
           fi
       - uses: actions/checkout@v4
         if: steps.window.outputs.run == 'true'
@@ -37,6 +43,8 @@ jobs:
         with:
           node-version: '22'
       - if: steps.window.outputs.run == 'true'
+        env:
+          TROPPO_ONLY: ${{ steps.window.outputs.troppo_only }}
         run: node update-menus.mjs
       - if: steps.window.outputs.run == 'true'
         name: Save updated menus
