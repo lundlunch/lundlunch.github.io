@@ -572,33 +572,33 @@
       "menu_url": "https://www.troppo.se/lunch",
       "days": [
         [
-          "Kampong Style Hainanese Chicken - Rice steamed in chicken broth, tender chicken thigh, ginger, chili, garlic, cilantro, served with Kampong red sauce, chicken broth & fermented soybean/ginger dip - to keep you warm during the autumn chill. (Chinese)",
-          "Pad Thai Chicken - Stir-fried chicken, egg, tofu, garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, rice noodles, peanuts. (Thai)",
-          "VEG Pad Thai Double Style Tofu - Garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, choice to add an egg, peanuts. (Thai)"
+          "Masaman Curry - Overnight cooked chuck roll in Masaman curry, potatoes, pickled vegetables, peanuts, rice (Thai)",
+          "Hong Kong Egg Noodles - Stir-fried Hong Kong style egg noodles, minced cockerel meatballs, pak choi, carrot, fried egg (Chinese)",
+          "Five Spice Tofu - Five spice tofu stew, pak choi, shiitake, oringi mushrooms, rice (Chinese immigrant dish in south east Asia)"
         ],
         [
-          "Kampong Style Hainanese Chicken - Rice steamed in chicken broth, tender chicken thigh, ginger, chili, garlic, cilantro, served with Kampong red sauce, chicken broth & fermented soybean/ginger dip - to keep you warm during the autumn chill. (Chinese)",
-          "Pad Thai Chicken - Stir-fried chicken, egg, tofu, garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, rice noodles, peanuts. (Thai)",
-          "VEG Pad Thai Double Style Tofu - Garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, choice to add an egg, peanuts. (Thai)"
+          "Masaman Curry - Overnight cooked chuck roll in Masaman curry, potatoes, pickled vegetables, peanuts, rice (Thai)",
+          "Hong Kong Egg Noodles - Stir-fried Hong Kong style egg noodles, minced cockerel meatballs, pak choi, carrot, fried egg (Chinese)",
+          "Five Spice Tofu - Five spice tofu stew, pak choi, shiitake, oringi mushrooms, rice (Chinese immigrant dish in south east Asia)"
         ],
         [
-          "Kampong Style Hainanese Chicken - Rice steamed in chicken broth, tender chicken thigh, ginger, chili, garlic, cilantro, served with Kampong red sauce, chicken broth & fermented soybean/ginger dip - to keep you warm during the autumn chill. (Chinese)",
-          "Pad Thai Chicken - Stir-fried chicken, egg, tofu, garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, rice noodles, peanuts. (Thai)",
-          "VEG Pad Thai Double Style Tofu - Garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, choice to add an egg, peanuts. (Thai)"
+          "Masaman Curry - Overnight cooked chuck roll in Masaman curry, potatoes, pickled vegetables, peanuts, rice (Thai)",
+          "Hong Kong Egg Noodles - Stir-fried Hong Kong style egg noodles, minced cockerel meatballs, pak choi, carrot, fried egg (Chinese)",
+          "Five Spice Tofu - Five spice tofu stew, pak choi, shiitake, oringi mushrooms, rice (Chinese immigrant dish in south east Asia)"
         ],
         [
-          "Kampong Style Hainanese Chicken - Rice steamed in chicken broth, tender chicken thigh, ginger, chili, garlic, cilantro, served with Kampong red sauce, chicken broth & fermented soybean/ginger dip - to keep you warm during the autumn chill. (Chinese)",
-          "Pad Thai Chicken - Stir-fried chicken, egg, tofu, garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, rice noodles, peanuts. (Thai)",
-          "VEG Pad Thai Double Style Tofu - Garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, choice to add an egg, peanuts. (Thai)"
+          "Masaman Curry - Overnight cooked chuck roll in Masaman curry, potatoes, pickled vegetables, peanuts, rice (Thai)",
+          "Hong Kong Egg Noodles - Stir-fried Hong Kong style egg noodles, minced cockerel meatballs, pak choi, carrot, fried egg (Chinese)",
+          "Five Spice Tofu - Five spice tofu stew, pak choi, shiitake, oringi mushrooms, rice (Chinese immigrant dish in south east Asia)"
         ],
         [
-          "Kampong Style Hainanese Chicken - Rice steamed in chicken broth, tender chicken thigh, ginger, chili, garlic, cilantro, served with Kampong red sauce, chicken broth & fermented soybean/ginger dip - to keep you warm during the autumn chill. (Chinese)",
-          "Pad Thai Chicken - Stir-fried chicken, egg, tofu, garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, rice noodles, peanuts. (Thai)",
-          "VEG Pad Thai Double Style Tofu - Garlic chives, sweet dried daikon, beansprouts, home made tamarind sauce, choice to add an egg, peanuts. (Thai)"
+          "Masaman Curry - Overnight cooked chuck roll in Masaman curry, potatoes, pickled vegetables, peanuts, rice (Thai)",
+          "Hong Kong Egg Noodles - Stir-fried Hong Kong style egg noodles, minced cockerel meatballs, pak choi, carrot, fried egg (Chinese)",
+          "Five Spice Tofu - Five spice tofu stew, pak choi, shiitake, oringi mushrooms, rice (Chinese immigrant dish in south east Asia)"
         ]
       ],
       "week": 43,
-      "year": 2026,
+      "year": null,
       "date_label": null,
       "permanent": false,
       "originalLanguage": "en",
@@ -607,10 +607,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T04:22:27.228Z",
-      "fetchMs": 0
+      "fetched": "2026-10-23T17:21:12.027Z",
+      "fetchMs": 744
     }
   ],
   "errors": [],
-  "updated": "2026-10-19T09:26:34.405Z"
+  "updated": "2026-10-23T17:21:12.027Z"
 }
