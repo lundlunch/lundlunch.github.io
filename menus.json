@@ -594,10 +594,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-26T10:04:37.291Z",
-      "fetchMs": 410
+      "fetched": "2026-10-26T10:40:53.444Z",
+      "fetchMs": 246
     }
   ],
   "errors": [],
-  "updated": "2026-10-26T10:04:37.291Z"
+  "updated": "2026-10-26T10:40:53.444Z"
 }
