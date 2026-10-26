@@ -244,42 +244,42 @@
       "menu_url": "https://www.kantinlund.se/",
       "days": [
         [
-          "Pluma – het tomatsås – paprika – fetaost – ruccola – rostad lök – potatis",
-          "Veckans vegetariska: Gnocchi arrabiata – tomatsås – kronärtskocka – tomat – ruccola – frön – grana padano",
+          "Nattbakad karré – plommonsky – rostade rotfrukter – rosmarinmajo – potatis",
+          "Veckans vegetariska: Spicy miso ramen – nudlar – 63° ägg – tofu – morot – salladslök – groddar – koriander",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Sremska – dillpickle hot sauce – hjärtsallad – rostad lök – bakad tomat – potatis & senapsstomp",
-          "Veckans vegetariska: Gnocchi arrabiata – tomatsås – kronärtskocka – tomat – ruccola – frön – grana padano",
+          "Bakad Fläskläggsklubba – majskräm – bbq – pickles – grön chili – frömix – potatis",
+          "Veckans vegetariska: Spicy miso ramen – nudlar – 63° ägg – tofu – morot – salladslök – groddar – koriander",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Nattbakat högrev – aioli – bakad tomat – rostad potatis – bunt morot – salviasky",
-          "Veckans vegetariska: Gnocchi arrabiata – tomatsås – kronärtskocka – tomat – ruccola – frön – grana padano",
+          "Lasagne – ostsås – tomat – salsa verde – tomat – pickles – ruccola – frön",
+          "Veckans vegetariska: Spicy miso ramen – nudlar – 63° ägg – tofu – morot – salladslök – groddar – koriander",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Oxtartar – tryffelaioli – potatiskrisp – grana padano – bakad tomat – silverlök – ruccola",
-          "Veckans vegetariska: Gnocchi arrabiata – tomatsås – kronärtskocka – tomat – ruccola – frön – grana padano",
+          "Oxtartar – sremskamajo – rostad paprika – bakad lök – pickles – surdegskrutonger – persilja",
+          "Veckans vegetariska: Spicy miso ramen – nudlar – 63° ägg – tofu – morot – salladslök – groddar – koriander",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ],
         [
-          "Helstekt ryggbiff – chimichurrimajo – rostad sötpotatis – pickles – sky – rostad lök – hjärtsallad",
-          "Veckans vegetariska: Gnocchi arrabiata – tomatsås – kronärtskocka – tomat – ruccola – frön – grana padano",
+          "Brässerat högrev pozole – majs – paprika – smetana – mâche – koriander – potatis",
+          "Veckans vegetariska: Spicy miso ramen – nudlar – 63° ägg – tofu – morot – salladslök – groddar – koriander",
           "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
         ]
       ],
-      "week": 43,
+      "week": 44,
       "year": null,
-      "date_label": "Meny 19/10 – 23/10",
+      "date_label": "Meny 26/10 – 30/10",
       "permanent": false,
       "originalLanguage": "sv",
       "coffeeIncluded": true,
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-26T07:52:14.704Z",
-      "fetchMs": 896
+      "fetched": "2026-10-26T08:32:45.428Z",
+      "fetchMs": 968
     },
     {
       "name": "Medicon Village / Inspira",
@@ -594,10 +594,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-26T07:52:14.071Z",
-      "fetchMs": 134
+      "fetched": "2026-10-26T08:32:45.088Z",
+      "fetchMs": 426
     }
   ],
   "errors": [],
-  "updated": "2026-10-26T07:52:14.705Z"
+  "updated": "2026-10-26T08:32:45.428Z"
 }
