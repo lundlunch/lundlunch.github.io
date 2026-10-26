@@ -279,7 +279,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-10-26T08:32:45.428Z",
-      "fetchMs": 968
+      "fetchMs": 0
     },
     {
       "name": "Medicon Village / Inspira",
@@ -450,8 +450,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-19T08:56:35.195Z",
-      "fetchMs": 0
+      "fetched": "2026-10-26T09:19:49.336Z",
+      "fetchMs": 2531
     },
     {
       "name": "Lokal 4",
@@ -594,10 +594,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-26T08:32:45.088Z",
-      "fetchMs": 426
+      "fetched": "2026-10-26T09:19:47.054Z",
+      "fetchMs": 204
     }
   ],
   "errors": [],
-  "updated": "2026-10-26T08:32:45.428Z"
+  "updated": "2026-10-26T09:19:49.336Z"
 }
