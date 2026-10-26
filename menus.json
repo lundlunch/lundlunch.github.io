@@ -451,7 +451,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-10-26T09:19:49.336Z",
-      "fetchMs": 2531
+      "fetchMs": 0
     },
     {
       "name": "Lokal 4",
@@ -594,10 +594,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-26T09:19:47.054Z",
-      "fetchMs": 204
+      "fetched": "2026-10-26T10:04:37.291Z",
+      "fetchMs": 410
     }
   ],
   "errors": [],
-  "updated": "2026-10-26T09:19:49.336Z"
+  "updated": "2026-10-26T10:04:37.291Z"
 }
