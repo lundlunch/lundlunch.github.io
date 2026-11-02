@@ -84,7 +84,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-02T09:02:19.063Z",
-      "fetchMs": 3001
+      "fetchMs": 0
     },
     {
       "name": "Eatery Lund",
@@ -463,8 +463,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-10-26T09:19:49.336Z",
-      "fetchMs": 0
+      "fetched": "2026-11-02T10:04:04.106Z",
+      "fetchMs": 2888
     },
     {
       "name": "Lokal 4",
@@ -607,10 +607,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-02T09:02:16.428Z",
-      "fetchMs": 313
+      "fetched": "2026-11-02T10:04:01.414Z",
+      "fetchMs": 154
     }
   ],
   "errors": [],
-  "updated": "2026-11-02T09:02:19.063Z"
+  "updated": "2026-11-02T10:04:04.106Z"
 }
