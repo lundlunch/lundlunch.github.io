@@ -53,27 +53,27 @@
       "menu_url": "https://mersmak.me/vara-stallen/bryggan/",
       "days": [
         [
-          "Grönsaksfrittata med örtbakad spetskål, oliver, rostad paprikacréme & rucola",
-          "Stekt kycklingfilé med kokt ris, currysås, ingefärabakad morot & spetskål"
+          "Morot-zucchiniplätt med koriander-bönsalsa, fetaost, bulgur & chilipicklad gurka",
+          "Helstekt kalkonbröst med pepparsås, rostad potatis, råstekt blomkål & picklad rödlök"
         ],
         [
-          "Selleriplätt med rostade rödbetor, getostcréme, rucola, rostade hasselnötter & persiljequinoa",
-          "Bräserad fläsksida med chili-rosmarinäpple, rostad potatis, skysås och picklad rödkål"
+          "Vegetarisk kålmaja med lingon, dillpicklad gurka och kokt potatis",
+          "Örtstekt fläskkarré med skysås, chili-plommonkompott och rostad potatis"
         ],
         [
-          "Vegansk quinoa-spenattortelloni med caponata, rucola & pangrattata",
-          "Gulasch på fläskbog med kummin, persiljekvarg, saltgurka & potatisstomp"
+          "Karibisk grönsaksgryta med bönor, kokos, sötpotatis, quinoa & limeyoghurt",
+          "Nötfärsbiff med rostad potatis, kryddsmör, picklad pumpa, persilja och portersky"
         ],
         [
-          "Auberginegryta med kikärtor, citronyoghurt, couscous, pickles & dukkah",
-          "Sprödbakad kolja med skarpsås, gröna ärtor, citron och kokt potatis"
+          "Stekt gnocchi med rostade grönsaker, brynt smör, hasselnötter & riven padano",
+          "Rågstekt strömming med lingon, citron, potatispuré & rostad spetskål"
         ],
         [
-          "Soja-bönbiff med BBQ-sås, rostad paprika, romansallad, riven cheddar & örtpotatis",
-          "Wallenbergare med skirat smör, gröna ärtor, potatispuré, lingon och hackad persilja"
+          "Rostad blomkål, rökt tofu, persiljemayo, bakad rotselleri, bulgur & marinerad gråärta",
+          "Pankostekt kotlett med gröna ärtor, kapris, ansjovis, citron, rostad potatis och rödvinssky"
         ]
       ],
-      "week": 44,
+      "week": 45,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -81,10 +81,10 @@
       "coffeeIncluded": true,
       "price": "119 kr · Lunch card 110 kr · Student 105 kr",
       "source": "Restaurant website",
-      "status": "cached",
-      "error": "fetch failed",
-      "fetched": "2026-10-26T05:02:44.554Z",
-      "fetchMs": 1265
+      "status": "live",
+      "error": null,
+      "fetched": "2026-11-02T09:02:19.063Z",
+      "fetchMs": 3001
     },
     {
       "name": "Eatery Lund",
@@ -292,7 +292,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-02T08:04:52.909Z",
-      "fetchMs": 807
+      "fetchMs": 0
     },
     {
       "name": "Medicon Village / Inspira",
@@ -607,15 +607,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-02T08:04:52.643Z",
-      "fetchMs": 540
+      "fetched": "2026-11-02T09:02:16.428Z",
+      "fetchMs": 313
     }
   ],
-  "errors": [
-    {
-      "name": "Cafe Bryggan",
-      "detail": "fetch failed"
-    }
-  ],
-  "updated": "2026-11-02T08:04:53.334Z"
+  "errors": [],
+  "updated": "2026-11-02T09:02:19.063Z"
 }
