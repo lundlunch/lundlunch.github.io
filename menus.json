@@ -45,7 +45,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-02T05:42:51.322Z",
-      "fetchMs": 965
+      "fetchMs": 0
     },
     {
       "name": "Cafe Bryggan",
@@ -84,7 +84,7 @@
       "status": "cached",
       "error": "fetch failed",
       "fetched": "2026-10-26T05:02:44.554Z",
-      "fetchMs": 2129
+      "fetchMs": 965
     },
     {
       "name": "Eatery Lund",
@@ -160,7 +160,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-02T05:42:53.394Z",
-      "fetchMs": 3001
+      "fetchMs": 0
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -205,7 +205,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-02T05:42:51.159Z",
-      "fetchMs": 763
+      "fetchMs": 0
     },
     {
       "name": "Ideon Edison",
@@ -249,7 +249,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-02T05:42:51.977Z",
-      "fetchMs": 1581
+      "fetchMs": 0
     },
     {
       "name": "Kantin",
@@ -291,8 +291,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-02T05:42:51.788Z",
-      "fetchMs": 1392
+      "fetched": "2026-11-02T06:45:11.841Z",
+      "fetchMs": 586
     },
     {
       "name": "Medicon Village / Inspira",
@@ -340,7 +340,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-02T05:42:52.050Z",
-      "fetchMs": 1652
+      "fetchMs": 0
     },
     {
       "name": "Salads and Smoothies",
@@ -525,7 +525,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-02T05:42:52.396Z",
-      "fetchMs": 1998
+      "fetchMs": 0
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -564,7 +564,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-02T05:42:52.720Z",
-      "fetchMs": 2321
+      "fetchMs": 0
     },
     {
       "name": "Troppo",
@@ -607,8 +607,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-02T05:42:51.755Z",
-      "fetchMs": 1355
+      "fetched": "2026-11-02T06:45:11.512Z",
+      "fetchMs": 256
     }
   ],
   "errors": [
@@ -617,5 +617,5 @@
       "detail": "fetch failed"
     }
   ],
-  "updated": "2026-11-02T05:42:53.394Z"
+  "updated": "2026-11-02T06:45:12.175Z"
 }
