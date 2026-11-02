@@ -84,7 +84,7 @@
       "status": "cached",
       "error": "fetch failed",
       "fetched": "2026-10-26T05:02:44.554Z",
-      "fetchMs": 965
+      "fetchMs": 1265
     },
     {
       "name": "Eatery Lund",
@@ -257,42 +257,42 @@
       "menu_url": "https://www.kantinlund.se/",
       "days": [
         [
-          "Nattbakad karré – plommonsky – rostade rotfrukter – rosmarinmajo – potatis",
-          "Veckans vegetariska: Spicy miso ramen – nudlar – 63° ägg – tofu – morot – salladslök – groddar – koriander",
-          "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
+          "Ankbröst – friterad brysselkål – szechuansky – endive – linser – lök – potatis",
+          "Veckans vegetariska: Bakad spetskål – kronärtskockskräm – fetaost – rostade frön – pickles – gremolata – persilja",
+          "Månadens alternativ: Gulasch – nattbakat högrev – paprika – lök – smetana – potatis – persilja"
         ],
         [
-          "Bakad Fläskläggsklubba – majskräm – bbq – pickles – grön chili – frömix – potatis",
-          "Veckans vegetariska: Spicy miso ramen – nudlar – 63° ägg – tofu – morot – salladslök – groddar – koriander",
-          "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
+          "Teriyakibakad lax – jalapenohollandaise – blomkål – pickles – rostad potatis – ört",
+          "Veckans vegetariska: Bakad spetskål – kronärtskockskräm – fetaost – rostade frön – pickles – gremolata – persilja",
+          "Månadens alternativ: Gulasch – nattbakat högrev – paprika – lök – smetana – potatis – persilja"
         ],
         [
-          "Lasagne – ostsås – tomat – salsa verde – tomat – pickles – ruccola – frön",
-          "Veckans vegetariska: Spicy miso ramen – nudlar – 63° ägg – tofu – morot – salladslök – groddar – koriander",
-          "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
+          "Schnitzel – gochujang beurre blanc – vitkål – misomajo – sesam – ris – koriander",
+          "Veckans vegetariska: Bakad spetskål – kronärtskockskräm – fetaost – rostade frön – pickles – gremolata – persilja",
+          "Månadens alternativ: Gulasch – nattbakat högrev – paprika – lök – smetana – potatis – persilja"
         ],
         [
-          "Oxtartar – sremskamajo – rostad paprika – bakad lök – pickles – surdegskrutonger – persilja",
-          "Veckans vegetariska: Spicy miso ramen – nudlar – 63° ägg – tofu – morot – salladslök – groddar – koriander",
-          "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
+          "Oxtartar – kimcheemajo – rostad broccoli – picklad rättika – rostade sesamfrön – koriander",
+          "Veckans vegetariska: Bakad spetskål – kronärtskockskräm – fetaost – rostade frön – pickles – gremolata – persilja",
+          "Månadens alternativ: Gulasch – nattbakat högrev – paprika – lök – smetana – potatis – persilja"
         ],
         [
-          "Brässerat högrev pozole – majs – paprika – smetana – mâche – koriander – potatis",
-          "Veckans vegetariska: Spicy miso ramen – nudlar – 63° ägg – tofu – morot – salladslök – groddar – koriander",
-          "Månadens alternativ: Steak cheese sandwich – entrecôte – paprika – jalapeño – pepperjackost – dillpicklad gurka – silverlök – rostad lök – levain – ört"
+          "Kalv Tri-tip – rostad pumpapuré – potatis – skysås – salvia – pickles – jalapeño",
+          "Veckans vegetariska: Bakad spetskål – kronärtskockskräm – fetaost – rostade frön – pickles – gremolata – persilja",
+          "Månadens alternativ: Gulasch – nattbakat högrev – paprika – lök – smetana – potatis – persilja"
         ]
       ],
-      "week": 44,
+      "week": 45,
       "year": null,
-      "date_label": "Meny 26/10 – 30/10",
+      "date_label": "Meny 2/11 – 6/11",
       "permanent": false,
       "originalLanguage": "sv",
       "coffeeIncluded": true,
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-02T06:45:11.841Z",
-      "fetchMs": 586
+      "fetched": "2026-11-02T08:04:52.909Z",
+      "fetchMs": 807
     },
     {
       "name": "Medicon Village / Inspira",
@@ -607,8 +607,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-02T06:45:11.512Z",
-      "fetchMs": 256
+      "fetched": "2026-11-02T08:04:52.643Z",
+      "fetchMs": 540
     }
   ],
   "errors": [
@@ -617,5 +617,5 @@
       "detail": "fetch failed"
     }
   ],
-  "updated": "2026-11-02T06:45:12.175Z"
+  "updated": "2026-11-02T08:04:53.334Z"
 }
