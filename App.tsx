@@ -19,8 +19,14 @@ export default function Home(){
  const [current,setCurrent]=useState(weekOf(new Date(initial.updated)));
  async function load(){setBusy(true);setError('');try{
   const nonce=Date.now();
+  // Prefer the version published with GitHub Pages; raw.githubusercontent.com can serve stale CDN copies.
   const base='https://raw.githubusercontent.com/lundlunch/lundlunch.github.io/main/';
-  const [r,tr]=await Promise.all([fetch(base+'menus.json?t='+nonce,{cache:'no-store'}),fetch(base+'translations.json?t='+nonce,{cache:'no-store'})]);
+  const get=async(name:string)=>{
+   const local=await fetch('./'+name+'?v='+nonce,{cache:'no-store'}).catch(()=>null);
+   if(local?.ok)return local;
+   return fetch(base+name+'?v='+nonce,{cache:'no-store'});
+  };
+  const [r,tr]=await Promise.all([get('menus.json'),get('translations.json')]);
   if(!r.ok)throw Error('Unavailable');
   const next=await r.json();
   if(!Array.isArray(next.restaurants))throw Error('Invalid menu data');
