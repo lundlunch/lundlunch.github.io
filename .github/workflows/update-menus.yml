@@ -2,8 +2,9 @@ name: Update menus
 on:
   workflow_dispatch:
   schedule:
-    # Monday 06:00–11:50 Europe/Stockholm, including DST changes.
-    - cron: '*/10 4-10 * * 1'
+    # Monday every 10 minutes, staggered away from minute 0 to reduce scheduler congestion.
+    # UTC hours cover both Swedish summer and winter time; runtime guard selects 06:00–11:59.
+    - cron: '7,17,27,37,47,57 4-10 * * 1'
     # Friday 19:00 Europe/Stockholm (17 UTC summer, 18 UTC winter): Troppo only.
     - cron: '0 17,18 * * 5'
 permissions:
@@ -24,6 +25,7 @@ jobs:
         run: |
           day=$(TZ=Europe/Stockholm date +%u)
           hour=$(TZ=Europe/Stockholm date +%H)
+          echo "Event: $EVENT_NAME; UTC: $(date -u '+%Y-%m-%d %H:%M:%S'); Stockholm: $(TZ=Europe/Stockholm date '+%Y-%m-%d %H:%M:%S %Z'); weekday=$day hour=$hour"
           if [ "$EVENT_NAME" != "schedule" ]; then
             echo 'run=true' >> "$GITHUB_OUTPUT"
             echo 'troppo_only=false' >> "$GITHUB_OUTPUT"
@@ -36,6 +38,7 @@ jobs:
           else
             echo 'run=false' >> "$GITHUB_OUTPUT"
           fi
+          echo "Decision: $(cat "$GITHUB_OUTPUT" | tr '\n' ' ')"
       - uses: actions/checkout@v4
         if: steps.window.outputs.run == 'true'
       - if: steps.window.outputs.run == 'true'
