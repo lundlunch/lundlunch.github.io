@@ -12,6 +12,8 @@ on:
       - 'menu-language.ts'
       - 'translation-seeds.json'
       - 'initial-menus.json'
+      - 'menus.json'
+      - 'translations.json'
       - 'package.json'
       - 'vite.config.ts'
       - 'build-site.mjs'
