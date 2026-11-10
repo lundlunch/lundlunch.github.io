@@ -73,3 +73,25 @@ jobs:
           done
           echo 'Could not safely publish menu updates.' >&2
           exit 1
+
+  publish:
+    needs: update
+    if: needs.update.result == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install
+      - run: npm run build
+      - name: Prepare website
+        run: |
+          mkdir -p public_site
+          cp index.html index-*.js index-*.css menus.json translations.json public_site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public_site
+      - uses: actions/deploy-pages@v4
