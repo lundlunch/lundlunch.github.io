@@ -45,7 +45,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-09T08:35:57.015Z",
-      "fetchMs": 710
+      "fetchMs": 0
     },
     {
       "name": "Cafe Bryggan",
@@ -84,7 +84,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-09T08:35:58.881Z",
-      "fetchMs": 2539
+      "fetchMs": 0
     },
     {
       "name": "Eatery Lund",
@@ -160,7 +160,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-09T08:35:58.905Z",
-      "fetchMs": 2562
+      "fetchMs": 0
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -206,7 +206,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-09T08:35:56.931Z",
-      "fetchMs": 585
+      "fetchMs": 0
     },
     {
       "name": "Ideon Edison",
@@ -250,7 +250,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-09T08:35:57.489Z",
-      "fetchMs": 1142
+      "fetchMs": 0
     },
     {
       "name": "Kantin",
@@ -293,7 +293,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-09T08:35:57.608Z",
-      "fetchMs": 1261
+      "fetchMs": 0
     },
     {
       "name": "Medicon Village / Inspira",
@@ -339,7 +339,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-09T08:35:57.748Z",
-      "fetchMs": 1399
+      "fetchMs": 0
     },
     {
       "name": "Salads and Smoothies",
@@ -462,8 +462,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-02T10:04:04.106Z",
-      "fetchMs": 0
+      "fetched": "2026-11-10T10:04:21.539Z",
+      "fetchMs": 3202
     },
     {
       "name": "Lokal 4",
@@ -524,7 +524,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-09T08:35:58.052Z",
-      "fetchMs": 1703
+      "fetchMs": 0
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -563,7 +563,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-09T08:35:58.537Z",
-      "fetchMs": 2185
+      "fetchMs": 0
     },
     {
       "name": "Troppo",
@@ -606,10 +606,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-09T08:35:57.761Z",
-      "fetchMs": 1409
+      "fetched": "2026-11-10T10:04:18.553Z",
+      "fetchMs": 169
     }
   ],
   "errors": [],
-  "updated": "2026-11-09T08:35:58.905Z"
+  "updated": "2026-11-10T10:04:21.539Z"
 }
