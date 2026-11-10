@@ -304,12 +304,13 @@
           "Green | SötpotatisDal basmatiris & yoghurt smaksatt med indiska pickles",
           "Local | Pytt Bellman äggulekräm | rödbetor & persilja",
           "Asia | Kyckling Satay jordnötssås | jasminris & smashgurka",
-          "World | Saltimbocca saffransris | tomatsås | zucchini & oliver Mårtens Afton Tisdag",
+          "World | Saltimbocca saffransris | tomatsås | zucchini & oliver Mårtens Afton"
+        ],
+        [
           "Green | Stekt Pannoumi pumpapuré | svamp | grönkål & rostad potatis Mårtens Afton | Kalkonbröst & rödkål äppelkompott | Pommes Parisienne & sviskongräddsås",
           "Asia | Kyckling Satay jordnötssås | jasminris & smashgurka",
           "World | Fish & chips panerad fisk | pommes | tartarsås | citron & mushy peas"
         ],
-        [],
         [
           "Green | Lo Mein-nudlar Teriyaki | tofu & broccoli",
           "Local | Oxfärsbiff svampsås | rosenkål | rårörda lingon & rostad potatis",
@@ -338,8 +339,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-09T08:35:57.748Z",
-      "fetchMs": 0
+      "fetched": "2026-11-10T10:15:59.005Z",
+      "fetchMs": 938
     },
     {
       "name": "Salads and Smoothies",
@@ -606,10 +607,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-10T10:08:32.012Z",
-      "fetchMs": 292
+      "fetched": "2026-11-10T10:15:58.348Z",
+      "fetchMs": 248
     }
   ],
   "errors": [],
-  "updated": "2026-11-10T10:08:32.012Z"
+  "updated": "2026-11-10T10:15:59.005Z"
 }
