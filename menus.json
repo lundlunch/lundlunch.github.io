@@ -340,7 +340,7 @@
       "status": "live",
       "error": null,
       "fetched": "2026-11-10T10:15:59.005Z",
-      "fetchMs": 938
+      "fetchMs": 0
     },
     {
       "name": "Salads and Smoothies",
@@ -607,10 +607,10 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-10T10:15:58.348Z",
-      "fetchMs": 248
+      "fetched": "2026-11-10T10:19:31.689Z",
+      "fetchMs": 809
     }
   ],
   "errors": [],
-  "updated": "2026-11-10T10:15:59.005Z"
+  "updated": "2026-11-10T10:19:31.690Z"
 }
