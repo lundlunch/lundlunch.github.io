@@ -2,11 +2,12 @@ name: Update menus
 on:
   workflow_dispatch:
   schedule:
-    # Monday every 10 minutes, staggered away from minute 0 to reduce scheduler congestion.
-    # UTC hours cover both Swedish summer and winter time; runtime guard selects 06:00–11:59.
-    - cron: '7,17,27,37,47,57 4-10 * * 1'
-    # Friday 19:00 Europe/Stockholm (17 UTC summer, 18 UTC winter): Troppo only.
-    - cron: '0 17,18 * * 5'
+    # GitHub cron uses UTC. Cover both CET (UTC+1) and CEST (UTC+2).
+    # Stagger away from minute 0 and retry to tolerate delayed/dropped runs.
+    # Monday: Swedish morning 06:00–11:59; local-time guard below is authoritative.
+    - cron: '7,22,37,52 4-11 * * 1'
+    # Friday: Troppo after 19:00 Sweden time; allow delayed starts until 21:00.
+    - cron: '7,22,37,52 17-19 * * 5'
 permissions:
   contents: write
   pages: write
@@ -32,7 +33,7 @@ jobs:
           elif [ "$day" = "1" ] && [ "$hour" -ge 6 ] && [ "$hour" -lt 12 ]; then
             echo 'run=true' >> "$GITHUB_OUTPUT"
             echo 'troppo_only=false' >> "$GITHUB_OUTPUT"
-          elif [ "$day" = "5" ] && [ "$hour" = "19" ]; then
+          elif [ "$day" = "5" ] && [ "$hour" -ge 19 ] && [ "$hour" -lt 21 ]; then
             echo 'run=true' >> "$GITHUB_OUTPUT"
             echo 'troppo_only=true' >> "$GITHUB_OUTPUT"
           else
