@@ -7,34 +7,34 @@
       "menu_url": "https://brickseatery.se/lunch",
       "days": [
         [
-          "Green: Fylld pasta med citrongrädde, purjolök, gröna bönor och dragonolja",
-          "Local: Kyckling med svampsås, rostade rotfrukter, svartvinbärsgele, kål och persilja",
-          "World wide: Kreolsk gryta med kotlett, kryddig korv, grädde, paprika, cornichons, oliver, syltlök och ris"
+          "Green: Blomkålssoppa med stekta champinjoner, krasse, picklade senapsfrön, ostquesadillas och liten dessert",
+          "Local: Pasta med baconsås, creme-fraiche, chili, vitlök, lagrad ost och kruspersilja",
+          "World wide: Asiatisk kyckling/grönsaksbiff med stekt ris, grönsaker, limemajonnäs och gurksallad"
         ],
         [
-          "Green: Krispig risottobiff med tomatsås, zucchini, ruccola, krispig sallad och lagrad ost",
-          "World Wide: Sichuan chicken kung pao- kyckling, chili, ingefära, soja, grönsaker, jordnötter och ris",
-          "Pizza: Mozzarella, tomatsås, bacon, lök och svartpeppar"
+          "Green: Spenatlasagne med lagrad ost, tomat, oregano, romansallad och picklad rödlök",
+          "Local: Nattbakad fläskkarre med grönpepparsås, potatismos, svartvinbärsgele, morot och variation på gurka",
+          "Pizza: Mozzarella, tomatsås, pepperoni och chiliolja"
         ],
         [
-          "Green: Grönsaksbiff med wokade äggnudlar, grönsaker, sweet chili sås, koriander, ingefära och gurka",
-          "Local: Hjortgryta med potatismos, champinjoner, rotselleri, purjolök och krasse",
-          "World wide: Sesamstekt kungsfisk med chilirostad kål, ris, ostronsås, jordnötter och koriander",
-          "Pizza: Mozzarella, tomatsås, bacon, lök och svartpeppar"
+          "Green: Enchiladas fylld med bönor/paprika/lök, salsa, nachos och gräddfil",
+          "Local: Pytt i panna med rödbetor, stekt ägg, senapskräm, picklad rödlök och kruspersilja",
+          "World wide: Nattbakat högrev med ris, ostronsås, kimchi, stekt ägg, salladslök och jordnötter",
+          "Pizza: Mozzarella, tomatsås, pepperoni och chiliolja"
         ],
         [
-          "Green: Indisk “Aloo Gobi” med blomkål, potatis, kikärtor, grädde, naanbröd och chutney",
-          "Local: Stekt kycklingklubbfilé med dragonsås, potatismos, ärtor, picklad rödlök, morot och kruspersilja",
-          "Pizza: Mozzarella, tomatsås, bacon, lök och svartpeppar",
+          "Green: Indisk chana masala- kikärtscurry med ris, garam masala, gurkraita och papadums",
+          "Local: Friterad spätta med remouladsås, ärtor, citron, potatis, dill och fänkål",
+          "Pizza: Mozzarella, tomatsås, pepperoni och chiliolja",
           "Äppelpaj: Vi bjuder våra lunchgäster på äppelpaj med grädde"
         ],
         [
-          "Green: Grönsakswok med soja, vitlök, stjärnanis, chili, stekt ägg, pickles och sesam",
-          "Local: Matjessill med potatis, gräddfil, lök, ägg, pepparrot och brynt smör",
-          "World wide: Tonkatsu- japansk schnitzel med misomajonnäs, tonkatsusås, picklad rödkål, böngroddar och ris"
+          "Green: Lufsa (raggmunk i långpanna) med lingon, kål, citronfärskost, valnötter och brynt smör",
+          "Local: Chilistekt pluma med bearnaisesås, klyftpotatis, lökringar, persilja och citron",
+          "World wide: Indisk kycklinggryta med ris, papadums, paprika, yoghurt och koriander"
         ]
       ],
-      "week": 46,
+      "week": 47,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -44,8 +44,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-09T08:35:57.015Z",
-      "fetchMs": 0
+      "fetched": "2026-11-16T08:55:19.499Z",
+      "fetchMs": 637
     },
     {
       "name": "Cafe Bryggan",
@@ -53,27 +53,27 @@
       "menu_url": "https://mersmak.me/vara-stallen/bryggan/",
       "days": [
         [
-          "Saltbakad rotselleri med blomkålspuré, brynt smör, quinoa, dillsyrad kål och rostade frön",
-          "Chicken steak med kryddig tomatsås, sallad på spenat, mynta & persilja samt bulgur och kikärtsmash"
+          "Rostade rödbetor med bakat äpple, belugalinser, pumpafrö, bulgur & örtcréme",
+          "Kycklingbröst med bacon, svamp, timjan, rödvinssky & potatisstomp"
         ],
         [
-          "Quorn i sötsyrlig dillsås med kokt potatis och pepparbakad morot",
-          "Kalvfärslimpa med oliver, soltorkad tomat, örtsky, rucola & rostad potatis"
+          "Kokos-grönsakscurry med jasminris samt råkostsallad med ananas och cashewnötter",
+          "Lättrimmad kumminbakad kotlettrad med inlagd gurka, vinbärsgelé, rostad potatis & äpplevelouté"
         ],
         [
-          "Champinjoncrépes med rostad palsternacka, tryffelmayo, picklad pumpa och pumpafrön",
-          "Panerad kummelfilé med remoulade, picklad morot, citron & kokt potatis"
+          "Rostad broccoli med grönärtsstomp, citronyoghurt, quinoa, sotad purjolök & rostade solrosfrön",
+          "Pocherad sejfilé med persiljesås, hackat ägg, kokt potatis & picklad lök"
         ],
         [
-          "Zucchini-morotsplätt med risoni, soltorkad tomat, rostad broccoli, mozzarella & basilika-aioli",
-          "Boeuf bourgignone med bacon, champinjoner, potatisstomp och persilja"
+          "Teriyakinudlar med vårrullar, sojamarinerat ägg, picklad rödkål och sesamcréme",
+          "Fläskbog Stroganoff med skuren saltgurka, hackad persilja, smetana och kokt ris"
         ],
         [
-          "Bakad blomkål med bulgur, zucchini, kokt ägg, hasselnötsrouille och örtolja",
-          "Helstekt fläskkarre med cheddar-kålsallad, rostad majs, rosmarinpotatis & chilisky"
+          "Polenta med chili sin carne, tortillachips, sour cream och korianderrostad majs",
+          "Pepparstekt pluma med jasminris, kimchimarinerad råkost, rostade jordnötter & citrusbuljong"
         ]
       ],
-      "week": 46,
+      "week": 47,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -83,8 +83,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-09T08:35:58.881Z",
-      "fetchMs": 0
+      "fetched": "2026-11-16T08:55:22.391Z",
+      "fetchMs": 3481
     },
     {
       "name": "Eatery Lund",
@@ -92,75 +92,75 @@
       "menu_url": "https://menu.pej.io/ea/menus/lund",
       "days": [
         [
-          "Paprika- och vitlöksbakad kyckling — honungsstekt chorizo, rostad majssalsa, jalapeñomajonnäs och potatisklyftor med chili och koriander",
-          "Pankopanerad kummel — tartarsås, bakad morot samt kokt potatis med citron och dill",
-          "Krämig svamppasta — spenat, ruccolasallad, soltorkad tomat och lagrad ost"
+          "Nötfärs med söt soja — picklad rödkål och gurka, stekt ägg, jordnötter och jasminris",
+          "Basilikasej — tomatcrème, bakad broccoli och potatismos med rostad vitlök och lagrad ost",
+          "Gratinerad cannelloni med ricotta och spenat — svampsallad med riven ost och tomat"
         ],
         [
-          "Pannbiff — dijongräddsås, potatismos, rostad palsternacka och pressgurka",
-          "Sej masala — basmatiris med mynta och citronolja samt picklad blomkål i gurkmeja och koriander",
-          "Rostade betor med bakad getost — vitlökskräm, hasselnötter och linser, toppat med ruccola och pumpakärnor",
+          "Nattbakad karré — krämig svampsås, stekt potatis och vitlöksstekta gröna bönor",
+          "Bakad kungsfisk — pumpapuré, rostad spetskål, musselvelouté och kokt potatis",
+          "Lins- och sojabolognese — pesto, zucchini och linguine",
           "Sweet Tuesday — – vi bjuder på något sött till kaffet! 🍬"
         ],
         [
-          "Buffalo chicken — ostkräm med jalapeño, rostad potatis, coleslaw och picklad lök",
-          "Västerbottengratinerad kungsfisk — ört- och citronkräm, potatisstomp med gräslök samt brynt smör och dill",
-          "Halloumi stroganoff — sallad på gurka, chili och mynta, gräddfil och basmatiris"
+          "Kycklinggumbo — chorizo, rökt paprika, tomat och cajunkryddor, basmatiris med salladslök och örter",
+          "Pankopanerad kummel — ört- och äggkräm, dillgurka och kokt potatis",
+          "Potatisbullar — lättrökt pannoumi, rårörda lingon och keso"
         ],
         [
-          "Biffstroganoff — gräddfil, gurksallad, örttopping och basmatiris",
-          "Bakad sej — smörad tomatsås, rosmarinbakad palsternacka, citron, dill, fänkål och kokt potatis",
-          "Pad kra pao på vegofärs — thaibasilika, chili, ägg, picklade grönsaker och ris",
+          "Grillad kycklingsteak — chimichurri, rostad vitlöksaioli, honungsrostad morot och klyftpotatis",
+          "Bakad sej — kokos, röd curry, wokgrönsaker och ris",
+          "Rostad morotssoppa — kokos, curry, chili och ingefära",
           "Ärtsoppa — rimmad bog",
           "Pancake Thursday — – vi bjuder på pannkakor, lättvispad grädde och hemmagjord sylt! 🥞"
         ],
         [
-          "Timjan-, honungs- och sojamarinerad fläskfilé — krämig potatisgratäng, skysås och rotfruktssallad",
-          "Bakad sej — citrongräs, ingefära, morot, chili, kålsallad, sojadipp och krossade jordnötter",
-          "Pinsa — taleggio, pesto, rostade solroskärnor samt ruccola- och spenatsallad"
+          "Pulled pork — krämig majs, bacon, tortilla, bbq-sås och klyftpotatis",
+          "Fiskburgare — mangosalsa, picklad lök, kålsallad och pommes",
+          "Linsgryta med Oumph! — tomat, kokos, paprika, krispig polenta och ris"
         ]
       ],
       "days_en": [
         [
-          "Pepper and garlic baked chicken — honey-fried chorizo, roasted corn salsa, jalapeño mayonnaise and potato wedges with chili and coriander",
-          "Panko-breaded hake — tartare sauce, baked carrot and boiled potatoes with lemon and dill",
-          "Creamy mushroom pasta — spinach, rocket salad, sun-dried tomato and mature cheese"
+          "Sweet soy beef mince — pickled red cabbage and cucumber, fried egg, peanuts and jasmine rice",
+          "Basil pollock — tomato crème, baked broccoli and mashed potatoes with roasted garlic and aged cheese",
+          "Ricotta and spinach cannelloni — mushroom salad with grated cheese and tomato"
         ],
         [
-          "Beef patty — dijon cream sauce, mashed potatoes, roasted parsnip and pickled cucumber",
-          "Pollock masala — basmati rice with mint and lemon oil, pickled cauliflower in turmeric and coriander",
-          "Roasted beetroot with baked goat's cheese — garlic cream, hazelnuts and lentils, topped with rocket and pumpkin seeds",
+          "Slow-roasted pork neck — creamy mushroom sauce, fried potatoes and garlic-fried green beans",
+          "Baked redfish — pumpkin purée, roasted hispi cabbage, mussel velouté and boiled potatoes",
+          "Lentil and soy bolognese — pesto, courgette and linguine",
           "Sweet Tuesday — – we're treating you to something sweet with your coffee! 🍬"
         ],
         [
-          "Buffalo chicken — cheese cream with jalapeño, roasted potatoes, coleslaw and pickled onion",
-          "Redfish gratinated with Västerbotten cheese — herb and lemon cream, crushed potatoes with chives, browned butter and dill",
-          "Halloumi stroganoff — cucumber, chili and mint salad, sour cream and basmati rice"
+          "Chicken gumbo — chorizo, smoked paprika, tomato and Cajun spice, basmati rice with spring onion and herbs",
+          "Panko-crusted hake — herb and egg cream, dill cucumber and boiled potatoes",
+          "Swedish potato cakes — lightly smoked pannoumi cheese, lingonberries and cottage cheese"
         ],
         [
-          "Beef stroganoff — sour cream, cucumber salad, herb topping and basmati rice",
-          "Baked pollock — buttered tomato sauce, rosemary-baked parsnip, lemon, dill, fennel and boiled potatoes",
-          "Pad kra pao with soy mince — Thai basil, chili, egg, pickled vegetables and rice",
-          "Yellow pea soup — cured pork shoulder",
+          "Grilled chicken steak — chimichurri, roasted garlic aioli, honey-roasted carrot and potato wedges",
+          "Baked pollock — coconut, red curry, stir-fried vegetables and rice",
+          "Roasted carrot soup — coconut, curry, chilli and ginger",
+          "Swedish pea soup — lightly salted pork shoulder",
           "Pancake Thursday — – we're treating you to pancakes, lightly whipped cream and homemade jam! 🥞"
         ],
         [
-          "Thyme, honey and soy marinated pork tenderloin — creamy potato gratin, pan gravy and root vegetable salad",
-          "Baked pollock — lemongrass, ginger, carrot, chili, cabbage salad, soy dip and crushed peanuts",
-          "Pinsa — taleggio, pesto, roasted sunflower seeds and rocket and spinach salad"
+          "Pulled pork — creamy corn, bacon, tortilla, BBQ sauce and potato wedges",
+          "Fish burger — mango salsa, pickled onion, cabbage salad and fries",
+          "Lentil stew with Oumph! — tomato, coconut, pepper, crispy polenta and rice"
         ]
       ],
       "originalLanguage": "sv",
       "year": 2026,
-      "week": 46,
+      "week": 47,
       "price": "139 kr · Early bird 132 kr (11:00–11:30) · Eatery card: 10% off",
       "coffeeIncluded": true,
       "permanent": false,
       "source": "Official Pej menu",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-09T08:35:58.905Z",
-      "fetchMs": 0
+      "fetched": "2026-11-16T08:55:20.924Z",
+      "fetchMs": 2013
     },
     {
       "name": "Höjdpunkten / Smaka på Kina",
@@ -168,36 +168,35 @@
       "menu_url": "https://www.smakapakina.se/meny",
       "days": [
         [
-          "1.Krispig saltade kyckling (盐酥鸡)",
-          "2. Peking fläskstrimlor (京酱肉丝)",
-          "3. Yuxiang aubergine (鱼香茄子)"
+          "1. General Tsos kyckling (左宗棠鸡)",
+          "2. Fläsk med grönabönor (四季豆炒肉)",
+          "3. Snabbstekt blomkål (干锅花菜)"
         ],
         [
-          "1. Gongbao kyckling (宫保鸡丁)",
-          "2. Sötsur kamben (糖醋排骨)",
-          "3. Snabbstekd spetskål med glasnudlar (粉丝包菜)"
+          "1. Biff med tomat och ägg (番茄滑蛋牛肉)",
+          "2. Kryddig grillad kycklingvingar (辣烤鸡翅)",
+          "3. Snabbstekt spetskål (手撕包菜)"
         ],
         [
-          "1. Rött bräserat sidfläsk (红烧肉)",
-          "2. Kyckling med chili olja sås (口水鸡)",
-          "3. Bakad pumpa med saltad ankäggula (咸蛋黄焗南瓜)",
-          "4. Spenat med tofu (菠菜炒豆腐丝)"
+          "1. Dongpo sidfläsk (东坡肉)",
+          "2. Yuxiang kyckling (鱼香鸡丝)",
+          "3. Potatis med inlagd chili(泡椒土豆丝)",
+          "4. Mapo Tofu (麻婆豆腐)"
         ],
         [
-          "1. Bondes stekt fläsk (农家小炒肉)",
-          "2. Ångkokt fisk (清蒸鱼)",
-          "3. Snabbstekt pak choi med shitake",
-          "(香菇油菜)"
+          "1. Ångkokt fläsk med senapskål (梅菜扣肉)",
+          "2. Spicy pot mix (麻辣香锅)",
+          "3. Homestyle tofu (家常豆腐)"
         ],
         [
-          "1. Chili kyckling (辣子鸡)",
-          "2. Biff med ostronsås, gul lök och paprika (蚝油牛肉)",
-          "3. Snabbstekt champinjon (素炒口蘑)"
+          "1. Sötsur fläsk med anannas (菠萝古老肉)",
+          "2. Rött bräserat lammribs (红焖羊排)",
+          "3. Selleri med cashewnötter och liljalök (腰果百合西芹)"
         ]
       ],
-      "week": 46,
+      "week": 47,
       "year": null,
-      "date_label": "Måndag, 9 Nov",
+      "date_label": "Måndag, 16 Nov",
       "permanent": false,
       "originalLanguage": "sv",
       "coffeeIncluded": false,
@@ -205,8 +204,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-09T08:35:56.931Z",
-      "fetchMs": 0
+      "fetched": "2026-11-16T08:55:19.487Z",
+      "fetchMs": 573
     },
     {
       "name": "Ideon Edison",
@@ -214,32 +213,32 @@
       "menu_url": "https://restaurangedison.se/lunch/",
       "days": [
         [
-          "Green: Lufsa/lingon/brynt smör/rökt selleri",
-          "Local: Köttbullar/potatispuré/gräddsås/lingon",
-          "World Wide: Gulasch/gräddfil/saltgurka/ris"
+          "Green: Sötpotatiscurry/kokos/jordnöt/aubergine",
+          "Local: Panerad kolja/dillsås/morot/kokt potatis",
+          "World Wide: Chorizo/tomatsalsa/het paprikacreme/kryddbakad potatishalva"
         ],
         [
-          "Green: Spetskål/miso/päron/lime",
-          "Local: Krispig kotlett/skånsk potatis/rödvinssky",
-          "World Wide: ChickenBiryani/ärtor/morot/chili"
+          "Green: Tomatsoppa/risonisallad/örtcreme",
+          "Local: Stekt fläsk/löksås/lingon/bakad morot",
+          "World Wide: Burgare/baconmajo/brioche/silverlök"
         ],
         [
-          "Green: Lök-& cheddarpaj/örtcreme/fröer/maché",
-          "Local: Rimmad fisk/blomkålspuré/mandel",
-          "World Wide: Schnitzel/rödvinssky/haricotverts/örtsmör"
+          "Green: Lasagne/jordärtskocka/rotselleri/spenat",
+          "Local: Stekt sill/potatismos/brynt smör/rödlök",
+          "World Wide: Färslimpa/morotscreme/dragonsky"
         ],
         [
-          "Green: Panerad tofu/tartarsås/mushypeas",
-          "Local: Ärtsoppa/fläsk/senap/pannkaka",
-          "World Wide: ChickenTonkatsu/kålsallad/ris/koriander"
+          "Green: Böntaco/avokadocreme/chilipicklade grönsaker/nachos",
+          "Local: Karré/dijonsås/purjolökspotatis/grönkål",
+          "World Wide: Ostpanerad kyckling/saffransris/tomatsås/zucchini"
         ],
         [
-          "Green: Pumpagryta/belugalinser/kokos/purjolök",
-          "Local: Grillad fläskbog/stuvad kål/friterad skocka",
-          "World Wide: FishTaco/tortillabröd/chilimajo/mangosalsa"
+          "Green: Morotsbiff/rostad kål/potatis/dill- & vinägersky",
+          "Local: Pulled Beef/potatisstomp/pepparrotscreme/persilja",
+          "World Wide: Koreanskt fläsk/ris/sesam/salladsblad"
         ]
       ],
-      "week": 46,
+      "week": 47,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -249,8 +248,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-09T08:35:57.489Z",
-      "fetchMs": 0
+      "fetched": "2026-11-16T08:55:19.862Z",
+      "fetchMs": 946
     },
     {
       "name": "Kantin",
@@ -258,42 +257,42 @@
       "menu_url": "https://www.kantinlund.se/",
       "days": [
         [
-          "Kycklinglårfilé – potatis – parmesanmajo – tomat & löksallad – mozzarella – basilika",
-          "Veckans vegetariska: Linsgryta – sötpotatis – kokos – paprika – smetana – pickles – koriander",
+          "Chipotlerostad kyckling – örtaioli – syrad kål – friterad tortilla – rostad majs – potatis",
+          "Veckans vegetariska: Rostad bakad spetskål – pumpapuré – frön – röd jalapeño – fetaost – brysselkål – potatis",
           "Månadens alternativ: Gulasch – nattbakat högrev – paprika – lök – smetana – potatis – persilja"
         ],
         [
-          "Ramen – fläsksida – nudlar – salladslök – groddar – morot – 63° ägg – sojabönor – koriander",
-          "Veckans vegetariska: Linsgryta – sötpotatis – kokos – paprika – smetana – pickles – koriander",
+          "Sotad laxfilé – chilibeurre blanc – cashewnötter – lime – böngroddar – gurka – fänkål – potatis – sesam",
+          "Veckans vegetariska: Rostad bakad spetskål – pumpapuré – frön – röd jalapeño – fetaost – brysselkål – potatis",
           "Månadens alternativ: Gulasch – nattbakat högrev – paprika – lök – smetana – potatis – persilja"
         ],
         [
-          "Nattbakad oxkind – potatisstomp – rostad morot – syltlök – skysås – persilja",
-          "Veckans vegetariska: Linsgryta – sötpotatis – kokos – paprika – smetana – pickles – koriander",
+          "Nattbakad gris – morot- & misopuré – friterad grönkål – röd chili – rostad morot – potatis",
+          "Veckans vegetariska: Rostad bakad spetskål – pumpapuré – frön – röd jalapeño – fetaost – brysselkål – potatis",
           "Månadens alternativ: Gulasch – nattbakat högrev – paprika – lök – smetana – potatis – persilja"
         ],
         [
-          "Oxtartar – harissamajo – bakad tomat – blancherade bönor – pickles – potatiskrisp – örter",
-          "Veckans vegetariska: Linsgryta – sötpotatis – kokos – paprika – smetana – pickles – koriander",
+          "Oxtartar – jalapeñomajo – bakad paprika – picklad jalapeño & lök – friterad tortilla – koriander",
+          "Veckans vegetariska: Rostad bakad spetskål – pumpapuré – frön – röd jalapeño – fetaost – brysselkål – potatis",
           "Månadens alternativ: Gulasch – nattbakat högrev – paprika – lök – smetana – potatis – persilja"
         ],
         [
-          "Nattabakad oxbringa – rostad sötpotatis – coleslaw – pickles – bbqsås – örter",
-          "Veckans vegetariska: Linsgryta – sötpotatis – kokos – paprika – smetana – pickles – koriander",
+          "Skirtsteak – klyftpotatis – chilimajo – rostade haricot verts – skysås – pickles – örter",
+          "Veckans vegetariska: Rostad bakad spetskål – pumpapuré – frön – röd jalapeño – fetaost – brysselkål – potatis",
           "Månadens alternativ: Gulasch – nattbakat högrev – paprika – lök – smetana – potatis – persilja"
         ]
       ],
-      "week": 46,
+      "week": 47,
       "year": null,
-      "date_label": "Meny 9/11 – 13/11",
+      "date_label": "Meny 16/11 – 20/11",
       "permanent": false,
       "originalLanguage": "sv",
       "coffeeIncluded": true,
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-09T08:35:57.608Z",
-      "fetchMs": 0
+      "fetched": "2026-11-16T08:55:19.881Z",
+      "fetchMs": 963
     },
     {
       "name": "Medicon Village / Inspira",
@@ -301,36 +300,37 @@
       "menu_url": "https://restauranginspira.se/",
       "days": [
         [
-          "Green | SötpotatisDal basmatiris & yoghurt smaksatt med indiska pickles",
-          "Local | Pytt Bellman äggulekräm | rödbetor & persilja",
-          "Asia | Kyckling Satay jordnötssås | jasminris & smashgurka",
-          "World | Saltimbocca saffransris | tomatsås | zucchini & oliver Mårtens Afton"
-        ],
-        [
-          "Green | Stekt Pannoumi pumpapuré | svamp | grönkål & rostad potatis Mårtens Afton | Kalkonbröst & rödkål äppelkompott | Pommes Parisienne & sviskongräddsås",
-          "Asia | Kyckling Satay jordnötssås | jasminris & smashgurka",
-          "World | Fish & chips panerad fisk | pommes | tartarsås | citron & mushy peas"
-        ],
-        [
-          "Green | Lo Mein-nudlar Teriyaki | tofu & broccoli",
-          "Local | Oxfärsbiff svampsås | rosenkål | rårörda lingon & rostad potatis",
-          "Asia | Tonkatsu curry jasminris | kålsallad & koriander",
-          "World | Fish & chips panerad fisk | pommes | tartarsås | citron & mushy peas"
-        ],
-        [
-          "Green | Huevos Rancheros ris & picklad chili",
-          "Local | Kyckling i currysås ris | äppel & spetskålssallad",
-          "Asia | Tonkatsu curry jasminris | kålsallad & koriander",
-          "World | Inspiras BBQ-karré gräddkokt majs | klyftpotatis & pickles"
-        ],
-        [
-          "Green | Vegetarisk lasagne tomatsallad & lagrad ost",
-          "Local | Pluma & bearnaisesås haricotsverts | rostad potatis & grilltomat",
+          "Green | Röd linsdhal aloo gobi & yoghurt",
+          "Local | Rostad kyckling & potatismos smörad dragonbuljong & palsternacka",
           "Asia | Pad kra pao med nötfärs jasminris | thaibasilika & stekt ägg",
-          "World | Inspiras BBQ-karré gräddkokt majs | klyftpotatis & pickles"
+          "World | BBQ-karré gräddkokt majs | klyftpotatis & pickles"
+        ],
+        [
+          "Green | Pepparrotsrisotto bakade rödbetor | rostad mandel & örtolja",
+          "Local | Rödtunga & Sandefjordsås bakad fänkål | kokt potatis & dill",
+          "Asia | Pad kra pao med nötfärs jasminris | thaibasilika & stekt ägg",
+          "World | Italiensk färsbiff Sobrasada tagliatelle | tomatsås med sobrasada | oliver | kronärtskocka & lagrad ost"
+        ],
+        [
+          "Green | Cachupa (Kap Verde) majs | bönor | potatis | zucchini | cashewnötter & liba",
+          "Local | Broströmmare mos | brynt smör | rårörda lingon & pressgurka",
+          "Asia | Butter chicken basmatiris | blomkål & myntayoghurt",
+          "World | Italiensk färsbiff Sobrasada tagliatelle | tomatsås med Sobrasada | oliver | kronärtskocka & lagrad ost"
+        ],
+        [
+          "Green | Paj med soltorkad tomat & oliver salviacrème & fänkålssallad",
+          "Local | Nattbakad karré selleripuré | rödvinssky | syltad morot & rostad potatis",
+          "Asia | Butter chicken basmatiris | blomkål & myntayoghurt",
+          "World | Kyckling Piccata sky med citron & kapris | rostad potatis & savojkål"
+        ],
+        [
+          "Green | Burgare med zucchinifritter karamelliserad lök | tryffelmayo | picklad kål & pommes",
+          "Local | Tri-tip coleslaw med avokado | jalapeño | chimichurri & rostad potatis",
+          "Asia | Hoisinglacerad grissida yakisoba & syltad ingefära",
+          "World | Kyckling Piccata sky med citron & kapris | rostad potatis & savojkål"
         ]
       ],
-      "week": 46,
+      "week": 47,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -339,8 +339,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-10T10:15:59.005Z",
-      "fetchMs": 0
+      "fetched": "2026-11-16T08:55:20.167Z",
+      "fetchMs": 1249
     },
     {
       "name": "Salads and Smoothies",
@@ -472,51 +472,51 @@
       "menu_url": "https://lokal4.se/lunchmeny/",
       "days": [
         [
-          "Kyckling– rödkål – BBQ sky",
-          "Veg: Fried rice – quorn – teriyaki"
+          "Fläskestek – rödkål – äpple",
+          "Veg: Morotsbiffar – rödbetstzatziki – persilja"
         ],
         [
-          "Salsiccia – tomat – smetana",
-          "Veg: Tacopaj – sojafärs – yoghurt"
+          "Viltskavsgryta – champinjon – vinbär",
+          "Veg: Arancini – rotfrukter – timjansky"
         ],
         [
-          "Köttbullar – gräddsås – lingon",
-          "Veg: Schnitzel – kryddsmör – gröna bönor"
+          "Örtagårdsstek – gelé – savoykål",
+          "Veg: Halloumipytt – ägg – senapscreme"
         ],
         [
-          "Fiskgryta – skaldjur – fänkål",
-          "Veg: Pasta Arrabiata – oliver – kapris"
+          "Kycklingwok – vattenkastanj – teriyaki",
+          "Veg: Majsfritters – jordärtskocka – jalapenodip"
         ],
         [
-          "Fransyska – öl – rödbetor",
-          "Veg: Broccolibiff – vitlökssky – mandel"
+          "Kolja – gubbröra – brynt smör",
+          "Veg: Svampcrepes – spenat – kikärtor"
         ]
       ],
-      "week": 46,
+      "week": 47,
       "year": null,
       "date_label": null,
       "permanent": false,
       "originalLanguage": "sv",
       "days_en": [
         [
-          "Chicken – red cabbage – BBQ gravy",
-          "Veg: Fried rice – quorn – teriyak"
+          "Pork roast – red cabbage – apple",
+          "Veg: Carrot patties- beetroot tzatziki – parsley"
         ],
         [
-          "Salsiccia – tomato – smetana",
-          "Veg: Taco pie – soy mince – yoghurt"
+          "Game stew – mushroom – currants",
+          "Veg: Arancini – rootcrops – thyme gravy"
         ],
         [
-          "Meatballs – cream sauce – lingonberries",
-          "Veg: Schnitzel – spiced butter – green beans"
+          "Herbroast – jelly – savoykål",
+          "Veg: Halloumi hash – egg – mustard creme"
         ],
         [
-          "Fish casserole – shell fish – fennel",
-          "Veg: Pasta Arrabiata – olives – capers"
+          "Chicken wok – water chestnut – teriyaki",
+          "Veg: Cornfritters – Jerusalem artichoke – jalapenodip"
         ],
         [
-          "Braised beef – beer – beetroot",
-          "Veg: Broccoli patties – garlic gravy – almond"
+          "Haddock – “egg and herring salad”- brown butter",
+          "Veg: Mushroom crepes – spinach – chick peas"
         ]
       ],
       "coffeeIncluded": true,
@@ -524,8 +524,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-09T08:35:58.052Z",
-      "fetchMs": 0
+      "fetched": "2026-11-16T08:55:20.291Z",
+      "fetchMs": 1371
     },
     {
       "name": "Matstudio Kungsmarken",
@@ -533,27 +533,27 @@
       "menu_url": "https://www.matstudiokungsmarken.se/lunch/",
       "days": [
         [
-          "Baconlindad köttfärslimpa med soltorkad tomat, fetaostcreme och bakad palsternacka",
-          "Veckans gröda: Gotlandslinser med tomat, fetaostcreme, palsternacka och svartkål"
+          "Fläskkarré med plommon, bacon, syltlök, rödkål och potatispuré",
+          "Veckans gröda: Rostad brysselkål med parmesan, burrata, färsk pasta och citron"
         ],
         [
-          "Bakad långa med soyapicklad morot, sesamemulsion, wasabismör och ärta",
-          "Veckans gröda: Gotlandslinser med tomat, fetaostcreme, palsternacka och svartkål"
+          "Rimmad torsk med jalapeno, gräddad musselbuljong, broccoli och zucchini",
+          "Veckans gröda: Rostad brysselkål med parmesan, burrata, färsk pasta och citron"
         ],
         [
-          "Högrevsgryta med potatispuré, inkokt lök, svartkål och sidfläsk",
-          "Veckans gröda: Gotlandslinser med tomat, fetaostcreme, palsternacka och svartkål"
+          "Kycklinglårfilé med kimchi, brysselkål, srirachamajonäs och stekt ris",
+          "Veckans gröda: Rostad brysselkål med parmesan, burrata, färsk pasta och citron"
         ],
         [
-          "Lårfilé av kalkon från Toftebo gård serveras med gräddig svampsås, creme på äpple samt nattbakad rotselleri",
-          "Veckans gröda: Gotlandslinser med tomat, fetaostcreme, palsternacka och svartkål"
+          "Viltlasagne med grönkål, äpple och pecorino",
+          "Veckans gröda: Rostad brysselkål med parmesan, burrata, färsk pasta och citron"
         ],
         [
-          "Slaktarbiff med kryddsmör, bakad spetskål och parmesanslungad potatis",
-          "Veckans gröda: Gotlandslinser med tomat, fetaostcreme, palsternacka och svartkål"
+          "Nattbakat varmrökt sidfläsk med vreta gulärt, brynt salvia grädde, shiitake svamp och morot",
+          "Veckans gröda: Rostad brysselkål med parmesan, burrata, färsk pasta och citron"
         ]
       ],
-      "week": 46,
+      "week": 47,
       "year": null,
       "date_label": null,
       "permanent": false,
@@ -563,8 +563,8 @@
       "source": "Restaurant website",
       "status": "live",
       "error": null,
-      "fetched": "2026-11-09T08:35:58.537Z",
-      "fetchMs": 0
+      "fetched": "2026-11-16T08:55:20.738Z",
+      "fetchMs": 1817
     },
     {
       "name": "Troppo",
@@ -605,12 +605,17 @@
       "coffeeIncluded": true,
       "price": "Lunch 159-169kr",
       "source": "Restaurant website",
-      "status": "live",
-      "error": null,
+      "status": "cached",
+      "error": "Troppo dish titles not found.",
       "fetched": "2026-11-10T10:19:31.689Z",
-      "fetchMs": 809
+      "fetchMs": 1073
     }
   ],
-  "errors": [],
-  "updated": "2026-11-10T10:19:31.690Z"
+  "errors": [
+    {
+      "name": "Troppo",
+      "detail": "Troppo dish titles not found."
+    }
+  ],
+  "updated": "2026-11-16T08:55:22.391Z"
 }
