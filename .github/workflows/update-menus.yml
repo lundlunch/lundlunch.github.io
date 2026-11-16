@@ -1,10 +1,12 @@
 name: Update menus
 on:
   workflow_dispatch:
+    inputs:
+      external_schedule:
+        description: 'Apply Swedish-time schedule guard (for external scheduler)'
+        type: boolean
+        default: false
   schedule:
-    # TEMPORARY diagnostic: verify GitHub scheduled dispatch every 10 minutes.
-    # The existing Swedish-time guard prevents off-hours scraping.
-    - cron: '3,13,23,33,43,53 * * * *'
     # GitHub cron uses UTC. Cover both CET (UTC+1) and CEST (UTC+2).
     # Stagger away from minute 0 and retry to tolerate delayed/dropped runs.
     # Monday: Swedish morning 06:00–11:59; local-time guard below is authoritative.
@@ -26,11 +28,12 @@ jobs:
         id: window
         env:
           EVENT_NAME: ${{ github.event_name }}
+          EXTERNAL_SCHEDULE: ${{ inputs.external_schedule }}
         run: |
           day=$(TZ=Europe/Stockholm date +%u)
           hour=$(TZ=Europe/Stockholm date +%H)
           echo "Event: $EVENT_NAME; UTC: $(date -u '+%Y-%m-%d %H:%M:%S'); Stockholm: $(TZ=Europe/Stockholm date '+%Y-%m-%d %H:%M:%S %Z'); weekday=$day hour=$hour"
-          if [ "$EVENT_NAME" != "schedule" ]; then
+          if [ "$EVENT_NAME" = "workflow_dispatch" ] && [ "$EXTERNAL_SCHEDULE" != "true" ]; then
             echo 'run=true' >> "$GITHUB_OUTPUT"
             echo 'troppo_only=false' >> "$GITHUB_OUTPUT"
           elif [ "$day" = "1" ] && [ "$hour" -ge 6 ] && [ "$hour" -lt 12 ]; then
